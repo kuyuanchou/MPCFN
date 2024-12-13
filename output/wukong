@@ -1,0 +1,11 @@
+10 epoch, 1e-05, 8, 0.6, similar=True, fusion=True
+              precision    recall  f1-score   support
+
+         GPE     0.8535    0.8641    0.8588      1854
+         LOC     0.6340    0.6721    0.6525       366
+         ORG     0.7544    0.7571    0.7558      1684
+         PER     0.8715    0.8831    0.8773      2088
+
+   micro avg     0.8182    0.8289    0.8235      5992
+   macro avg     0.7784    0.7941    0.7861      5992
+weighted avg     0.8185    0.8289    0.8237      5992

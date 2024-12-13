@@ -1,0 +1,12 @@
+50 epoch, 3e-05, 8, 0.3, similar=True, fusion=True
+              precision    recall  f1-score   support
+
+         LOC     0.8222    0.8640    0.8426      1750
+        MISC     0.4894    0.3997    0.4400       748
+         ORG     0.6901    0.6065    0.6456       859
+         PER     0.8381    0.8947    0.8654      1880
+           _     0.0000    0.0000    0.0000         0
+
+   micro avg     0.7684    0.7665    0.7674      5237
+   macro avg     0.5679    0.5530    0.5587      5237
+weighted avg     0.7587    0.7665    0.7610      5237

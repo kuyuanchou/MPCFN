@@ -1,0 +1,2892 @@
+citifield fan view : rt @ jehnnybgoode what a gorgeous day for baseball! stuck in that saturdaze. # newyorkmets vs # sa …
+B-LOC O O O O O X O O O O O O O O O O O O O X O B-ORG X X
+B-LOC O O O O O B-PER O O O O O O O O O O O O O B-ORG O O O O
+
+just used my pass master on wayne rooney on @ ultimatefanlive for # mufc vs # afcb
+O O O O O O B-PER I-PER O O X O B-ORG X O B-ORG X
+O O O O O O B-PER I-PER O O O O O B-ORG O O B-ORG
+
+lady gaga out and about in nyc. ( may, 2 nd )
+B-PER I-PER O O O O B-LOC O O O O O O O
+B-PER I-PER O O O O B-LOC O O O O O O O
+
+radiohead offers old and new at first concert in four years...
+B-ORG O O O O O O O O O O O O O
+B-PER O O O O O O O O O O O O O
+
+lebron james has once again set himself up to have an other - worldly nba finals
+B-PER I-PER O O O O O O O O O O X X B-MISC I-MISC
+B-PER I-PER O O O O O O O O O O O O B-ORG O
+
+the best daytime looks from the 2016 cannes film festival
+O O O O O O O B-MISC I-MISC I-MISC
+O O O O O O O B-MISC I-MISC I-MISC
+
+i'll make sure i'll leave a shoe so big that not even a size 13 basketballer can fill..
+O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O
+
+twice go unnoticed in times square during " tt " cover performance
+O O O O B-LOC I-LOC O O O O O O
+B-PER O O O B-LOC I-LOC O O B-MISC O O O
+
+ew moon : how i got over the trauma of seeing kim kardashian's bare ass. # removealetterspoilabook
+O I-PER O O O O O O O O O B-PER I-PER O O O O O O X
+O O O O O O O O O O O B-PER I-PER O O O O O O O
+
+remember when taylor lautner was in the gotta be you music video
+O O B-PER I-PER O O O O I-MISC I-MISC O O
+O O B-PER I-PER O O O B-MISC I-MISC I-MISC O O
+
+golden state warriors enjoy nba title trophy parade : oakland, california was a sea o..
+B-ORG I-ORG O O B-MISC O O O O B-LOC O B-LOC O O O O O O
+B-ORG I-ORG I-ORG O B-ORG O O O O B-LOC O B-LOC O O O O O O
+
+mark ronson talked working with lady gaga, hoping to put it out the album " by year - end ". # lg5
+B-PER I-PER O O O B-PER I-PER O O O O O O O O O O O X X O O O X
+B-PER I-PER O O O B-PER I-PER O O O O O O O O O O O O O O O O O
+
+swansea 3 - 1 liverpool. ayew helped @ swansofficial ensure # bpl football next term. report :
+B-ORG O X X B-ORG O B-PER O O X O B-ORG X O O O O O O
+B-ORG O O O B-ORG O B-PER O O B-ORG O O O O O O O O O
+
+david gilmour and roger waters playing table football.
+B-PER I-PER O B-PER I-PER O O O O
+B-PER I-PER O B-PER I-PER O O O O
+
+congratulations to ascot aces, who won a 25 team fa festival tournament in the beautifull sunshine today..
+O O B-ORG I-ORG O O O O O O B-MISC I-MISC O O O O O O O O
+O O B-ORG I-ORG O O O O O O O O O O O O O O O O
+
+captain america : civil war's sebastian stan looks a lot like the young luke skywalker.
+B-MISC I-PER O I-MISC I-MISC O O B-PER I-PER O O O O O O B-PER I-PER O
+B-MISC I-MISC I-MISC I-MISC I-MISC O O B-PER I-PER O O O O O O B-PER I-PER O
+
+donald trump's new media target : jeff bezos'washington post :
+B-PER I-PER O O O O O O B-PER I-PER O B-ORG I-ORG O
+B-PER I-PER O O O O O O B-PER I-PER O B-ORG I-ORG O
+
+# bretteldredge : 2016 iheartcountry festival at the frank erwin center - press room
+O X O O B-MISC I-MISC O O B-LOC I-LOC I-LOC X X I-LOC
+O O O O B-MISC I-MISC O O B-ORG I-ORG I-ORG O O O
+
+may 13 : happy birthday, robert pattinson! he played cedric diggory in the # harrypotter films.
+O O O O O O B-PER I-PER O O O B-PER I-PER O O O X O O
+O O O O O O B-PER I-PER O O O B-PER I-PER O O O B-MISC O O
+
+girona promoted to la liga
+B-LOC O O B-MISC I-MISC
+B-ORG O O B-ORG I-ORG
+
+breaking : sherif joe arpaio found in contempt of the court, on racial profiling case. @ ap :
+O O B-PER I-PER I-PER O O O O O O O O O O O O O X O
+O O O B-PER I-PER O O O O O O O O O O O O O B-ORG O
+
+twin cities pride : unmarked squad will still lead pride parade, but officers can march
+B-LOC I-LOC O O O O O O O B-MISC O O O O O O
+B-LOC I-LOC O O O O O O O O O O O O O O
+
+tickets available from @ letchworth _ tic for letchworth wine festival # lgcfest17 £ 10 each fri23 june
+O O O O X O B-MISC I-MISC I-MISC O X O O O O O
+O O O O B-LOC O B-MISC I-MISC I-MISC O B-MISC O O O O O
+
+this beautiful creature visited me in la yesterday - a few hours after a dragonfly visited my son in ny
+O O O O O O B-LOC O O O O O O O O O O O O B-LOC
+O O O O O O B-LOC O O O O O O O O O O O O B-LOC
+
+big festival brother? what summer music festivals are doing with your personal data
+O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O
+
+real wins 11 th european title. best team in europe # uefachampionsleague # cristiano # halamadridynadamas
+B-ORG O O O O O O O O O O B-LOC O X B-PER X O X
+B-ORG O O O B-LOC O O O O O O B-LOC O O O B-PER O O
+
+downtown austin with lady bird lake in the foreground
+O B-LOC O B-LOC I-LOC I-LOC O O O
+O B-LOC O B-LOC I-LOC I-LOC O O O
+
+a nun and a police officer mesmerize with mad soccer skills
+O O O O O O O O O O O
+O O O O O O O O O O O
+
+when she on top and she moans " j. cole the first rapper in 25 years to go platinum with no features "
+O O O O O O O O O O I-PER O O O O O O O O O O O O O
+O O O O O O O O B-PER I-PER I-PER O O O O O O O O O O O O O
+
+the german leicester... how kaiserslautern shocked the bundesliga in 1998
+O O O O O O O O O O B-MISC O O
+O B-LOC B-ORG O O O O B-ORG O O B-ORG O O
+
+florence and the machine surprises ill teen with private concert
+B-MISC I-MISC I-MISC I-MISC O O O O O O
+B-PER I-PER I-PER I-PER O O O O O O
+
+oklahoma legend bob stoops reportedly had interest in an nfl job before retiring
+B-LOC O B-PER I-PER O O O O O B-MISC O O O
+B-ORG O B-PER I-PER O O O O O B-ORG O O O
+
+pamela anderson cosies up with french footballer adil rami
+B-PER I-PER O O O O O B-PER I-PER
+B-PER I-PER O O O B-LOC O B-PER I-PER
+
+did y'all catch my girlfriend's baseball game today?
+O O O O O O O O O O O O O
+O O O O O O O O O O O O O
+
+donald trump tells jimmy kimmel he has used aliases but denies acting as his own publicist
+B-PER I-PER O B-PER I-PER O O O O O O O O O O O
+B-PER I-PER O B-PER I-PER O O O O O O O O O O O
+
+good luck to the whole cadet baseball team as the start their first tourney game in an hour # cadets
+O O O O O B-ORG O O O O O O O O O O O O O O X
+O O O O O O O O O O O O O O O O O O O O O
+
+for hillary clinton and john kerry, divergent paths to iran nuclear talks
+O B-PER I-PER O B-PER I-PER O O O O B-LOC O O
+O B-PER I-PER O B-PER I-PER O O O O B-LOC O O
+
+must watch : nba draft show live on youtube
+O O O B-MISC I-MISC I-MISC O O B-ORG
+O O O B-ORG O O O O B-ORG
+
+bruno mars via maxwell's instagram story! # betawards17
+O O O O B-PER O O O O O O X
+O B-PER I-PER O B-PER O O B-ORG O O O B-MISC
+
+fixing baseball ’ s slow flow... -
+O O O O O O O O O O
+O O O O O O O O O O
+
+hearing from the guys from the us, the nfl, the nba and the nhl about player development
+O O O O O O B-LOC O O B-MISC O O B-MISC O O B-MISC O O O
+O O O O O O B-LOC O O B-ORG O O B-ORG O O B-ORG O O O
+
+donald trump has been endorsed by the nra. @ nytimescollins, on the society they want.
+B-PER I-PER O O O O O B-ORG O O X O O O O O O O
+B-PER I-PER O O O O O B-ORG O O O O O O O O O O
+
+big mac billboard out in times square and i aint talkin bout mcdonalds bitch!
+O O O O O B-LOC I-LOC O O O O O B-MISC O O
+O O O O O B-LOC I-LOC O O O O O B-ORG O O
+
+retweet if you were one of the 10. 9 million voters who help donald trump win the nomination!
+O O O O O O O O O O O O B-PER I-PER O O O O O O O O O O
+O O O O O O O O O O O O B-PER I-PER O O O O O O O O O O
+
+mlb : who could say no to that face?
+B-ORG O O O O O O O O O
+B-ORG O O O O O O O O O
+
+# news # bollywood'salman khan beats shah rukh khan pays 32 cr as advance tax '
+O X B-LOC X O B-PER I-PER O B-PER I-PER I-PER O O O O O O O
+O O O B-ORG O B-PER I-PER O B-PER I-PER I-PER O O O O O O O
+
+pro evolution soccer 2018'continues to be a pleasure to play # techbuzz
+B-MISC I-MISC I-MISC O O O O O O O O O O X
+B-MISC I-MISC I-MISC I-MISC O O O O O O O O O B-ORG
+
+this summer's music festival headliner : tech startups
+O O O O O O O O B-MISC I-MISC
+O O O O O O O O O O
+
+one direction summer 2015 concert tour program liam niall harry louis 1 d - bid now! only $ …
+O O O O O O O B-PER I-PER B-PER I-PER O O X X O O O O O
+B-PER I-PER O O O O O B-PER B-PER B-PER B-PER O O O O O O O O O
+
+i had an amazing night. i couldn't have asked for a better prom date than @ davinbaseball
+O O O O O O O O O O O O O O O O O O O X
+O O O O O O O O O O O O O O O O O O O B-PER
+
+some tour outfits in the taylor swift education center : - )
+O O O O O B-LOC I-LOC I-LOC I-LOC O
+O O O O O B-PER I-PER O O O
+
+lets see how many beliebers are active and retweeting this # veranomtv2017 justin bieber
+O O O O O O O O O O O X B-PER I-PER
+O O O O O O O O O O O B-MISC B-PER I-PER
+
+# tbt to vusi mahlasela at # basslineafricadayconcert2017 in his luxury style statement, a presidential shirt.
+O X O B-PER I-PER O O X O O O O O O O O O O
+O O O B-PER I-PER O O O O O O O O O O O O O
+
+# onelovemachester loved the concert. @ arianagrande
+O X O O O O O O O X
+O B-MISC O O O O O O O B-PER
+
+# icymi : galen rupp is returning to the track at the portland track festival :
+O X O B-PER I-PER O O O O O O O B-MISC I-MISC I-MISC O
+O O O B-PER I-PER O O O O O O O B-MISC I-MISC I-MISC O
+
+chris paul expected to meet with clippers, spurs, nuggets, rockets :
+B-PER I-PER O O O O B-ORG O B-ORG O B-ORG O B-ORG O
+B-PER I-PER O O O O B-ORG O B-ORG O B-ORG O B-ORG O
+
+# icymi here is the inside story into antonio clark's triumphant return to @ cmumavsfootball @ russmartin13
+O X O O O O O O B-PER I-PER O O O O O O X O X
+O O O O O O O O B-PER I-PER O O O O O O B-ORG O B-PER
+
+2 hours and 24 minutes remaining until cavs / warriors part 3 : the trilogy game 5 # nbafinals in oakland # tzeroapp
+O O O O O O O O X X O O O O O O O O X O B-LOC O X
+O O O O O O O B-ORG O B-ORG O O O O O O O O O O B-LOC O O
+
+kim kardashian and kanye after celebrating his birthday in the bahamas
+B-PER I-PER O B-PER O O O O O O B-LOC
+B-PER I-PER O B-PER O O O O O O B-LOC
+
+@ cristiano @ nikefootball rt when you see it
+O X O X O O O O O
+O B-PER O O O O O O O
+
+congratulations to jessica fairley for signing a loi with macu in basketball.
+O O B-PER I-PER O O O O O B-ORG O O O
+O O B-PER I-PER O O O O O B-ORG O O O
+
+see video! ryan reynolds jokes about sex with blake lively...
+O O O B-PER I-PER O O O O B-PER I-PER O O O
+O O O B-PER I-PER O O O O B-PER I-PER O O O
+
+# tebow and company warming up for tonight's @ miraclebaseball game vs @ stluciemets
+B-PER X O O O O O O O O O X O O O X
+O B-PER O O O O O O O O O B-ORG O O O B-ORG
+
+all the basketball predictions you need # allthedata
+O O O O O O O X
+O O O O O O O O
+
+used [ b ] watch louis vuitton tambour q121i 12 p lag 1 p quartz b4a
+O O O O O B-ORG I-ORG O O O O O O O B-MISC I-MISC
+O O O O O B-ORG I-ORG O O O O O O O O O
+
+tom brady is officially appealing roger goodell and the nfl's latest win in court
+B-PER I-PER O O O B-PER I-PER O O B-MISC O O O O O O
+B-PER I-PER O O O B-PER I-PER O O B-ORG O O O O O O
+
+jennifer lawrence on the cover of harper's bazaar magazine [ bulgaria ] ( june 2016 )
+B-PER I-PER O O O O O O O I-MISC O O B-LOC O O O O O
+B-PER I-PER O O O O B-ORG I-ORG I-ORG I-ORG I-ORG O B-LOC O O O O O
+
+michael moore and bill maher team up to take down trump :...
+B-PER I-PER O B-PER I-PER O O O O O B-PER O O O O
+B-PER I-PER O B-PER I-PER O O O O O B-PER O O O O
+
+seems we never get enough baseball. rangers game tonight
+O O O O O O O B-ORG O O
+O O O O O O O B-ORG O O
+
+# fantasybaseball : top waiver wire pickups for week 5
+O X O O O O O O O O
+O O O O O O O O O O
+
+justin bieber's concert worn yeezys serve a new purpose
+B-PER I-PER O O O O O O O O O
+B-PER I-PER O O O O O O O O O
+
+football recruiting program for every level of athlete - 30 day trial at
+O O O O O O O O O O O O O
+O O O O O O O O O O O O O
+
+david beckham sends message to zinedine zidane following real madrid's ucl win. class!
+B-PER I-PER O O O B-PER I-PER O B-ORG I-ORG O O B-ORG O O O O
+B-PER I-PER O O O B-PER I-PER O B-ORG I-ORG O O B-MISC O O O O
+
+made it today!! @ raysbaseball # rays # raysup
+O O O O O O X B-ORG X O X
+O O O O O O B-ORG O B-ORG O O
+
+kevin durant did the same thing lebron did in 2010
+B-PER I-PER O O O O B-PER O O O
+B-PER I-PER O O O O B-PER O O O
+
+packers sign their 3 rd - round pick, linebacker kyler fackrell # nfl
+B-ORG O O O O X X O O O B-PER I-PER B-MISC X
+B-ORG O O O O O O O O O B-PER I-PER O B-ORG
+
+sw4 festival only has a handful of weekend tickets left, so final chance to book! more info :
+B-MISC I-MISC O O O O O O O O O O O O O O O O O O
+B-MISC I-MISC O O O O O O O O O O O O O O O O O O
+
+me when i just realized nba season is over
+O O O O O B-MISC O O O
+O O O O O B-ORG O O O
+
+get ready for our sunflower series! we have full video tutorials on how to make all wedding necessities - bouquets, …
+O O O O B-MISC I-MISC O O O O O O O O O O O O O X O O O
+O O O O O O O O O O O O O O O O O O O O O O O
+
+ex - nba player accused of stealing $ 500, 000 from charity
+O X X O O O O O O O O
+O O B-ORG O O O O O O O O
+
+actress yang mi attends the 20 th # shanghai international film # festival in shanghai, east china
+O B-PER I-PER O O O O B-MISC X I-MISC I-MISC I-MISC X O B-LOC O B-LOC I-LOC
+O B-PER I-PER O O O O O B-MISC I-MISC I-MISC O O O B-LOC O O B-LOC
+
+100 years of good times. rt @ dudleyboyz1345 : shawn michaels, @ steveaustinbsr and @ realmickfoley
+O O O O O O O O X O B-PER I-PER O O X O O X
+O O O O O O O O B-PER O B-PER I-PER O O B-PER O O B-PER
+
+very drunk in a # magnum concert
+O O O O B-MISC X O
+O O O O O B-PER O
+
+nba's david robinson : from professional sports to venture capitalism
+B-MISC O O B-PER I-PER O O O O O O O
+B-ORG O O B-PER I-PER O O O O O O O
+
+richard branson jukebox. now available free in the # tweetjukebox store.
+B-MISC I-PER I-MISC O O O O O O O X O O
+B-PER I-PER O O O O O O O O O O O
+
+new @ # nike nfl new england patriots game jersey ( tom brady ) women's football jersey
+O O B-MISC X B-MISC B-ORG I-ORG I-ORG O O O B-PER I-PER O O O O O O
+O O O B-ORG B-ORG B-ORG I-ORG I-ORG O O O B-PER I-PER O O O O O O
+
+another great day for @ biloxishuckers baseball. first pitch is at 6 : 40 pm. # mswx
+O O O O O X O O O O O O O O O O O O X
+O O O O O B-ORG O O O O O O O O O O O O O
+
+last game, last tournament of season. tommy got # mvp! # nbhca # gulfcoastwarriors # basketball # hegotgame # 2 ndplace
+O O O O O O O O B-PER O B-MISC X O O X O X O X O X O X O
+O O O O O O O O B-PER O O O O O B-ORG O O O O O O O O O
+
+tough day at d division hq after the little mix concert yesterday. some people just can't believe it's over....
+O O O B-LOC I-LOC O O O B-MISC I-MISC O O O O O O O O O O O O O O O O O O
+O O O O O O O O B-PER I-PER O O O O O O O O O O O O O O O O O O
+
+dr. cedric uses art therapy to treat vulnerable children in # countryoftheweek car. how do you influence others?
+O O I-PER O O O O O O O O O X O O O O O O O O
+O O B-PER O O O O O O O O O O O O O O O O O O
+
+who did justin bieber go on a secret dinner date with?
+O O B-PER I-PER O O O O O O O O
+O O B-PER I-PER O O O O O O O O
+
+inside ben affleck and jennifer garner's family trip to paris
+O B-PER I-PER O B-PER I-PER O O O O O B-LOC
+O B-PER I-PER O B-PER I-PER O O O O O B-LOC
+
+this is not a concert this is fan meeting and this is the power of exo
+O O O O O O O O O O O O O O O B-ORG
+O O O O O O O O O O O O O O O B-PER
+
+' jessica lange is a sweetheart, the nicest lady in the world.'' - evan peters
+O B-PER I-PER O O O O O O O O O O O O O O B-PER I-PER
+O B-PER I-PER O O O O O O O O O O O O O O B-PER I-PER
+
+mlb notes : miguel montero out with cubs after blaming jake arrieta for stolen bases
+B-ORG O O B-PER I-PER O O O O O B-PER I-PER O O O
+B-ORG O O B-PER I-PER O O B-ORG O O B-PER I-PER O O O
+
+congratulations @ jbott44 on earning your spot @ usafootball national development camp in canton. # earnyourstars
+O O X O O O O O X O O O O B-LOC O O O O O O X
+O O B-PER O O O O O B-ORG O O O O B-LOC O O O O O O O
+
+mlb trade deadline rumor buy or sell : the royals not selling, will keep their stars
+B-ORG O O O O O O O O B-ORG O O O O O O O
+B-ORG O O O O O O O O B-ORG O O O O O O O
+
+i like college football because it's the only sport where every game matters.
+O O B-MISC I-MISC O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O
+
+video : southampton 4 – 2 manchester city [ premier league ] highlights 2015 / 16
+O O B-ORG O O O B-ORG I-ORG O B-MISC I-MISC O O O X X
+O O B-ORG O O O B-ORG I-ORG O B-ORG I-ORG O O O O O
+
+coachella may be over, but the festival fashion is here to stay with looks from @ burlington.
+B-LOC O O O O O O O O O O O O O O O O X O
+B-MISC O O O O O O O O O O O O O O O O B-LOC O
+
+. @ beaverbaseball set to host vanderbilt in corvallis super regional
+O O X O O O B-ORG O B-LOC O O
+O O B-ORG O O O B-ORG O B-ORG I-ORG I-ORG
+
+the comments of a fully grown man, reading harry potter for the first time
+O O O O O O O O O B-MISC I-MISC O O O O
+O O O O O O O O O B-MISC I-MISC O O O O
+
+take two! don't forget sounds of summer concert tomorrow evening at # wrightsvillebeach. # wectwx
+O O O O O O O O O O O O O O B-LOC X O O X
+O O O O O O O B-MISC I-MISC I-MISC O O O O O B-LOC O O O
+
+sorry but i'm not spending $ 1 on you @ packers # blockyfootball
+O O O O O O O O O O O O X O X
+O O O O O O O O O O O O B-ORG O O
+
+come in tonight for a chance to win a pair of tickets to bunbury music festival! bee there 5 : 30 - 6 : 30!
+O O O O O O O O O O O O O B-MISC I-MISC I-MISC O O O O O O X X O O O
+O O O O O O O O O O O O O B-MISC I-MISC I-MISC O O O O O O O O O O O
+
+photo of justin bieber backstage at the summerburst festival in stockholm, sweden. ( june 10 )
+O O B-PER I-PER O O O B-MISC I-MISC O B-LOC O B-LOC O O O O O
+O O B-PER I-PER O O O B-MISC I-MISC O B-LOC O B-LOC O O O O O
+
+@ mirrorfootball they used horses to control a crowd at a football game? must be a new policing strategy.
+O X O O O O O O O O O O O O O O O O O O O
+O B-ORG O O O O O O O O O O O O O O O O O O O
+
+jarrod smith was safe at third base for @ kokomopost6 baseball courtesy of a terre haute throwing error.
+B-PER I-PER O O O O O O O X O O O O B-LOC I-LOC O O O
+B-PER I-PER O O O O O O O B-ORG O O O O B-ORG I-ORG O O O
+
+an artist replaced all these old - school nintendo games'bad guys with donald trump
+O O O O O O X X B-MISC O O O O O B-PER I-PER
+O O O O O O O O B-ORG O O O O O B-PER I-PER
+
+day well spent watching grassroot football in kabete with @ misskami27. nysa 4 - 0 riara uni. # extremesuper8
+O O O O O O O B-LOC O O X O B-ORG O X X B-ORG I-ORG O O X
+O O O O O O O B-LOC O O B-PER O B-ORG O O O B-ORG I-ORG O O O
+
+la porchetta for tomorrow's mediterranean festa in heathcote, at mcivor estate. # heathcote # wine # wines # festival
+B-PER I-PER O O O O B-MISC I-MISC O B-LOC O O B-LOC I-LOC O B-LOC X O X O X O X
+B-ORG I-ORG O O O O B-MISC I-MISC O B-LOC O O B-LOC I-LOC O O O O O O O O O
+
+citing swing - state polling, mitch mcconnell shows confidence in donald trump
+O O X X O O B-PER I-PER O O O B-PER I-PER
+O O O O O O B-PER I-PER O O O B-PER I-PER
+
+@ extravaganza567 daily parade at 1 pm from madoc street
+O X O O O O O O B-LOC I-LOC
+O O O O O O O O B-LOC I-LOC
+
+kicking off summer with an intimate outdoor concert its almost # summerinthecity # toronto # cmw2016
+O O O O O O O O O O O X B-LOC X O X
+O O O O O O O O O O O O O B-LOC O O
+
+happy birthday to chris brown and adele
+O O O B-PER I-PER O B-PER O O
+O O O B-PER I-PER O B-PER O O
+
+could soccer ease tensions between north and south korea?
+O O O O O B-LOC O B-LOC I-LOC O
+O O O O O B-LOC O B-LOC I-LOC O
+
+justin trudeau's social media skills catch eye of white house
+B-PER I-PER O O O O O O O O B-LOC I-LOC
+B-PER I-PER O O O O O O O O B-ORG I-ORG
+
+video : sean hannity - cnn's jim acosta becoming unhinged!
+O O B-PER I-PER O B-ORG O O B-PER I-PER O O O
+O O B-PER I-PER O B-ORG O O B-PER I-PER O O O
+
+congrats to @ athens _ wi0196 on their @ wiaawistate # baseball # championship # hsswi
+O O O X O O O X O X O X O X
+O O O B-ORG O O O B-MISC O O O O O O
+
+1 st time ever in chicago the 4 best teams in mlb are playing today. # go cubs!
+O O O O O B-LOC O O O O O B-MISC O O O O O X O O
+O O O O O B-LOC O O O O O B-ORG O O O O O O B-ORG O
+
+ter stegen saved 56 shots from outside the box in la liga 16 / 17, the highest number among la liga goalkeepers
+B-PER I-PER O O O O O O O O B-MISC I-MISC O X X O O O O B-MISC I-MISC O
+B-PER I-PER O O O O O O O O B-ORG I-ORG O O O O O O O B-ORG I-ORG O
+
+taxi driver is robert de niro's best movie and it ain't close
+B-MISC I-MISC O B-PER I-PER I-PER O O O O O O O O O O
+B-MISC I-MISC O B-PER I-PER I-PER O O O O O O O O O O
+
+great day for a u8 soccer game!
+O O O O B-ORG O O O
+O O O O O O O O
+
+sen. john mccain is worried that trump may hurt his re - election prospects
+O O B-PER I-PER O O O B-PER O O O O X X O
+O O B-PER I-PER O O O B-PER O O O O O O O
+
+this kid has been playing basketball since he could walk and today he is 17. happy birthday garrett walker! you!!
+O O O O O O O O O O O O O O O O O O B-PER I-PER O O O O O
+O O O O O O O O O O O O O O O O O O B-PER I-PER O O O O O
+
+international green film festival press conference
+B-MISC I-MISC I-MISC I-MISC O O
+B-MISC I-MISC I-MISC I-MISC O O
+
+first teaser for disney's live - action'beauty and the beast'starring emma watson
+O O O B-ORG O O O X X O B-MISC I-MISC I-MISC I-MISC O O B-PER I-PER
+O O O B-ORG O O O O O O B-MISC I-MISC I-MISC I-MISC O O B-PER I-PER
+
+not the onion : cnn asks'would donald trump have killed the gorilla? '
+O O B-ORG O B-ORG O O O B-PER I-PER O O O O O O
+O O O O B-ORG O O O B-PER I-PER O O O O O O
+
+lady gaga and mark ronson spotted performing at the # metgala tonight. this picture was posted via instagram.
+B-PER I-PER O B-PER I-PER O O O O O X O O O O O O O B-ORG O
+B-PER I-PER O B-PER I-PER O O O O O B-MISC O O O O O O O B-ORG O
+
+perfect'by one direction is now certified platinum in the uk. congratulations, @ onedirection!
+O O O B-PER O O O O O O O B-LOC O O O O X O
+B-MISC O O B-PER I-PER O O O O O O B-LOC O O O O B-PER O
+
+it's such a shame so many americans are rallying behind ignorance - lauren jauregui on donald trump
+O O O O O O O O O O O O O O B-PER I-PER O B-PER I-PER
+O O O O O O O O O O O O O O B-PER I-PER O B-PER I-PER
+
+patrick willis is not your typical retired nfl star ( 4 photos )
+B-PER I-PER O O O O O B-MISC O O O O O
+B-PER I-PER O O O O O B-ORG O O O O O
+
+here is a short comic about me going to a suede concert
+O O O O O O O O O O B-MISC O
+O O O O O O O O O O B-PER O
+
+the dragon dentist anime wins best animation at shanghai tv festival
+O B-MISC I-MISC O O B-MISC I-MISC O B-MISC I-MISC I-MISC
+B-MISC I-MISC I-MISC O O O O O B-MISC I-MISC I-MISC
+
+the things you see during work, he was just guarding the entrance while sunbathing
+O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O
+
+a 17 year old fidel castro plays basketball at his high school in 1943
+O O O O B-PER I-PER O O O O O O O O
+O O O O B-PER I-PER O O O O O O O O
+
+brian eno : " i would set up sonic scenarios for david bowie " # video # stream # bbc # hardtalk
+B-PER I-PER O O O O O O O O O B-PER I-PER O O X O X B-ORG X O X
+B-PER I-PER O O O O O O O O O B-PER I-PER O O O O O O B-ORG O O
+
+enjoyed my time on cbs with the professional football arm wrestling competition
+O O O O B-ORG O O O O O O O
+O O O O B-ORG O O O O O O O
+
+more photos of justin bieber spotted out in milan, italy last night. ( june 18 )
+O O O B-PER I-PER O O O B-LOC O B-LOC O O O O O O O
+O O O B-PER I-PER O O O B-LOC O B-LOC O O O O O O O
+
+tbt to last years met gala because beyonce concert is in two weeks
+O O O O O O O B-PER O O O O O
+O O O O B-MISC I-MISC O B-PER O O O O O
+
+lil wayne kicked off plane for smoking pot
+B-PER I-PER O O O O O O
+B-PER I-PER O O O O O O
+
+view over glastonbury festival tonight # glastonbury
+O O B-MISC I-MISC O B-LOC X
+O O B-MISC I-MISC O O B-MISC
+
+watch live : bill clinton stumps for @ hillaryclinton in the virgin islands
+O O O B-PER I-PER O O O X O O B-LOC I-LOC
+O O O B-PER I-PER O O O B-PER O O B-LOC I-LOC
+
+draymond is my favorite # nbafinals
+B-PER O O O O X
+B-PER O O O O O
+
+are ben affleck and jennifer garner getting back together?! not so fast :
+O B-PER I-PER O B-PER I-PER O O O O O O O O O
+O B-PER I-PER O B-PER I-PER O O O O O O O O O
+
+com # 1 garantido, justin timberlake libera clipe oficial do single " can't stop the feeling " :
+O O X B-PER O B-PER I-PER O O O O O O O O O O O O O O
+O O O O O B-PER I-PER O O O O O O B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC O O
+
+what this founder of the tribeca film festival wants
+O O O O O B-MISC I-MISC I-MISC O
+O O O O B-MISC I-MISC I-MISC I-MISC O
+
+@ nhl @ penguins why won't you just call penalties when it's a penalty and disregard situations
+O X O X O O O O O O O O O O O O O O O O O
+O B-ORG O B-ORG O O O O O O O O O O O O O O O O O
+
+only the classiest pinball machines were played.
+O O O B-MISC O O O O
+O O O O O O O O
+
+# nfl # bengals weight loss for women – most overlooked obstacles …
+B-MISC X B-ORG X O O O O O O O O O
+O B-ORG O B-ORG O O O O O O O O O
+
+pittsburgh penguins vs san jose sharks nhl stanley cup finals tickets : …
+B-ORG I-ORG O B-ORG I-ORG I-ORG B-MISC B-MISC I-MISC I-MISC O O O
+B-ORG I-ORG O B-ORG I-ORG I-ORG B-ORG B-MISC I-MISC O O O O
+
+justin bieber visited @ mcr _ storm again today in manchester, england. ( june 5 )
+B-PER I-PER O O X O O O B-LOC O B-LOC O O O O O
+B-PER I-PER O O B-ORG O O O B-LOC O B-LOC O O O O O
+
+bernie sanders is fast becoming stephen colbert's best recurring guest on " the late show "
+B-PER I-PER O O O B-PER I-PER O O O O O O O B-MISC I-MISC I-MISC O
+B-PER I-PER O O O B-PER I-PER O O O O O O O B-MISC I-MISC I-MISC O
+
+football must do more to deter drug cheats - minichiello ★ full story
+O O O O O O O O O B-PER O O O O O
+O O O O O O O O O B-PER O O O O O
+
+live updates : the full list of vegas golden knights nhl expansion draft selections
+O O O O O O O B-ORG I-ORG I-ORG B-MISC I-MISC I-MISC O
+O O O O O O O B-ORG I-ORG I-ORG B-ORG O O O
+
+here's our pick of some of the best items to get you # festivalready! to see the full list!
+O O O O O O O O O O O O O O O X O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O
+
+ben simmons is dunking after missing his entire first nba season
+B-PER I-PER O O O O O O O B-MISC O
+B-PER I-PER O O O O O O O B-ORG O
+
+fan grabs thunder player's arm during wild finish # nba
+O O B-ORG O O O O O O O B-MISC X
+O O B-ORG O O O O O O O O B-ORG
+
+pop war : justin timberlake vs. alicia keys this friday in...
+B-MISC I-MISC O B-PER I-PER O O B-PER I-PER O O O O O O
+O O O B-PER I-PER O O B-PER I-PER O O O O O O
+
+harry styles arriving in miami looking finer than a model on a runway.
+B-PER O O O B-LOC O O O O O O O O O
+B-PER I-PER O O B-LOC O O O O O O O O O
+
+happy 15 th birthday to this soccer superstar hope u have an awesome bday, love ya lots : - )
+O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O
+
+ac / dc. queen elizabeth olympic park, london. this saturday. photo : katarina benzova # liveformusic
+O X X O B-LOC I-LOC I-LOC I-LOC O B-LOC O O O O O O B-PER I-PER O X
+B-PER I-PER I-PER O B-LOC I-LOC I-LOC I-LOC O B-LOC O O O O O O B-PER I-PER O O
+
+basketball make strangers into # family # morethanagame
+O O O O O X O O O O O X
+O O O O O O O O O O O O
+
+i refuse to play soccer with any other team
+O O O O O O O O O O O O O
+O O O O O O O O O O O O O
+
+why worry? never let failure take control of you. - - leonardo dicaprio # quote # stillbreathinsunday @ hublife
+O O O O O O O O O O O O X B-PER I-PER O X O X O X
+O O O O O O O O O O O O O B-PER I-PER O O O O O O
+
+inspirational perspective for data and our lives. " @ beautifuipicshq : a new perspective on the world, times square!
+O O O O O O O O O O X O O O O O O O O B-LOC I-LOC O
+O O O O O O O O O O O O O O O O O O O B-LOC I-LOC O
+
+@ nancyajram i love and miss you so much my queen! # nancyajram can't wait for your concert in beirut!
+O X O O O O O O O O O O O O O X O O O O O O O O O B-LOC O
+O B-PER O O O O O O O O O O O O O B-PER O O O O O O O O O B-LOC O
+
+in tom brady's latest facebook post, he throws it back to when he turned up at the # preakness in 2014...
+O B-PER I-PER O O O B-ORG O O O O O O O O O O O O O B-MISC X O O O O O
+O B-PER I-PER O O O B-ORG O O O O O O O O O O O O O O B-MISC O O O O O
+
+glad to announce that zachammer will play soccer at pacific! this will be the first of many mdfc players to commit!
+O O O O B-PER O O O O B-LOC O O O O O O O O B-ORG O O O O
+O O O O B-PER O O O O B-ORG O O O O O O O O B-ORG O O O O
+
+protest grows against 89 er day parade
+O O O O B-MISC I-MISC O
+O O O B-ORG I-ORG O O
+
+good for people who want to associate with the # healing powers of # menhla # tsemrinpoche # dharma # recovery # incense
+O O O O O O O O O O X O O O X O X O X O X O X
+O O O O O O O O O O O O O O O O O O O O O O O
+
+canning dock from last night, looking ready for the weekend's @ merseyfestival. lovely warm night for the solstice.
+O O O O O O O O O O O O O O X O O O O O B-MISC I-MISC O
+B-LOC I-LOC O O O O O O O O O O O O B-MISC O O O O O O O O
+
+it's just a simple greeting from chanyeol but why did it make me squeal and smile like a fckng idiot? damn chanbaek
+O O O O O O O O B-PER O O O O O O O O O O O B-ORG O O O O
+O O O O O O O O B-PER O O O O O O O O O O O O O O O O
+
+good morning ny! now for a run in central park. wish you were here @ fikile _ _ nhleko i know …
+O O B-LOC O O O O O O B-LOC I-LOC O O O O O O X O O O
+O O B-LOC O O O O O O B-LOC I-LOC O O O O O O B-PER O O O
+
+baylor university ousts football coach...
+B-ORG I-ORG I-ORG O O O O O
+B-ORG I-ORG O O O O O O
+
+bush 41, 43 do not plan to endorse donald trump
+B-PER O O O O O O O B-PER I-PER
+B-PER O O O O O O O B-PER I-PER
+
+when you hit the last lap on mario kart and the music speeds up
+O O O O O O O B-MISC I-MISC O O O O O
+O O O O O O O B-MISC I-MISC O O O O O
+
+| " smoke this, play that vol. 1 : rich homie quan, h. e. r., and harry styles " – leafly
+O O O O O O O O O O O O B-PER I-PER I-PER O O O O O O O O O B-PER I-PER O O O
+O O O B-MISC I-MISC I-MISC I-MISC I-MISC O O O O B-PER I-PER I-PER O B-PER I-PER I-PER I-PER I-PER O O O B-PER I-PER O O B-ORG
+
+justin bieber seen going out for sushi in beverly hills, california. ( may 20 )
+B-PER I-PER O O O O O O B-LOC I-LOC O B-LOC O O O O O
+B-PER I-PER O O O O O O B-LOC I-LOC O B-LOC O O O O O
+
+underground singer bosco is accusing christina aguilera of stealing her hairstyle..
+O O B-PER O O B-PER I-PER O O O O O O O
+O O B-PER O O B-PER I-PER O O O O O O O
+
+wonderful weekend spent at # rudyardlake thanks @ wildrumpus for another great festival # dayatthelake
+O O O O B-LOC X O O X O O O O O X
+O O O O O B-LOC O O B-ORG O O O O O O
+
+# cupb4idie : my buddy michael young gets love on @ nhl site for great @ sanjosesharks sweater!
+O X O O O B-PER I-PER O O O O X O O O O X O O
+O O O O O B-PER I-PER O O O O B-ORG O O O O B-ORG O O
+
+james dean at a times square barbershop 1955
+B-PER I-PER O O B-LOC I-LOC O O
+B-PER I-PER O O B-LOC I-LOC O O
+
+congrats on graduating gentlemen! happy for y'all! thanks for all that you do for uh football behind the scenes
+O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-ORG O O O O
+
+what are you doing for your next # schoolfootball tour?
+O O O O O O O O X O O
+O O O O O O O O O O O
+
+tennessean :. titans, # nashville : nissanstadium was ready for beyonce concert
+B-PER O O O O B-LOC X O O O O O B-PER O
+B-ORG O O B-ORG O O B-LOC O B-LOC O O O B-PER O
+
+they've done it again! barcelona are crowned # laliga champions for the 24 th time after a 3 - 0 victory at granada.
+O O O O O O O B-ORG O O O X O O O O O O O O O X X O O B-LOC O
+O O O O O O O B-ORG O O O B-ORG O O O O O O O O O O O O O B-ORG O
+
+bring your little ones for some introductory football. age 3 - 4 16 : 30 - 17 : 15 5 - 6 17 : 15 - 18 : 00 tuesday.
+O O O O O O O O O O O X X O O O X X O O O X X O O O X X O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+
+arthur scargill triumphs at manchester may day festival
+B-PER I-PER O O B-MISC I-MISC I-MISC I-MISC
+B-PER I-PER O O B-MISC I-MISC I-MISC I-MISC
+
+on the carpet with sarah jessica parker ( @ sjp ) in a stellar # manusxmachina look. # metgala # sarahjessicaparker
+O O O O B-PER I-PER I-PER O O X O O O O O X O O O X O X
+O O O O B-PER I-PER I-PER O O B-PER O O O O O B-MISC O O O B-MISC O B-PER
+
+finally i can watch football and understand what is going on!
+O O O O O O O O O O O O
+O O O O O O O O O O O O
+
+huge change in nj high school football coming? -
+O O O B-LOC O O O O O O
+O O O B-LOC O O O O O O
+
+father and son time. # bravesbaseball, # southpaw
+O O O O O O X O O X
+O O O O O O O O O O
+
+today we learned that leonardo dicaprio is a boxers man
+O O O O B-PER I-PER O O O O
+O O O O B-PER I-PER O O O O
+
+# summeroflove concert pits # sanfrancisco against promoter
+O X O O O X O O
+O O O O O B-LOC O O
+
+sorry espn, 2004 patriots were greatest football team assembled in last 30 years
+O B-ORG O O B-ORG O O O O O O O O O
+O B-ORG O O B-ORG O O O O O O O O O
+
+one more pic of justin trudeau at toronto pride
+O O O O B-PER I-PER O B-LOC I-LOC
+O O O O B-PER I-PER O B-LOC O
+
+belfast book festival week two : the kids ( and their mums ) are alright
+B-MISC I-MISC I-MISC O O O O O O O O O O O O
+B-MISC I-MISC I-MISC O O O O O O O O O O O O
+
+just my thoughts on ted's remarks regarding the quality of donald trump's upbringing..
+O O O O B-PER O O O O O O O B-PER I-PER O O O O O
+O O O O B-PER O O O O O O O B-PER I-PER O O O O O
+
+liverpool face a uefa charge for " setting off of fireworks " at the europa league final :
+B-ORG O O B-ORG O O O O O O O O O O B-MISC I-MISC O O
+B-ORG O O B-ORG O O O O O O O O O O B-ORG I-ORG O O
+
+slideshow : concert season offers mix of sounds in chicagoland :
+O O O O O O O O O B-LOC O
+O O O O O O O O O B-LOC O
+
+exclusive : joe biden ’ s niece dodges jail after $ 100 k credit card scam
+O O B-PER I-PER O O O O O O O O O O O O
+O O B-PER I-PER O O O O O O O O O O O O
+
+incredible photo shows just how hard lebron james dunks a basketball
+O O O O O O B-PER I-PER O O O
+O O O O O O B-PER I-PER O O O
+
+china is still protecting north korea from donald trump
+B-LOC O O O B-LOC I-LOC O B-PER I-PER
+B-LOC O O O B-LOC I-LOC O B-PER I-PER
+
+those premier league title celebrations have taken their toll on jamie vardy
+O B-MISC I-MISC O O O O O O O B-PER I-PER O O O
+O B-ORG I-ORG O O O O O O O B-PER I-PER O O O
+
+just in time for tomorrow!! @ brookslennon @ realsaltlake @ ussoccer # usmnt # usa
+O O O O O O O O X O X O X O X B-LOC X
+O O O O O O O O B-PER O B-ORG O B-ORG O B-ORG O B-LOC
+
+us politics : what will a hillary clinton v donald trump general election look like?
+B-LOC O O O O O B-PER I-PER O B-PER I-PER O O O O O
+B-LOC O O O O O B-PER I-PER O B-PER I-PER O O O O O
+
+they're so happy to be hearing tt in times square and watching others perform it
+O O O O O O O O B-MISC O B-LOC I-LOC O O O O O O
+O O O O O O O O B-MISC O B-LOC I-LOC O O O O O O
+
+new calvin klein deep black women's size 4 double - pleated dress pants $ 79 370
+O B-MISC I-PER O O O O O O O O X X O O O O O
+O B-ORG I-ORG O O O O O O O O O O O O O O O
+
+west hall baseball drops doubleheader to region leader...
+B-LOC I-LOC I-ORG O O O O O O O O
+B-ORG I-ORG O O O O O O O O O
+
+not a pic from the russ concert cause i was dancin my heart out
+O O O O O B-PER O O O O O O O O O
+O O O O O B-PER O O O O O O O O O
+
+this week, donald trump accused ted cruz's father of plotting to kill jfk, then won the republican nomination.
+O O O B-PER I-PER O B-PER I-PER O O O O O O O B-PER O O O O O O O
+O O O B-PER I-PER O B-PER I-PER O O O O O O O B-PER O O O O B-ORG O O
+
+everything that is right about the great game of baseball. opening night for @ wasecabluejays at tink larson field.
+O O O O O O O O O O O O O O O X O B-LOC I-LOC I-LOC O
+O O O O O O O O O O O O O O O B-ORG O B-LOC I-LOC I-LOC O
+
+it could be better with football match.
+O O O O O O O O
+O O O O O O O O
+
+might have to get more into harry potter after meeting the amazing @ tomfelton... can you say hot brit?!?!?
+O O O O O O B-MISC I-MISC O O O O O X O O O O O O O O O O O O O
+O O O O O O B-MISC I-MISC O O O O O B-PER O O O O O O O O O O O O O
+
+ferris state's vander laan, zimmer sign fa deals with nfl teams
+B-ORG I-ORG O O B-PER I-PER O B-PER O O O O B-MISC O
+B-ORG I-ORG O O B-PER I-PER O B-PER O O O O B-ORG O
+
+jjong is wearin r. shemiste f / w 2016 inspired by sociopolitical activist
+B-PER O O O O O O X X O O O O O
+B-PER O O B-ORG I-ORG I-ORG O O O O O O O O
+
+my mum took some awesome photos of @ iamrationale and @ bastilledan thursday. one of the best concerts i've been too!
+O O O O O O O O X O O X O O O O O O O O O O O O O
+O O O O O O O O B-PER O O B-PER O O O O O O O O O O O O O
+
+beautiful @ mischabarton at the harmonist party at 69 th cannes film festival
+O O X O O O O O O O B-MISC I-MISC I-MISC
+O O B-PER O O O O O O O B-MISC I-MISC I-MISC
+
+penn state blue band and cheerleaders in rose bowl parade : video # pennsylvania
+B-ORG I-ORG I-ORG I-ORG O O O B-MISC I-MISC O O O B-LOC X
+B-PER I-PER I-PER I-PER O O O B-MISC I-MISC O O O O B-LOC
+
+the 2016 summer season of concerts is around the corner! info :
+O O O O O O O O O O O O O
+O O O O O O O O O O O O O
+
+army put up a huge ad in times square for bts'4 th anniversary!
+O O O O O O O B-LOC I-LOC O B-ORG O O O O O
+O O O O O O O B-LOC I-LOC O B-PER O O O O O
+
+old school concert poster from back when that guy was famous
+O O O O O O O O O O O O O
+O O O O O O O O O O O O O
+
+kyrie? kevin love? jr smith?? i have no clue who those guys are.. i'm a one man team dawg
+O O B-PER I-PER O B-PER I-PER O O O O O O O O O O O O O O O O O O O O
+B-PER O B-PER I-PER O B-PER I-PER O O O O O O O O O O O O O O O O O O O O
+
+shirts at the ready for our hometown game today # leicester # pgautomotive # premierleague @ talkingballs @ unofficialfoxes
+O O O O O O O O O B-LOC X O X O X O X O X
+O O O O O O O O O O B-ORG O O O B-ORG O O O O
+
+let us make xian happy, go get your tickets now concertnixian in20days
+O O O B-PER O O O O O O O O O O O O O
+O O O B-PER O O O O O O O O O O O B-MISC O
+
+hundreds came out to dawes arboretum for the annual arbor day festival.
+O O O O B-LOC I-LOC O O O B-MISC I-MISC I-MISC O
+O O O O B-LOC I-LOC O O O B-MISC I-MISC I-MISC O
+
+3 - on - 3 basketball favoured for inclusion among new medal events at tokyo 2020 olympics
+O X X X X O O O O O O O O O B-LOC O B-MISC
+O O O O O O O O O O O O O O B-LOC O B-MISC
+
+i honestly think mlb is their best apparel deal ever
+O O O B-ORG O O O O O O O
+O O O B-ORG O O O O O O O
+
+don't miss everyone's favorite radio pair's # nhldraft coverage on @ 560 wqam tonight
+O O O O O O O O O O O O B-ORG X O O O X O O O
+O O O O O O O O O O O O O O O O O B-ORG I-ORG O O
+
+you're not gonna miss hans zimmer's first concert ever in ireland, are you? book transfer
+O O O O O O B-PER I-PER O O O O O O B-LOC O O O O O O
+O O O O O O B-PER I-PER O O O O O O B-LOC O O O O O O
+
+kim kardashian west reportedly will hire a surrogate for third child
+B-PER I-PER I-PER O O O O O O O O
+B-PER I-PER I-PER O O O O O O O O
+
+david bowie performs ‘ boys keep swinging ’ on the kenny everett video show
+B-PER I-PER O O O O O O O O B-PER I-PER O O
+B-PER I-PER O O B-MISC I-MISC I-MISC O O O B-MISC I-MISC I-MISC I-MISC
+
+northwoods bluegrass festival is underway at rusk co fairgrounds. come join us.
+B-MISC I-MISC I-MISC O O O B-LOC I-LOC I-LOC O O O O O
+B-MISC I-MISC I-MISC O O O B-LOC I-LOC I-LOC O O O O O
+
+donald trump doesn't plan to release any of his tax returns
+B-PER I-PER O O O O O O O O O O O
+B-PER I-PER O O O O O O O O O O O
+
+ok im thinking what should i buy for the concert
+O O O O O O O O O O
+O O O O O O O O O O
+
+we are moments away from first pitch of the varsity baseball playoff game vs north babylon! lets go tigers!
+O O O O O O O O O O O O O O B-ORG I-ORG O O O B-ORG O
+O O O O O O O O O O O O O O B-ORG I-ORG O O O B-ORG O
+
+@ suyyashrai @ kishwerm : lukin cute all three of u really adorable pic # mumypapanbatuk
+O X O X O B-PER O O O O O O O O O O O X
+O B-PER O B-PER O O O O O O O O O O O O O O
+
+please stop giving justin bieber babies, the cuteness is too much
+O O O B-PER I-PER O O O O O O O
+O O O B-PER I-PER O O O O O O O
+
+congrats to utsa's first - ever nfl draft pick! # weareutsa -
+O O B-ORG O O O X X B-MISC I-MISC O O O X O
+O O B-ORG O O O O O B-ORG O O O O O O
+
+report : chris paul hated austin and doc rivers
+O O B-PER I-PER O B-PER O B-PER I-PER
+O O B-PER I-PER O B-PER O B-PER I-PER
+
+@ soundkartell did an interview with @ tomklose at @ spotfestival and it was very kind. we talked about @ spotifyde
+O X O O O O O X O O X O O O O O O O O O O X
+O B-ORG O O O O O B-PER O O B-MISC O O O O O O O O O O B-ORG
+
+retweet if you believe donald trump will have absolutely no problem beating crooked hillary in the general.
+O O O O B-PER I-PER O O O O O O O B-PER O O O O
+O O O O B-PER I-PER O O O O O O O B-PER O O O O
+
+don ’ t buy a house — and other financial tips for nba rookies
+O O O O O O O O O O O O B-MISC O
+O O O O O O O O O O O O B-ORG O
+
+# justinbieber # buzz justin bieber # perfume the key # bieber # deals
+O O O X O X B-PER I-PER O X O O B-PER X O X
+O O O B-PER O O B-PER I-PER O O O O O B-PER O O
+
+play ball!! @ raysbaseball @ yankees # raysup # baseball
+O O O O O X O X O X O X
+O O O O O B-ORG O B-ORG O O O O
+
+pitchfork : tune into arianagrande ’ s “ one love manchester ” benefit concert live stream, which has begun …
+O O O O B-PER O O O O O B-LOC O O O O O O O O O O
+O O O O B-PER O O O B-MISC I-MISC I-MISC O O O O O O O O O O
+
+things kyungsoo does to male sunbaes # kyungsoo # 경수 # 디오
+O B-PER O O O O O O O O X O X O X
+O B-PER O O O O O O O O B-PER O O O O
+
+not even tom brady had a higher passer rating than @ bengals qb andy dalton on post routes in 2016.
+O O B-PER I-PER O O O O O O O X O B-PER I-PER O O O O O O
+O O B-PER I-PER O O O O O O O B-ORG O B-PER I-PER O O O O O O
+
+happy birthday evan hope you have a great day @ theslifelife # calculuseded # soccergang
+O O B-PER O O O O O O O O X O X O X
+O O O O O O O O O O O B-PER O O O O
+
+( 4 ) another photo of justin bieber with fans today in new york city, new york. ( may 5 )
+O O O O O O B-PER I-PER O O O O B-LOC I-LOC I-LOC O B-LOC I-LOC O O O O O
+O O O O O O B-PER I-PER O O O O B-LOC I-LOC I-LOC O B-LOC I-LOC O O O O O
+
+timothy fosu - mensah has been included in provisional netherlands squad for upcoming games. # mufc [ @ football _ oranje ]
+B-PER I-PER X X O O O O O B-LOC O O O O O B-ORG X O O X O
+B-PER I-PER I-PER I-PER O O O O O B-ORG O O O O O O O O O O O
+
+and you thought the current premier league was banter
+O O O O O B-MISC I-MISC O O
+O O O O O B-ORG I-ORG O O
+
+stoked 4 the upcoming music festival! so i'm planning with these looks what shud i wear.
+O O O O B-MISC I-MISC O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O
+
+i'm starting live on # nba2k17!
+O O O O O O O O X O
+O O O O O O O O B-MISC O
+
+lil wayne has 23 certified platinum singles which is more than any other rapper
+B-PER I-PER O O O O O O O O O O O O
+B-PER I-PER O O O O O O O O O O O O
+
+gang armed with gun, machetes and baseball bats attack barber shop over bad h...
+O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O
+
+great day with @ chance2shine and @ yorkshiretea at an all girls festival in southampton, next stop harrogate
+O O O O X O O X O O B-MISC I-MISC I-MISC O B-LOC O O O B-LOC O
+O O O O B-ORG O O B-ORG O O O O O O B-LOC O O O B-LOC O
+
+it actually happened : jennifer lawrence finally kept her balance on the red carpet.
+O O O O B-PER I-PER O O O O O O O O O
+O O O O B-PER I-PER O O O O O O O O O
+
+jill and i made it tonight to curyville mo for the " back 40 bluegrass festival " - oh and this happened this morning
+B-PER O O O O O O B-LOC I-LOC O O O O O B-MISC I-MISC O O O O O O O O
+B-PER O O O O O O B-LOC B-LOC O O O B-MISC I-MISC I-MISC I-MISC O O O O O O O O
+
+okay that was a great concert. one of the best i've ever been to. also i met such a nice noodle!
+O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O
+
+when someone's life is miserable so they try to rain on my never ending parade.
+O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O
+
+check out the justin bieber calvin klein billboard in new york at nighttime. looks awesome!
+O O O B-PER I-PER B-MISC I-MISC O O B-LOC I-LOC O O O O O O
+O O O B-PER I-PER B-ORG I-ORG O O B-LOC I-LOC O O O O O O
+
+justin bieber had a pretty relaxing day feeding squirrels in boston yesterday :
+B-PER I-PER O O O O O O O O B-LOC O O
+B-PER I-PER O O O O O O O O B-LOC O O
+
+who ( or what ) might ( or might not ) be donald trump's running mate if he's the nominee?
+O O O O O O O O O O O O B-PER I-PER O O O O O O O O O O O
+O O O O O O O O O O O O B-PER I-PER O O O O O O O O O O O
+
+marco rubio faces pressure to run for reelection as gop fears grow over his senate seat
+B-PER I-PER O O O O O O O B-ORG O O O O B-ORG O
+B-PER I-PER O O O O O O O B-ORG O O O O O O
+
+our cocoonbae of the week goes to this beautiful lady.. please tag her # cocoonthursdays
+O O O O O O O O O O O O O O O O X
+O O O O O O O O O O O O O O O O O
+
+happy birthday to james holland! # gosocceroos
+O O O B-PER I-PER O O X
+O O O B-PER I-PER O O O
+
+every harry potter film encapsulated into some awful microsoft paint drawings
+O B-MISC I-MISC O O O O O B-ORG O O
+O B-PER I-PER O O O O O B-ORG O O
+
+flagler schools may be 1 st in florida to get football helmet safety system
+O O O O O O O B-LOC O O O O O O
+B-LOC O O O O O O B-LOC O O O O O O
+
+kim heechul is actually an ethereal soul trapped inside a pretty human's body
+B-PER I-PER O O O O O O O O O O O O O O
+B-PER I-PER O O O O O O O O O O O O O O
+
+found : reading glasses at almonte in concert -
+O O O O O B-LOC O O O
+O O O O O B-MISC I-MISC I-MISC O
+
+donald trump will loose 3 - 5. trump worst candidate
+B-PER I-PER O O O X X O B-PER O O
+B-PER I-PER O O O O O O B-PER O O
+
+t. i. concert : chaos backstage as shots ring out
+O O O O O O O O O O O O
+B-PER I-PER I-PER O O O O O O O O O
+
+@ penguins catch that looser and throw him out of the place!! who'd wear shades during a # game7?! # nhl # pitvstbl
+O X O O O O O O O O O O O O O O O O O O O O X O O B-MISC X O X
+O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O B-ORG O O
+
+rams once again have five first - round picks on defensive line # nfl
+B-ORG O O O O O X X O O O O B-MISC X
+B-ORG O O O O O O O O O O O O B-ORG
+
+yes, victoria beckham has a'00 s hip - hop album and it's amazing
+O O B-PER I-PER O O O O O O X X O O O O O O
+O O B-PER I-PER O O O O O O O O O O O O O O
+
+we had so much fun at the k - 12 program's spring festival today! thanks to students and staff for making it happen.
+O O O O O O O B-MISC X X O O O B-MISC I-MISC O O O O O O O O O O O O
+O O O O O O O O O O O O O B-MISC I-MISC O O O O O O O O O O O O
+
+pres obama takes the stage at @ rutgersu commencement in school football stadium in piscataway, nj.
+B-PER I-PER O O O O O X O O O I-LOC I-LOC O B-LOC O B-LOC O
+O B-PER O O O O O B-ORG O O O O O O B-LOC O B-LOC O
+
+nothing is permanent in this wicked world - not even our troubles. - charlie chaplin # bornonthisday
+O O O O O O O O O O O O O O B-PER I-PER O X
+O O O O O O O O O O O O O O B-PER I-PER O O
+
+apparently this is a leaked picture of harry styles's new hair!?!?
+O O O O O O O B-PER I-PER O O O O O O O O O O O O O
+O O O O O O O B-PER I-PER O O O O O O O O O O O O O
+
+main stage at # pioneers16 festival in vienna
+O O O O X O O B-LOC
+O O O O B-MISC I-MISC O B-LOC
+
+the nfl made some minor changes to its instant replay system today.
+O B-MISC O O O O O O O O O O O
+O B-ORG O O O O O O O O O O O
+
+we have full photo stories from the new trier vs niles west soccer games!
+O O O O O O O O O O B-PER I-PER O O O
+O O O O O O O B-ORG I-ORG O B-ORG I-ORG O O O
+
+in bayelsa : students threaten to parade naked over campus closure
+O B-LOC O O O O O O O O O
+O B-LOC O O O O O O O O O
+
+free food for the people who are waiting for the concert so nice to see! # onelovemanchester
+O O O O O O O O O O O O O O O O O O X
+O O O O O O O O O O O O O O O O O O B-MISC
+
+report : 3 - on - 3 basketball to be added to olympics for 2020 games in tokyo
+O O O X X X X O O O O O B-MISC O O O O B-LOC
+O O O O O O O O O O O O B-MISC O O O O B-LOC
+
+business : forget justin trudeau, it's oil that's driving this loonie rally
+O O O B-PER I-PER O O O O O O O O O O O O
+O O O B-PER I-PER O O O O O O O O O O O O
+
+see video! ryan gosling and eva mendes officially have baby...
+O O O B-PER I-PER O B-PER I-PER O O O O O O
+O O O B-PER I-PER O B-PER I-PER O O O O O O
+
+prague / sonny and his wild cows - concert -
+O X X O O O O O O O
+B-LOC O B-PER I-PER I-PER I-PER I-PER O O O
+
+i'm on my way to my orchestra concert and i'm so nervous cause i have a clarinet solo tonight. jesus help me.
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+
+check out a few of our pictures from denver's # prideparade!
+O O O O O O O O B-LOC O O O X O
+O O O O O O O O B-LOC O O O O O
+
+breaking news : liam payne caught harry styles while fishing
+O O O B-PER I-PER O B-PER I-PER O O
+O O O B-PER I-PER O B-PER I-PER O O
+
+you won't believe what justin bieber had to say about award shows after the # bbmas :
+O O O O O O B-PER I-PER O O O O O O O O B-MISC X O
+O O O O O O B-PER I-PER O O O O O O O O O B-MISC O
+
+justin bieber will dethrone justin bieber after justin bieber dethroned justin bieber.
+B-PER I-PER O O B-PER I-PER O B-PER I-PER O B-PER I-PER O
+B-PER I-PER O O B-PER I-PER O B-PER I-PER O B-PER I-PER O
+
+5 republicans who ’ d seriously consider being donald trump ’ s vp — and 12 who wouldn ’ t
+O O O O O O O O B-PER I-PER O O O O O O O O O O
+O O O O O O O O B-PER I-PER O O O O O O O O O O
+
+duck commander ceo willie robertson has endorsed donald trump! # trump2016 # trumptrain # teamtrump
+O O O B-PER I-PER O O B-PER I-PER O O X O X O X
+B-ORG I-ORG O B-PER I-PER O O B-PER I-PER O O O O O O O
+
+missed dwight yoakam's live performance? watch whole concert here. now!
+O B-PER I-PER O O O O O O O O O O O O
+O B-PER I-PER O O O O O O O O O O O O
+
+@ hit45s 1972, the first stonehenge free festival was held at stonehenge, england culminating on the summer solstice.
+O X O O O B-MISC I-MISC I-MISC O O O B-LOC O B-LOC O O O B-MISC I-MISC O
+O B-ORG O O O B-MISC I-MISC I-MISC O O O B-LOC O B-LOC O O O O O O
+
+when people have stopped speculating about your alleged romance with harry styles
+O O O O O O O O O O B-PER I-PER O
+O O O O O O O O O O B-PER I-PER O
+
+germany's rock am ring festival evacuated after terror threat
+B-LOC O O B-MISC I-MISC I-MISC I-MISC O O O O
+B-LOC O O B-MISC I-MISC I-MISC I-MISC O O O O
+
+how donald trump turned charity money into business revenue :
+O B-PER I-PER O O O O O O O
+O B-PER I-PER O O O O O O O
+
+# ad : ( lot of 19 ) nintendo wii video games collection mario kart ( 3595 )
+O X O O O O O O B-MISC I-MISC I-MISC I-MISC O B-MISC I-MISC O O O
+O O O O O O O O B-ORG O O O O B-MISC I-MISC O O O
+
+pat celebrating her 90 th birthday with emily roux in chez roux at the newmarket guineas festival. # weare350
+B-PER O O O O O O B-PER I-PER O O I-PER O O B-MISC I-MISC I-MISC O O X
+B-PER O O O O O O B-PER I-PER O B-LOC I-LOC O O B-MISC I-MISC I-MISC O O O
+
+watch : ed sheeran cranks out the hits for # carpoolkaraoke [ full ]
+O O B-PER I-PER O O O O O O X O O O
+O O B-PER I-PER O O O O O O B-MISC O O O
+
+i just got a check from my school suddenly i'm going to the shinee concert too
+O O O O O O O O O O O O O O O B-MISC O O
+O O O O O O O O O O O O O O O O O O
+
+at the offf festival in barcelona. # offf16
+O O B-MISC I-MISC O B-LOC O O X
+O O O O O B-LOC O O O
+
+we have just ran into an impromptu math rock concert in one alley in shibuya
+O O O O O O O O O O O O O O B-LOC
+O O O O O O O O O O O O O O B-LOC
+
+kendrick lamar celebrates jay - z, 2 chainz and nipsey hussle : " rap run it 4 ever! ”
+B-PER I-PER O B-PER X X O B-PER I-PER O B-PER O O O O O O O O O O
+B-PER I-PER O B-PER I-PER I-PER O B-PER I-PER O B-PER I-PER O O O O O O O O O
+
+donald trump jumps to 5 point lead over hillary clinton!
+B-PER I-PER O O O O O O B-PER I-PER O
+B-PER I-PER O O O O O O B-PER I-PER O
+
+kylie jenner, kris jenner withdraws from the home after tyga split, gets vulnerable : “ i …
+B-PER I-PER O B-PER I-PER O O O O O B-PER O O O O O O O O
+B-PER I-PER O B-PER I-PER O O O O O B-PER O O O O O O O O
+
+just in : donald trump is under investigation for obstruction of justice. # happybirthdaytrump
+O O O B-PER I-PER O O O O O O O O O X
+O O O B-PER I-PER O O O O O O O O O O
+
+amazing day to practice parade marching! too much to hope it will be like this for august band camp? @ uhs _ pride
+O O O O O O O O O O O O O O O O O O O O O O X
+O O O O O O O O O O O O O O O O O B-ORG I-ORG O O O B-ORG
+
+memorable quotes from harry potter and the philosopher's stone.
+O O O B-MISC I-PER O B-MISC O O O I-MISC O
+O O O B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC O
+
+geno smith not answering questions about ryan fitzpatrick # nfl
+B-PER I-PER O O O O B-PER I-PER B-MISC X
+B-PER I-PER O O O O B-PER I-PER O B-ORG
+
+thanks @ newbalance for these colorful shirts for our recreational soccer program... we love them!
+O O X O O O O O O O O O O O O O O O O
+O O B-ORG O O O O O O O O O O O O O O O O
+
+drake, beyonce, rihanna and justin bieber are the four biggest artists on itunes worldwide!
+B-PER O B-PER O B-PER O B-PER I-PER O O O O O O B-MISC O O
+B-PER O B-PER O B-PER O B-PER I-PER O O O O O O B-ORG O O
+
+men's pick - up basketball every thursday at 6 pm starting on may 12. be sure to invite some friends!
+O O O O X X O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O
+
+all of kendrick lamar's official studio albums are now certified platinum.
+O O B-PER I-PER O O O O O O O O O O
+O O B-PER I-PER O O O O O O O O O O
+
+former notre dame football coach lou holtz endorses donald trump ahead of indiana primary.
+O B-ORG I-ORG O O B-PER I-PER O B-PER I-PER O O B-LOC O O
+O B-ORG I-ORG O O B-PER I-PER O B-PER I-PER O O B-LOC O O
+
+it was a pleasure to host asia model festival.
+O O O O O O B-MISC I-MISC I-MISC O O
+O O O O O O B-MISC I-MISC I-MISC O O
+
+the perfect catch? former mlb player chris leroux to star in the bachelor canada
+O O O O O O O B-PER I-PER O O O O B-MISC I-MISC
+O O O O O B-ORG O B-PER I-PER O O O B-MISC I-MISC I-MISC
+
+nydailynews : jennifer aniston ’ s estranged mom, nancy dow, dies at 79
+O O B-PER I-PER O O O O O B-PER I-PER O O O O
+B-ORG O B-PER I-PER O O O O O B-PER I-PER O O O O
+
+kit harington on the tonight show with jimmy fallon
+B-PER I-PER O O B-MISC I-MISC O B-PER I-PER
+B-PER I-PER O B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC
+
+i need me a lil baby who gon'listen
+O O O O O O O O O O O
+O O O O O O O O O O O
+
+@ squawka koke and zinedine zidane have been named la liga player and manager of the month for april.
+O X I-PER O B-PER I-PER O O O B-MISC I-MISC O O O O O O O O O
+O O B-PER O B-PER I-PER O O O B-ORG I-ORG O O O O O O O O O
+
+christina aguilera has vacation anthem, lotus actually is good album. @ xtina
+B-PER I-PER O O O O B-ORG O O O O O O X
+B-PER I-PER O O O O O O O O O O O B-PER
+
+rt chrisgibsonnews : as justin trudeau visits # fortmcmurray, bbcnews gets access to the cordoned off town to see th …
+O O O O B-PER I-PER O O X O B-ORG O O O O O O O O O O O
+O B-PER O O B-PER I-PER O O B-LOC O B-ORG O O O O O O O O O O O
+
+legendary artist billy joel dedicates song to donald trump at nyc concert, and it gets his …
+O O B-PER I-PER O O O B-PER I-PER O B-LOC O O O O O O O
+O O B-PER I-PER O O O B-PER I-PER O B-LOC O O O O O O O
+
+looking forward to editing some sbu baseball shots from saturday.
+O O O O O B-ORG O O O O O
+O O O O O B-ORG O O O O O
+
+. @ faridyu at @ ridersbaseball in frisco!!
+O O X O O X O B-LOC O O
+O O B-PER O O B-ORG O B-LOC O O
+
+adidas y3 futurecraft 4 d spotted at paris fashion week show
+B-ORG I-MISC I-MISC O O O O B-ORG I-ORG I-ORG O
+B-ORG I-ORG O O O O O B-LOC O O O
+
+the choreographer behind uniqlo's ad on taylor swift and dancing in london
+O O O B-ORG O O O O B-PER I-PER O O O B-LOC
+O O O B-ORG O O O O B-PER I-PER O O O B-LOC
+
+joe biden and elizabeth warren discussed a presidential bid last year, a source tells cnn
+B-PER I-PER O B-PER I-PER O O O O O O O O O O B-ORG
+B-PER I-PER O B-PER I-PER O O O O O O O O O O B-ORG
+
+emma watson. perfection per usual. classy and fabulous. # metgala
+B-PER I-PER O O O O O O O O O O X
+B-PER I-PER O O O O O O O O O O B-MISC
+
+st. louis and san jose face off in western conference finals # nhl
+O O I-LOC O B-LOC I-LOC O O O B-MISC I-MISC I-MISC B-ORG X
+B-ORG I-ORG I-ORG O B-ORG I-ORG O O O O O O O B-ORG
+
+donald trump can't even eat lunch in peace without the fear of'progressive'hate. # protecttrump # tacogate
+B-PER I-PER O O O O O O O O O O O O O O O O O O X O X
+B-PER I-PER O O O O O O O O O O O O O O O O O O O O O
+
+do ryan reynolds and blake lively ever take a bad photo?
+O B-PER I-PER O B-PER I-PER O O O O O O O
+O B-PER I-PER O B-PER I-PER O O O O O O O
+
+justin trudeau is under fire after elbowing a female member of parliament
+B-PER I-PER O O O O O O O O O O
+B-PER I-PER O O O O O O O O O O
+
+kevin love's 19 pts are the most he's scored in any half of his playoff career.
+B-PER I-PER O O O O O O O O O O O O O O O O O O O
+B-PER I-PER O O O O O O O O O O O O O O O O O O O
+
+# tcmff # roosevelthotel all quiet after the tcm film festival.
+O X O X O O O O O I-MISC I-MISC O
+O O O B-LOC O O O O B-MISC I-MISC I-MISC O
+
+how can apple influence every iphone app?
+O O B-ORG O O B-MISC O O
+O O O O O O O O
+
+whoa ready for college football to start
+O O O O O O O O O O O O
+O O O O O O O O O O O O
+
+kevin durant reportedly told raptors reps in 2014 he wouldn't sign with toronto.
+B-PER I-PER O O B-ORG O O O O O O O O O B-ORG O
+B-PER I-PER O O B-ORG O O O O O O O O O B-ORG O
+
+michelle obama's college advice to her daughters is really simple and really good :
+B-PER I-PER O O O O O O O O O O O O O O
+B-PER I-PER O O O O O O O O O O O O O O
+
+. @ chuckwilson _ ef interviewing john williams at @ nepac # footballforyou in nashua, nh.
+O O X O B-PER I-PER O O X O X O B-LOC O B-LOC O
+O O B-PER O B-PER I-PER O O B-ORG O O O B-LOC O B-LOC O
+
+does this mean ricky martin knows i exist? can a bitch get flown out to the premiere?
+O O O B-PER I-PER O O O O O O O O O O O O O O O
+O O O B-PER I-PER O O O O O O O O O O O O O O O
+
+warriorette basketball campers ready for day 2
+O O O O O O O
+B-ORG O O O O O O
+
+these are the camo batting gloves that @ mizunobaseball players are wearing today :
+O O O B-ORG O O O O X O O O O O
+O O O O O O O O B-ORG O O O O O
+
+authentic louis vuitton monogram shoulder bag hand bag croissant mm m51512
+O B-ORG I-ORG O O O O O O O O
+O B-ORG I-ORG O O O O O O O O
+
+aaron mooy focuses on national team, with half an eye on city title push # socceroos
+B-PER I-PER O O O O O O O O O O O O O O X
+B-PER I-PER O O O O O O O O O O O O O O O
+
+penguins rookie jake guentzel has become an nhl playoffs big shot
+B-ORG O B-PER I-PER O O O B-MISC I-MISC O O
+B-ORG O B-PER I-PER O O O B-ORG O O O
+
+# iwasblockedfor asking lil wayne if whoopi goldberg was his mom.
+O X O B-PER I-PER O B-PER I-PER O O O O
+O O O B-PER I-PER O B-PER I-PER O O O O
+
+getting ready to walk on the south side! # glenbardgrad
+O O O O O O O O O O X
+O O O O O O O O O O O
+
+@ blythtownbarca that's the pleasure beach all booked and paid for, no queuing to get in for the barca girls!!
+O X O O O O O I-LOC O O O O O O O O O O O O O B-ORG O O O
+O B-ORG O O O O O O O O O O O O O O O O O O O B-LOC O O O
+
+is defending champ sandeul able to win for the third time on'duet song festival '?
+O O O B-PER O O O O O O O O O B-MISC I-MISC I-MISC O O
+O O O B-PER O O O O O O O O O B-MISC I-MISC I-MISC O O
+
+alisan porter and adam lambert'talked every single day'throughout her journey on the voi …
+B-PER I-PER O B-PER I-PER O O O O O O O O O O O O O
+B-PER I-PER O B-PER I-PER O B-MISC I-MISC I-MISC I-MISC O O O O O O O O
+
+beliebers protest to let justin bieber perform in argentina, despite “ legal # bieber
+O O O O B-PER I-PER O O B-LOC O O O O B-PER X
+O O O O B-PER I-PER O O B-LOC O O O O O B-PER
+
+blake lively is an actual goddess i am in love with her
+B-PER I-PER O O O O O O O O O O
+B-PER I-PER O O O O O O O O O O
+
+nfl : byron bell to miss entire 2016 season :
+B-MISC O B-PER I-PER O O O O O O
+B-ORG O B-PER I-PER O O O O O O
+
+congratulations to bob rivers, president of @ easternbank, a rosoff award 20 / 20 visionary # rosoff20th
+O O B-PER I-PER O O O O X O O B-MISC O O X X O O X
+O O B-PER I-PER O O O O B-ORG O O B-MISC I-MISC O O O O O O
+
+cool sky tonight at soccer. and so very cold. brrrrrrrr
+O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O
+
+justin quintana mvp of the game 2 - for 2 with an inside the park hr! # franklinbaseball # pbc
+B-PER I-PER O O O O O X X O O O O O O O O O X O X
+B-PER I-PER O O O O O O O O O O O O O O O O B-ORG O B-ORG
+
+is it hillsboro or a take that concert,
+O O B-LOC O O O O O O
+O O B-ORG O O O O O O
+
+56. hailey baldwin and justin bieber were cute together. facts facts facts.
+O O B-PER I-PER O B-PER I-PER O O O O O O O O
+O O B-PER I-PER O B-PER I-PER O O O O O O O O
+
+“ when a person tells you that you hurt them, you don ’ t get to decide that you didn ’ t. ” - louis c. k.
+O O O O O O O O O O O O O O O O O O O O O O O O O X X O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER I-PER I-PER O
+
+here's how alabama's 2009 signing class avoided major busts and sent 11 to the # nfl draft
+O O O O B-LOC O O O O O O O O O O O O O B-MISC X O
+O O O O B-ORG O O O O O O O O O O O O O O B-ORG O
+
+24. 06 | justin via instagram # veranomtv2017 justin bieber
+O O B-PER O B-MISC O X B-PER I-PER
+O O B-PER O B-ORG O B-MISC B-PER I-PER
+
+take a look at the 2016 garden grove strawberry festival and parade celebrities!
+O O O O O O B-MISC I-MISC I-MISC I-MISC O O O O
+O O O O O O B-MISC I-MISC I-MISC I-MISC O O O O
+
+must see video : senator schumer lied about the fbi and donald trump
+O O O O B-PER I-PER O O O B-ORG O B-PER I-PER
+O O O O O B-PER O O O B-ORG O B-PER I-PER
+
+thank you for everything you do for me, i love you so much @ carmenbabieeh
+O O O O O O O O O O O O O O O O X
+O O O O O O O O O O O O O O O O B-PER
+
+i have just bought jeremy pied in # dreamleaguesoccer
+O O O O B-PER O O O X
+O O O O B-PER I-PER O O B-MISC
+
+victoria beckham admits her mic wasn't even on during shows :
+B-PER I-PER O O O O O O O O O O O
+B-PER I-PER O O O O O O O O O O O
+
+boys soccer come out on top with a 1 - 0 win against # 2 ranked iowa city west, thursday night.
+O O O O O O O O O X X O O O X O B-LOC I-LOC I-ORG O O O O
+O O O O O O O O O O O O O O O O B-ORG I-ORG I-ORG O O O O
+
+lebron fans this morning like.. # nbafinals # cavs # warriors # next # year # reup
+B-PER O O O O O O O X O X O X O X O X O X
+B-PER O O O O O O O O O B-ORG O B-ORG O O O O O O
+
+what's to become of nba live?
+O O O O O O B-MISC I-MISC O
+O O O O O O B-ORG O O
+
+freshman noah heim coaching the gk's at brookfield soccer association.
+O B-PER I-PER O O O O O O B-LOC I-ORG I-ORG O
+O B-PER I-PER O O O O O O B-ORG I-ORG I-ORG O
+
+you guys : rachel berry from glee is dating clay from one tree hill.
+O O O B-PER I-PER O O O O B-PER O B-LOC I-LOC I-LOC O
+O O O B-PER I-PER O B-MISC O O B-PER O B-MISC I-MISC I-MISC O
+
+mets select ducks pitcher david peterson as first round mlb draft pick # liveonkval
+B-ORG O B-ORG O B-PER I-PER O O O O O O O X
+B-ORG O B-ORG O B-PER I-PER O O O B-ORG O O O O
+
+cannes just became the blake lively show # cannes2016 @ blakelively
+B-LOC O O O B-MISC I-MISC I-MISC O X O X
+B-MISC O O O B-PER I-PER O O O O B-PER
+
+suns out, let's play football..!!
+O O O O O O O O O O O O O
+O O O O O O O O O O O O O
+
+leonardo dicaprio and kate winslet at their first golden globe awards ( 1998 )
+B-PER I-PER O B-PER I-PER O O O B-MISC I-MISC I-MISC O O O
+B-PER I-PER O B-PER I-PER O O O B-MISC I-MISC I-MISC O O O
+
+# huntinggreatness # fishing pro football writers of america awarded raiders defensive end k …
+O X O X B-ORG I-ORG I-ORG I-ORG I-ORG O B-ORG O O B-PER X
+O O O O O O O O B-LOC O B-ORG O O O O
+
+i changed the word " you " to " donald trump " on my mom's phone.
+O O O O O O O O O B-PER I-PER O O O O O O O O
+O O O O O O O O O B-PER I-PER O O O O O O O O
+
+fan throws water bottle at justin bieber after he says he doesn ’ t know the...
+O O O O O B-PER I-PER O O O O O O O O O O O O
+O O O O O B-PER I-PER O O O O O O O O O O O O
+
+@ nfl 13 yr old girl in final wish for message from @ katyperry
+O X O O O O O O O O O O O X
+O B-ORG O O O O O O O O O O O B-PER
+
+rams hire sean mcvay, making him youngest head coach in nfl history # nfl
+B-ORG O B-PER I-PER O O O O O O O B-MISC O B-MISC X
+B-ORG O B-PER I-PER O O O O O O O B-ORG O O B-ORG
+
+wildcat boys basketball camp june 6 - 9. space still available, sign up now! @ lexchronsports2 @ lhs _ wildcats
+B-ORG O O O O O X X O O O O O O O O O O X O X
+O O O O O O O O O O O O O O O O O O B-PER O B-ORG
+
+actual photo of taylor swift going back to december, turning it around, and making it all right
+O O O B-PER I-PER O O O O O O O O O O O O O O
+O O O B-PER I-PER O O O O O O O O O O O O O O
+
+encapsulated with igor after his pre - concert talk - less than 40 mins till the concert.
+O O B-PER O O O X X O O O O O O O O O O
+O O B-PER O O O O O O O O O O O O O O O
+
+has jimmy butler been practicing his " yessssssssss no. 1 pick " celebration before tonight's nba draft lottery?
+O B-PER I-PER O O O O O O O O O O O O O O O B-MISC I-MISC O O
+O B-PER I-PER O O O O O O O O O O O O O O O B-ORG O O O
+
+it was a great night for some wheelchair basketball!!! # adaptivesports # wheelchairbasketball
+O O O O O O O O O O O O O X O X
+O O O O O O O O O O O O O O O O
+
+my # teenchoice nominee for # choiceselfietaker is one direction @ onedirection
+O O X O O O X O O O O X
+O O O O O O O O B-PER I-PER O B-PER
+
+calvin klein in collaboration with eco age. dress made up of plastic bottles.
+B-PER I-PER O O O B-ORG I-ORG O O O O O O O O
+B-ORG I-ORG O O O B-ORG I-ORG O O O O O O O O
+
+i studied in the same college as shah rukh khan. that...
+O O O O O O O B-PER I-PER I-PER O O O O O
+O O O O O O O B-PER I-PER I-PER O O O O O
+
+in his final days of the presidency, president barack obama has lost the little bit of chill that was left.
+O O O O O O O O B-PER I-PER I-PER O O O O O O O O O O O
+O O O O O O O O O B-PER I-PER O O O O O O O O O O O
+
+lorenzo of little rock won $ 10, 000 playing a $ 10 $ 10, 000 blowout instant ticket from buffalo store in little rock
+B-PER O B-LOC I-LOC O O O O O O O O O O O O O B-LOC O O B-LOC I-LOC
+B-PER O B-LOC I-LOC O O O O O O O O O O O O O B-LOC I-LOC O B-LOC I-LOC
+
+that time they gave me a one direction poster and leeyum showed up
+O O O O O O O O O O B-PER O O
+O O O O O O B-PER I-PER O O B-PER O O
+
+kevin love was more excited about # gameofthrones than beating the # hawks
+B-PER I-PER O O O O O X O O O B-ORG X
+B-PER I-PER O O O O O B-MISC O O O O B-ORG
+
+pink game baseballs are ready to go.
+O O O O O O O O
+O O O O O O O O
+
+colts have 4 th best qb situation in nfl with andrew luck # coltstrong
+B-ORG O O O O O O O B-MISC O B-PER I-PER O X
+B-ORG O O O O O O O B-ORG O O O O O
+
+donald trump just held the weirdest cabinet meeting ever | analysis by @ cillizzacnn
+B-PER I-PER O O O O O O O O O O O X
+B-PER I-PER O O O O O O O O O O O B-PER
+
+a teacher affects eternity ; he can never tell where his influence stops. henry adams # thankateacher this week.
+O O O O O O O O O O O O O O B-PER I-PER O X O O O
+O O O O O O O O O O O O O O B-PER I-PER O O O O O
+
+l l l # tomcruise # dvd top gun dvd and digital copy tom cruise meg ryan val kilmer
+O O O O X O X O O O O O O B-PER I-PER B-PER I-PER B-PER I-PER
+O O O O B-PER O O B-MISC I-MISC O O O O B-PER I-PER B-PER I-PER B-PER I-PER
+
+lil wayne and kendrick lamar have a collab on'tha carter v '
+B-PER I-PER O B-PER I-PER O O O O O B-MISC I-MISC I-MISC O
+B-PER I-PER O B-PER I-PER O O O O O B-MISC I-MISC I-MISC O
+
+matt loves me almost as much as he loves baseball butts. # gojays
+B-PER O O O O O O O O O O O O X
+B-PER O O O O O O O O O O O O O
+
+who doesn't love dish soap that smells good a works great! # palmolivefusion thank you @ influenster
+O O O O O O O O O O O O O O O X O O O X
+O O O O O O O O O O O O O O O O O O O B-ORG
+
+football season is comming [ image ]
+O O O O O O O
+O O O O O O O
+
+today will go down in history. a win for football
+O O O O O O O O O O O
+O O O O O O O O O O O
+
+every month of 30 th lebron james gear off 50 % sale! # kingjames # cavaliers # nbafinals
+O O O O O B-PER I-PER O O O O O O O X B-ORG X O X
+O O O O O B-PER I-PER O O O O O O O O O B-ORG O O
+
+my favorite nfl play of all time. larry allen was a beast. [ 1 : 02 ]
+O O B-MISC O O O O O B-PER I-PER O O O O O O O O O
+O O B-ORG O O O O O B-PER I-PER O O O O O O O O O
+
+nice image of kevin love and kyle korver during 1 st half # nbafinals # cavsin9 # cleveland
+O O O B-PER I-PER O B-PER I-PER O O O O O X O X B-LOC X
+O O O B-PER I-PER O B-PER I-PER O O O O O O O O O B-ORG
+
+thegreatestbar : ladies, bring your concert stub after selenagomez this saturday to keep t …
+O O O O O O O O O B-PER O O O O O X
+B-ORG O O O O O O O O O O O O O O O
+
+justin bieber, in town for the # purposetour, was seen walking barefoot around boston yesterday.
+B-PER I-PER O O O O O O X O O O O O O B-LOC O O
+B-PER I-PER O O O O O O O O O O O O O B-LOC O O
+
+david bowie at red square in moscow, 1973.
+B-PER I-PER O B-LOC I-LOC O B-LOC O O O
+B-PER I-PER O B-LOC I-LOC O B-LOC O O O
+
+tribe come back from 7 - run deficit to beat rangers 15 - 9 # indians # mlb
+B-ORG O O O O X X O O O B-ORG O X X B-ORG X B-MISC X
+B-ORG O O O O O O O O O B-ORG O O O O B-ORG O B-ORG
+
+ryan reynolds is me as a parent
+B-PER I-PER O O O O O O O
+B-PER I-PER O O O O O O O
+
+my favorite football team hit me up! # benfica
+O O O O O O O O B-ORG X
+O O O O O O O O O B-ORG
+
+i miss it so much but now it's time for summer ball and soccer
+O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O
+
+our live coverage of the kingdom hearts orchestra concerts and...
+O O O O O B-MISC I-MISC I-MISC O O O O O
+O O O O O B-PER I-PER I-PER O O O O O
+
+me trying to explain harry potter to a muggle
+O O O O B-MISC I-MISC O O O
+O O O O B-MISC I-MISC O O O
+
+butler's chris holtmann has reportedly been hired as ohio state's next basketball coach.
+O O O B-PER I-PER O O O O O B-ORG I-ORG O O O O O O
+B-ORG O O B-PER I-PER O O O O O B-ORG I-ORG O O O O O O
+
+dead ass thought this was edward scissorhands rt @ sinnamons : another look at taylor swift for the road # metgala
+O O O O O B-PER I-PER O O X O O O O B-PER I-PER O O O O X
+O O O O O B-MISC I-MISC O O B-PER O O O O B-PER I-PER O O O O B-MISC
+
+final : @ connecticutsun 96 - 89 @ seattlestorm. # wnbalive
+O O O X O X X O X O O X
+O O O B-ORG O O O O B-ORG O O O
+
+football time can also be quality time!
+O O O O O O O O
+O O O O O O O O
+
+warriors dethrone cavaliers, capture nba title with 129 - 120 win
+O O B-ORG O O B-MISC O O O X X O
+B-ORG O B-ORG O O B-ORG O O O O O O
+
+jennifer lopez seriously called drake a'booty call'at a concert
+B-PER I-PER O O B-PER O O O O O O O O
+B-PER I-PER O O B-PER O O O O O O O O
+
+marco rubio says it's a " safe assumption " he'll run for office again
+B-PER I-PER O O O O O O O O O O O O O O O O
+B-PER I-PER O O O O O O O O O O O O O O O O
+
+john lennon's lyrics for'in my life,'1965
+B-PER I-PER O O O O O B-MISC I-MISC I-MISC O O O
+B-PER I-PER O O O O O B-MISC I-MISC I-MISC O O O
+
+great to be part of such an exciting project! # shanghai # china # sport # soccer
+O O O O O O O O O O B-LOC X B-LOC X O X O X
+O O O O O O O O O O O B-LOC O B-LOC O O O O
+
+hope everyone's having fun @ gabsfestival sydney. don't forget to get your @ parrotdog tat! # parrotdog4life
+O O O O O O O X B-LOC O O O O O O O O O X O O O X
+O O O O O O O B-MISC B-LOC O O O O O O O O O O O O O O
+
+samini and rocky dawuni safely in seattle for 4 th madaraka festival concert
+B-PER O B-PER I-PER O O B-LOC O O O B-MISC I-MISC O
+B-PER O B-PER I-PER O O B-LOC O O O B-MISC I-MISC O
+
+nw rankin eliminates warren central in class 6 a baseball playoffs :
+B-ORG I-ORG O B-ORG I-ORG O O O O O O O
+B-ORG I-ORG O B-ORG I-ORG O O O O O O O
+
+# warriors win the # nbafinals, social media goes nuts
+B-ORG X O O O X O O O O O
+O B-ORG O O O O O O O O O
+
+a donald trump presidency won ’ t slow fiera capital ’ s u. s. expansion : ceo
+O B-PER I-PER O O O O O B-ORG I-ORG O O O O O O O O O
+O B-PER I-PER O O O O O B-ORG I-ORG O O B-LOC I-LOC I-LOC O O O O
+
+here ’ s why hillary clinton will lose the general election to donald trump
+O O O O B-PER I-PER O O O O O O B-PER I-PER
+O O O O B-PER I-PER O O O O O O B-PER I-PER
+
+# nowplaying turn down for what ( clean ) by dj snake and lil jon ( click link )
+O X O O O O O O O O B-PER I-PER O B-PER I-PER O O O O
+O O B-MISC I-MISC I-MISC I-MISC O O O O B-PER I-PER O B-PER I-PER O O O O
+
+here are the first photos of the harry potter play cast in character
+O O O O O O O B-MISC I-MISC O O O O
+O O O O O O O B-MISC I-MISC O O O O
+
+akdong musician wants to pair up with this infinity challenge member for its music festival …
+B-ORG I-ORG O O O O O O B-MISC I-MISC O O O O O O
+B-PER I-PER O O O O O O B-MISC I-MISC O O O O O O
+
+this was harry styles when he found out his fedora could float
+O O B-PER I-PER O O O O O B-MISC O O
+O O B-PER I-PER O O O O O O O O
+
+here is an excellent reason to vote for donald trump :
+O O O O O O O O B-PER I-PER O
+O O O O O O O O B-PER I-PER O
+
+thanks to @ mlb commissioner robert manfred jr. for sending me this signed ball free of charge! # ttmsuccess # autograph
+O O O X O B-PER I-PER I-PER O O O O O O O O O O O O X O X
+O O O B-ORG O B-PER I-PER I-PER O O O O O O O O O O O O O O O
+
+jsu baseball vs. texas southern update # jsumorethanagame
+B-ORG O O O B-ORG I-ORG O O X
+B-ORG I-ORG O O B-ORG I-ORG O O O
+
+this is what harry potter's grown - up family looks like
+O O O B-PER I-PER O O O X X O O O
+O O O B-PER I-PER O O O O O O O O
+
+baseball gods arnt in our favor today
+O O O O O O O
+O O O O O O O
+
+read what will happen to man utd if they fail to qualify for champions league football …
+O O O O O B-ORG I-ORG O O O O O O B-MISC I-MISC O O
+O O O O O B-ORG I-ORG O O O O O O B-ORG I-ORG O O
+
+million reasons by lady gaga has officially sold over 1 million copies in the us.
+B-MISC I-MISC O B-PER I-PER O O O O O O O O O B-LOC O
+O O O B-PER I-PER O O O O O O O O O B-LOC O
+
+@ alexkennedynba @ cbssports well would you look at that
+O X O X O O O O O O
+O B-PER O B-ORG O O O O O O
+
+only 7 days to go until # mayfestival kicks off - snap up tickets while you can!
+O O O O O O O X O O O X O O O O O O
+O O O O O O O O O O O O O O O O O O
+
+tom cotton rips into ‘ bitter, vulgar ’ harry reid ’ s ‘ cancerous ’ leadership ’
+B-PER I-PER O O O O O O O B-PER I-PER O O O O O O O
+B-PER I-PER O O O O O O O B-PER I-PER O O O O O O O
+
+ticket prices for ed sheeran concert in manila released
+O O O B-PER I-PER O O B-LOC O
+O O O B-PER I-PER O O B-LOC O
+
+june football signing period rejected by ncaa
+O O O O O O B-ORG
+O O O O O O B-ORG
+
+# hampdendragons mr. o is directing at the 5 th grade band concert!
+O X O O I-PER O O O O O O O O O O O
+O O O O B-PER O O O O O O O O O O O
+
+a great night for some gamecock baseball # gococks
+O O O O O O O O O O O X
+O O O O O O O O O O O O
+
+coach carraci with the infield # pepsibaseball # baberuth
+O B-PER O O O O X O X
+O B-PER O O O O O O O
+
+15 hair products kendall jenner and harry styles can share :
+O O O B-PER I-PER O B-PER I-PER O O O
+O O O B-PER I-PER O B-PER I-PER O O O
+
+heat reportedly expect chris bosh to return next season after dealing with blood clots
+O O O B-PER I-PER O O O O O O O O O
+B-ORG O O B-PER I-PER O O O O O O O O O
+
+tim donaghy claims the nba is fixing the 2017 nba finals
+B-PER I-PER O O B-MISC O O O O B-MISC I-MISC
+B-PER I-PER O O B-ORG O O O O O O
+
+congrats to dickson county's jasmine daniel, who signed to play basketball at columbia state community college.
+O O B-LOC I-LOC O O B-PER I-PER O O O O O O O B-ORG I-ORG I-ORG I-ORG O
+O O B-ORG I-ORG O O B-PER I-PER O O O O O O O B-ORG I-ORG I-ORG I-ORG O
+
+flashback : david petraeus was prosecuted for leaking personal memos
+O O B-PER I-PER O O O O O O
+O O B-PER I-PER O O O O O O
+
+kids line up for a parade of ducklings through their schoolyard
+O O O O O O O O O O O
+O O O O O O O O O O O
+
+english premier league side stoke city the latest to inquire about mubarak wakaso
+B-ORG I-ORG I-ORG O B-ORG I-ORG O O O O O B-PER I-PER
+B-ORG I-ORG I-ORG O B-ORG I-ORG O O O O O B-PER I-PER
+
+drive 2 : the uber years official trailer ( 2016 ) ryan gosling
+O O O O B-MISC I-MISC O O O O O B-PER I-PER
+B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC O O O O O B-PER I-PER
+
+labyrinth becomes a board game complete with goblin king jareth / david bowie figurine # movie
+B-MISC O O O O O O B-MISC I-MISC I-PER X X I-PER O O X
+B-MISC O O O O O O O O B-PER O B-PER I-PER O O O
+
+@ espnnfl giants were " vape " orized
+O X O O O O O O
+O B-ORG B-ORG O O O O O
+
+cristiano ronaldo becomes first footballer ever to score...
+B-PER I-PER O O O O O O O O O
+B-PER I-PER O O O O O O O O O
+
+stephen colbert talked to kids about the election and it was hilarious
+B-PER I-PER O O O O O O O O O O
+B-PER I-PER O O O O O O O O O O
+
+chelsea boss antonio conte wants cut - price double deal for serie a pair - …
+B-ORG O B-PER I-PER O O X X O O O B-MISC O O X X
+B-ORG O B-PER I-PER O O O O O O O B-ORG I-ORG O O O
+
+3 rd set at the house and garden festival in the @ mosimannsltd restaurant!!
+O O O O O B-MISC I-MISC I-MISC I-MISC O O O X O O O
+O O O O O B-MISC I-MISC I-MISC I-MISC O O O B-LOC I-LOC O O
+
+oh what a wonderful day for some @ orioles baseball! meet us in bmore for an awesome o's night!
+O O O O O O O O X O O O O O B-LOC O O O O O O O O
+O O O O O O O O B-ORG O O O O O B-LOC O O O B-ORG I-ORG I-ORG O O
+
+summer is coming! time to get your # tubeamp ready for the concert season.
+O O O O O O O O O X O O O O O O
+O O O O O O O O O O O O O O O O
+
+@ dave _ schilling this is what you miss when you're not watching national @ e40 # nbafinals
+O X O O O O O O O O O O O O O X O X
+O B-PER O O O O O O O O O O O O O B-PER O O
+
+you're inflaming everybody!': watch reporters clash with sanders over press coverage emma fierberg
+O O O O O O O O O O O O B-PER O O O B-PER I-PER
+O O O O O O O O O O O O B-PER O O O B-PER I-PER
+
+chiropractors help athletes treat baseball injuries
+B-ORG O O O O O
+O O O O O O
+
+the tackleafrica london football marathon is go!
+O O B-LOC O O O O O
+O B-MISC B-LOC O O O O O
+
+# football # apparel new york # giantss shirt sz s
+O X O X B-LOC I-LOC O X O O O
+O O O O O O O O O O O
+
+# nhlplayoffs predators hand # ducks fourth straight game 7 home loss
+O X B-ORG O B-ORG X O O O O O O
+O O B-ORG O O B-ORG O O O O O O
+
+as seattle stews about failed vote for nba arena, was there a team ready to move?
+O B-LOC O O O O O B-MISC I-LOC O O O O O O O O O
+O B-ORG O O O O O B-ORG O O O O O O O O O O
+
+iso of someone to go to halsey's concert with in november
+O O O O O O B-PER O O O O O O O
+O O O O O O B-PER O O O O O O O
+
+what an amazing night with @ ellieevans99 watching @ manicstreetpreachers best concert ever!
+O O O O O O X O O X O O O O
+O O O O O O B-PER O O B-ORG O O O O
+
+don't miss out on this year's amazing pops concert @ cds!!! buy your tickets tomorrow before they sell out!!
+O O O O O O O O O O O B-MISC O O X O O O O O O O O O O O O O O O O O X
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+
+adam scott didn ; # 39 ; t mince words when sharing his thoughts on the usga - golf digest
+B-PER I-PER O O O X O O O O O O O O O O B-MISC X X O
+B-PER I-PER O O O O O O O O O O O O O O B-ORG O B-ORG I-ORG
+
+# thecomeback reunion panel at @ atxfestival with @ lisakudrow, michael patrick king @ danbucatinsky laura silverman
+O X O O O O X O O X O B-PER I-PER I-PER O X B-PER I-PER
+O O O O O O B-MISC O O B-PER O B-PER I-PER I-PER O B-PER B-PER I-PER
+
+aaarrrhhh! ahoy there! i'm blue beard and i'm here to guide you through the festival! '
+O O O O O O O O B-PER I-PER O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O
+
+play the sport you love for him # playforgod # basketball
+O O O O O O O O O X O X
+O O O O O O O O O O O O
+
+lol - why @ theniceguys producer is " ripping " into ryan gosling and russell crowe
+O O O O X O O O O O O B-PER I-PER O B-PER I-PER
+O O O O O O O O O O O B-PER I-PER O B-PER I-PER
+
+i can't take a simple picture without laughing my head off @ olifantnutella you're a bad influence
+O O O O O O O O O O O O O O O O X O O O O O O O
+O O O O O O O O O O O O O O O O B-PER O O O O O O O
+
+30 red carpet photos from the cannes film festival : blake lively, victoria beckham
+O O O O O O B-MISC I-MISC I-MISC O B-PER I-PER O B-PER I-PER
+O O O O O O B-MISC I-MISC I-MISC O B-PER I-PER O B-PER I-PER
+
+have you booked your place @ a1fballfactory half term football camp yet? call or ask at reception to secure your spot
+O O O O O O X O O O O O O O O O O O O O O O
+O O O O O O B-ORG O O O O O O O O O O O O O O O
+
+the world cup is the biggest soccer tournament in the world.
+B-MISC I-MISC I-MISC O O O O O O O O O
+O B-MISC I-MISC O O O O O O O O O
+
+donald trump's white house needs theresa may to save it -
+B-PER I-PER O O B-LOC I-LOC O B-PER I-PER O O O O
+B-PER I-PER O O B-ORG I-ORG O B-PER I-PER O O O O
+
+an inflatable nightclub for a dance - crazed soon - to - be 4 yr olds party! it's going to be amazing! @ creative _ partys
+O O O O O O X X O X X X X O O O O O O O O O O O O O O X
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+
+can we talk about this 15 day difference / glow up really quick? # tanbabes
+O O O O O O O O X O O O O O O X
+O O O O O O O O O O O O O O O O
+
+sydney / / / a new arts, culture and food festival is coming to sydney ’ s west.
+O O X X O O O O O O I-MISC I-MISC O O O B-LOC O O O O
+B-LOC O O O O O O O O O O O O O O B-LOC O O O O
+
+justin bieber performando no billboard music awards 2016, em las vegas - 22 de maio :
+B-PER I-PER O O B-MISC I-MISC I-MISC O O B-LOC I-LOC O O O O O
+B-PER I-PER O O B-MISC I-MISC I-MISC O O B-LOC I-LOC O O O O O
+
+best songs of the week featuring vince staples, lil wayne and more
+O O O O O O B-PER I-PER O B-PER I-PER O O
+O O O O O O B-PER I-PER O B-PER I-PER O O
+
+so proud of my little baseball star, he hit it off the machine today!
+O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O
+
+when you find out you can't go to drakes concert.
+O O O O O O O O O O B-MISC O O
+O O O O O O O O O O O O O
+
+we are inspired by @ briana _ pegado, the founder of the edinburgh student arts festival.
+O O O O O X O O O O O B-MISC I-MISC I-MISC I-MISC O
+O O O O O B-PER O O O O O B-MISC I-MISC I-MISC I-MISC O
+
+# nbaboss charlotte head coach steve clifford prior to game 7 of the @ miamiheat vs. @ hornets series. by adamsilvernb …
+B-ORG X B-ORG O O B-PER I-PER O O O O O O O X O O O X O O O O O
+O O B-ORG O O B-PER I-PER O O O O O O O B-ORG O O O B-ORG O O O O O
+
+i can't believe this guy is coaching in the nba. he couldn't coach me at niu but had been in the nba for years now.
+O O O O O O O O O O O B-MISC O O O O O O O O B-ORG O O O O O B-MISC O O O O
+O O O O O O O O O O O B-ORG O O O O O O O O B-ORG O O O O O B-ORG O O O O
+
+paul pierce has high confidence in kevin durant. ( via @ espnnba )
+B-PER I-PER O O O O B-PER I-PER O O O O X O
+B-PER I-PER O O O O B-PER I-PER O O O O B-ORG O
+
+statement from roger federer regarding his withdrawal from roland garros
+O O B-PER I-PER O O O O B-ORG I-ORG
+O O B-PER I-PER O O O O B-MISC I-MISC
+
+2016 all - mbl baseball : local trio garners first - team accolades ;...
+O O X X O O O O O O X X O O O O O
+O O O B-ORG O O O O O O O O O O O O O
+
+glad they're putting on more seats for the southside festival this year
+O O O O O O O O O O B-MISC I-MISC O O
+O O O O O O O O O O B-MISC I-MISC O O
+
+take a look at our new look on - line # football store here :
+O O O O O O O O X X O X O O O
+O O O O O O O O O O O O O O O
+
+donald trump spent much of a rally thrashing republican rivals who no longer threaten him
+B-PER I-PER O O O O O O O O O O O O O
+B-PER I-PER O O O O O O B-ORG O O O O O O
+
+emma watson admits to offshore company after exposure in the panama papers via tim …
+B-PER I-PER O O O O O O O O O O O B-PER X
+B-PER I-PER O O O O O O O O B-MISC I-MISC O O O
+
+3 rd and final day of the may festival @ chesterraces - neck or less free bet offer applies to all today's flat action
+O O O O O O O B-MISC I-MISC O X O O O O O O O O O O O O O O O
+O O O O O O O O O O B-MISC O O O O O O O O O O O O O O O
+
+we are here!!!! lots of sunshine!! ready for beach time and baseball
+O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O
+
+# nfl oakland # raiders 2016 nfl draft wishlist
+B-MISC X I-MISC B-ORG X O B-MISC I-MISC O
+O B-ORG B-ORG I-ORG I-ORG O B-ORG O O
+
+on our last stretch before the uefa champions league final ceremony on saturday! very exciting! @ uefachampionsli
+O O O O O O B-MISC I-MISC I-MISC O O O O O O O O O X
+O O O O O O B-ORG I-ORG I-ORG O O O O O O O O O B-ORG
+
+it's safety day in wainfleet!! aria loved being on the fire hose with her dad! # daddysgirl …
+O O O O O O B-LOC O O B-PER O O O O O O O O O O O X O
+O O O O O O B-LOC O O B-PER O O O O O O O O O O O O O
+
+tens of thousands expected for puerto rican day parade # us # news
+O O O O O B-MISC X I-MISC O B-LOC X O X
+O O O O O B-LOC I-LOC O O O B-LOC O O
+
+@ amyatfamous will be at @ isleofwightfest again today! stay tuned!! # famousaaa # isleofwightfestival
+O X O O O O X O O O O O O O O X O X O O
+O B-PER O O O O B-MISC O O O O O O O O O O B-MISC O O
+
+thanks for making the serie a special. thank you for all the emotions that you've given us over the years. gamba
+O O O O O O O O O O O O O O O O O O O O O O O O B-MISC O
+O O O O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O
+
+good morning from the first day of epcot's international festival of the art # waltdisneyworld
+O O O O O O O B-ORG O O B-MISC I-MISC I-MISC I-MISC I-MISC O X
+O O O O O O O B-LOC O O B-MISC I-MISC I-MISC I-MISC I-MISC O O
+
+important principles may, and must, be inflexible.
+O O O O O O O O O O
+O O O O O O O O O O
+
+refugees reduce conflict and protect forest in cameroon with new stoves :
+O O O O O O O B-LOC O O O O
+O O O O O O O B-PER O O O O
+
+big crowds at sunday's @ dmartsfestival - 20 years and going strong. # dmaf20
+O O O O O O O X O O O O O O O O X
+O O O O O O O B-MISC O O O O O O O O B-MISC
+
+12 sure - fire ways to torpedo your campaign - - unless you're donald trump
+O O X X O O O O O X X O O O O B-PER I-PER
+O O O O O O O O O O O O O O O B-PER I-PER
+
+authentic louis vuitton lv gold old cadena padlock key 18 set lot vintage 1037
+O B-ORG I-ORG O O O O O O O O O O O
+O B-ORG I-ORG O O O O O O O O O O O
+
+my son was excited about the win # dubnation # nbafinals # customjersey # goldenstatewarriors
+O O O O O O O O X O X O X O X
+O O O O O O O O B-ORG O O O O O B-ORG
+
+when the football team says : " this year is our year bro. " every year.
+O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O
+
+alfred hitchcock on the beach during the 1963 cannes film festival
+B-PER I-PER O O O O O O B-MISC I-MISC I-MISC
+B-PER I-PER O O O O O O B-MISC I-MISC I-MISC
+
+did you know that @ officialeatb is rocking on sep 28 in sacramento? don't miss this concert!
+O O O O O X O O O O O O B-LOC O O O O O O O O
+O O O O O B-PER O O O O O O B-LOC O O O O O O O O
+
+‘ the mummy ’ reboot ’ s official synopsis teases gods and monsters and tom cruise :
+O B-MISC I-MISC O O O O O O O O O O O B-PER I-PER O
+O B-MISC I-MISC O O O O O O O O O O O B-PER I-PER O
+
+diplo says major lazer ; justin bieber collab is " happening "
+B-PER O O O O B-PER I-PER O O O O O
+B-PER O B-PER I-PER O B-PER I-PER O O O O O
+
+indiana man arrested for allegedly threatening to kill donald trump and his family :
+B-LOC O O O O O O O B-PER I-PER O O O O
+B-LOC O O O O O O O B-PER I-PER O O O O
+
+sergio ramos : " it would be a big opportunity missed "
+B-PER I-PER O O O O O O O O O O
+B-PER I-PER O O O O O O O O O O
+
+let an angry seth meyers guide you through the comey hearing
+O O O B-PER I-PER O O O O O O
+O O O B-PER I-PER O O O O B-PER O
+
+stephen curry responds to lebron james'nba mvp comments # warriors
+B-PER I-PER O O B-PER I-PER O B-MISC I-MISC O O X
+B-PER I-PER O O B-PER I-PER O B-ORG O O O B-ORG
+
+emmanuel adebayor signs 18 months deal with turkish football club
+B-PER I-PER O O O O O B-ORG I-ORG I-ORG
+B-PER I-PER O O O O O B-LOC O O
+
+( 3 ) another photo of justin bieber spotted out in monaco today. ( june 27 )
+O O O O O O B-PER I-PER O O O B-LOC O O O O O O
+O O O O O O B-PER I-PER O O O B-LOC O O O O O O
+
+great to meet army west point asst. coach sean saturnio, who was at # lamiradafootball practice today. # hpt
+O O O B-ORG I-ORG I-ORG O O O B-PER I-PER O O O O O X O O O O X
+O O O B-ORG I-ORG I-ORG O O O B-PER I-PER O O O O O B-ORG O O O O O
+
+get my new book today charlie chaplin : a silent icon by jimmy star
+O O O O O B-PER I-PER O B-MISC I-MISC I-MISC O B-PER I-PER
+O O O O O B-PER I-PER O O O O O B-PER I-PER
+
+coyote basketball camps this summer at coussoulis arena
+O O O O O O B-LOC I-LOC
+B-ORG O O O O O B-LOC I-LOC
+
+@ bbc join us at saffron walden football club today for the real family fun day!!
+O X O O O B-LOC I-LOC I-LOC I-LOC O O O O O O O O O
+O B-ORG O O O B-ORG I-ORG I-ORG I-ORG O O O O O O O O O
+
+# pyb dancing in the streets at # healthykidsfestival yesterday! # pda # dance
+B-PER X O O O O O O X O O B-ORG X O X
+O O O O O O O O O O O O O O O
+
+a team of british special forces is safe thanks to the efforts of a german shepherd traine …
+O O O B-ORG I-ORG I-ORG O O O O O O O O O O O O
+O O O B-PER I-PER I-PER O O O O O O O O B-LOC O O O
+
+# newyork # giants new york giants # nfl throw pillow northwest blue / red / white …
+B-LOC X O X B-ORG I-ORG I-ORG B-MISC X O O O O X X X X O
+O O O O O O O O O O O O O O O O O O
+
+throwback to when wayne rooney was spotted at stamford bridge in drag
+O O O B-PER I-PER O O O B-LOC I-LOC O O O
+O O O B-PER I-PER O O O B-LOC I-LOC O O O
+
+now that we are in 2017, i'm looking forward to warmer weather and @ elli _ utterback's soccer matches!!
+O O O O O O O O O O O O O O O O X O O O O O O O
+O O O O O O O O O O O O O O O O B-PER O O O O O O O
+
+folks, bill maher has always been 100 % islamaphobic, sexist, pedophilic, racist trash.
+O O B-PER I-PER O O O O O O O O O O O O O O
+O O B-PER I-PER O O O O O O O O O O O O O O
+
+senior soccer players and families!!
+O O O O O O O
+O O O O O O O
+
+kim kardashian ’ s gigantic butt eats her bikini!!! & gt ; & gt ; & gt ; & gt ;
+B-PER I-PER O O O O O O O O O O O X O O X O O X O O X O
+B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O
+
+atlanta falcons : 3 questions heading into training camp # atlantafalcons # nfl
+B-ORG I-ORG O O O O O O O O X B-MISC X
+B-ORG I-ORG O O O O O O O O B-ORG O B-ORG
+
+exclusive : kris jenner and the shady crew behind her $ 105, 000 - a - year business school :
+O O B-PER I-PER O O O O O O O O X X X X O O O
+O O B-PER I-PER O B-PER I-PER I-PER O O O O O O O O O O O
+
+seth meyers has a message for hillary voters : bernie is not hurting your candidate
+B-PER I-PER O O O O B-PER O O B-PER O O O O O
+B-PER I-PER O O O O B-PER O O B-PER O O O O O
+
+oh i am just so excited! # londonburlesquefestival
+O O O O O O O O X
+O O O O O O O O B-LOC
+
+2016 barbra streisand concert tickets united center for chicago, il on tuesday, august 9 th : …
+O B-PER I-PER O O B-LOC I-LOC O B-LOC O B-LOC O O O O O O O O
+O B-PER I-PER O O B-LOC I-LOC O B-LOC O B-LOC O O O O O O O O
+
+thanks for sharing your concert with me @ abbybirch18 @ gabbyshorter
+O O O O O O O O X O X
+O O O O O O O O B-PER O B-PER
+
+lady gaga today in new york, if this isn't winning i don't know what is.
+B-PER I-PER O O B-LOC I-LOC O O O O O O O O O O O O O O O
+B-PER I-PER O O B-LOC I-LOC O O O O O O O O O O O O O O O
+
+prior to justin timberlake taking to the stage, i thought i'd remind you of my best # eurovision pun.
+O O B-PER I-PER O O O O O O O O O O O O O O O B-MISC X O O
+O O B-PER I-PER O O O O O O O O O O O O O O O O B-MISC O O
+
+# rt # follow calvin harris hospitalized after'violent'car accident - new york daily news
+O X O X B-PER I-PER O O O O O O O O B-ORG I-ORG I-ORG I-ORG
+O O O O B-PER I-PER O O O O O O O O B-ORG I-ORG I-ORG I-ORG
+
+chelsea paid £ 150. 8 m by premier league after winning 2016 - 17 title
+B-ORG O O O O O B-ORG I-ORG O O O X X O
+B-ORG O O O O O B-ORG I-ORG O O O O O O
+
+my team chelsea won the champions against league football when funny fernando league before torres
+O O B-ORG O O O O O O O O B-PER O O B-PER
+O O B-ORG O O O O O O O O B-PER O O B-PER
+
+russell westbrook pulls up for a jumper during game 7 :
+B-PER I-PER O O O O O O O O O
+B-PER I-PER O O O O O O O O O
+
+# iphoneat10 : how steve jobs and apple changed modern society
+O X O O B-PER I-PER O B-ORG O O O
+O O O O B-PER I-PER O B-ORG O O O
+
+rt mensfitness : rt mensfitnesswire : kevin hart gives props to nba finals mvp kevin durant :
+O O O O O O B-PER I-PER O O O B-MISC I-MISC I-MISC B-PER I-PER O
+O B-ORG O O B-ORG O B-PER I-PER O O O B-ORG O O B-PER I-PER O
+
+seven former fresno state players sign nfl free - agent deals...
+O O B-ORG I-ORG O O B-MISC O X X O O O O
+O O B-ORG I-ORG O O B-ORG O O O O O O O
+
+actis band rocking out at the spring concert 2016.
+B-ORG O O O O O O O O O
+B-PER I-PER O O O O O O O O
+
+did you know lady gaga took a photo with @ thechainsmokers?
+O O O B-PER I-PER O O O O O X O
+O O O B-PER I-PER O O O O O B-PER O
+
+happy mother's day to the best soccer moms out there
+O O O O I-MISC O O O O O O O O O
+O O O O O O O O O O O O O O
+
+as a # sensitive person, chances are you'll have had some kind of # conflict with a'pusher '.
+O O O X O O O O O O O O O O O O O X O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O
+
+jennifer lopez looks fabulous in a bikini during miami vacay :
+B-PER I-PER O O O O O O O O O
+B-PER I-PER O O O O O O B-LOC O O
+
+missed jerry seinfeld's live performance? watch whole concert here. now!
+O B-PER I-PER O O O O O O O O O O O O
+O B-PER I-PER O O O O O O O O O O O O
+
+stickers i got at the bayou art festival last friday, made by the swartz brothers. more at
+O O O O O B-MISC I-MISC I-MISC O O O O O O B-PER O O O O
+O O O O O B-MISC I-MISC I-MISC O O O O O O B-PER I-PER O O O
+
+[ eng sub ] [ hd ] 160518 louis vuitton exhibition opening in tokyo with yoona, suho, kai
+O O O O O O O O B-ORG I-ORG O O O B-LOC O B-PER O B-PER O B-PER
+O O O O O O O O B-ORG I-ORG O O O B-LOC O B-PER O B-PER O B-PER
+
+work through your conflicts with the student ombuds! we're open every day... all summer... all year.
+O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O
+
+jeremy corbyn's cat el gato just threw some glorious shade at david cameron. yes, really
+B-PER I-PER O O O B-MISC I-MISC O O O O O O B-PER I-PER O O O O
+B-PER I-PER O O O O O O O O O O O B-PER I-PER O O O O
+
+bindi irwin adorably gushes over her boyfriend chandler powell, but what would steve irwin think? # news # love # phot …
+B-PER I-PER O O O O O B-PER I-PER O O O O B-PER I-PER O O O X O X O X X
+B-PER I-PER O O O O O B-PER I-PER O O O O B-PER I-PER O O O O O O O O O
+
+report : donald trump's tariffs could cost the average u. s. household more than $ 6, 000 a year
+O O B-PER I-PER O O O O O O O O O O O O O O O O O O
+O O B-PER I-PER O O O O O O O B-LOC I-LOC I-LOC O O O O O O O O
+
+playing hits from the hit parade # thehitparade
+O O O O O O O X
+O O O O O O O O
+
+‘ our ambition is to win the premier league and arsene is the best person to help us ’ …
+O O O O O O O B-MISC I-MISC O B-PER O O O O O O O O O
+O O O O O O O B-ORG I-ORG O B-PER O O O O O O O O O
+
+did you know hugh laurie, the guy who played house, makes dope ass music too??
+O O O B-PER I-PER O O O O O O O O O O O O O O
+O O O B-PER I-PER O O O O O B-PER O O O O O O O O
+
+my brother 18 years ago was lowkey harry potter
+O O O O O O O B-PER I-PER O O O
+O O O O O O O B-PER I-PER O O O
+
+clinton is on cnn anderson cooper right now ragging on trump, s lavish lifestyle. she lives in this poor shack
+B-PER O O B-ORG B-PER I-PER O O O O B-PER O O O O O O O O O O O
+B-PER O O B-ORG B-PER I-PER O O O O B-PER O O O O O O O O O O O
+
+jessica simpson via instagram may 30, 2016 :
+B-PER I-PER O B-ORG O O O O O O O O O O
+B-PER I-PER O B-ORG O O O O O O O O O O
+
+justin bieber commented, " crazy " on scooter braun's instagram post of tori kelly yesterday.
+B-PER I-PER O O O O O O B-PER I-PER O O B-MISC O O B-PER I-PER O O
+B-PER I-PER O O O O O O B-PER I-PER O O B-ORG O O B-PER I-PER O O
+
+fifth harmony's seats at the @ bbmas! they are in front of kelly rowland and behind kesha!
+O O O O O O O O X O O O O O O B-PER I-PER O O B-PER O
+B-PER I-PER O O O O O O B-MISC O O O O O O B-PER I-PER O O B-PER O
+
+dunkirk | | star mark rylance mentions co - star harry styles on his bafta speech. - ka
+O B-MISC O O O B-PER I-PER O O X X B-PER I-PER O O B-MISC O O O X
+O B-MISC O O O B-PER I-PER O O O O B-PER I-PER O O B-ORG O O O O
+
+donald trump's victory proves republican voters want resentful nationalism, not principled conservatism …
+B-PER I-PER O O O O O O O O O O O O O O
+B-PER I-PER O O O O B-ORG O O O O O O O O O
+
+# 14 more photos of justin bieber performing on the # purposetour in philadelphia, pennsylvania. ( may 8 )
+O X O O O B-PER I-PER O O O O X O B-LOC O B-LOC O O O O O
+O O O O O B-PER I-PER O O O O O O B-LOC O B-LOC O O O O O
+
+chris brown and his crew were kicked off a plane after allegedly hot boxing it
+B-PER I-PER O O O O O O O O O O O O O
+B-PER I-PER O O O O O O O O O O O O O
+
+ellie goulding gushes about ex niall horan and again addresses ed sheeran rumours -
+B-PER I-PER O O O B-PER I-PER O O O B-PER I-PER O O
+B-PER I-PER O O O B-PER I-PER O O O B-PER I-PER O O
+
+that's the difference, one club actually cares about its football club, football not charity.
+O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O
+
+# dubnation # nbafinals # nba golden state warriors champion!
+O X O X B-ORG X B-ORG I-ORG O O O
+O B-ORG O O O B-ORG B-ORG I-ORG I-ORG O O
+
+september 22, 2015 - the day i really started to take basketball seriously
+O O O O O O O O O O O O O
+O O O O O O O O O O O O O
+
+kacey musgraves, beck lead pilgrimage festival lineup
+B-PER I-PER O O O B-MISC I-MISC O
+B-PER I-PER O B-PER O B-MISC I-MISC O
+
+people still listen to chris brown in 2017
+O O O O B-PER I-PER O O
+O O O O B-PER I-PER O O
+
+i was starting to feel bereft without any upcoming concert tickets in hand. then, these beauties arrived.
+O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O
+
+hundreds of people rally against donald trump in fresno, california
+O O O O O B-PER I-PER O B-LOC O B-LOC
+O O O O O B-PER I-PER O B-LOC O B-LOC
+
+baseball is still a thing in steampunk taiwan? ( famous player from tainan team who played in japanese league )
+O O O O O O O B-LOC O O O O O B-LOC O O O O O O O
+O O O O O O O B-LOC O O O O O O O O O O B-LOC O O
+
+big - spending tigers hope to return to top of al # tigersbaseball # detroittigers # tigerfans
+O X X B-ORG O O O O O O O O X O X O X
+O O O B-ORG O O O O O O B-ORG O O O B-ORG O O
+
+new proposed rules in football. thoughts?
+O O O O O O O O
+O O O O O O O O
+
+it seems @ realdonaldtrump really does want to come to our festival # truetweet # amazing
+O O O X O O O O O O O O O X O X
+O O O B-PER O O O O O O O O O O O O
+
+# nhlplayoffs red wings'pavel datsyuk leads russia past u. s. for... # redwings
+O X B-ORG I-ORG O B-PER I-PER O B-LOC O O O O O O O O O O X
+O O B-ORG I-ORG O B-PER I-PER O B-ORG O B-ORG I-ORG I-ORG O O O O O O B-ORG
+
+blake lively killed it once again # cannes2016
+B-PER I-PER O O O O O X O O
+B-PER I-PER O O O O O O O O
+
+game day! playoffs! baseball travels to lutheran west for their 1 st rd matchup @ 4 : 30 # wearegilmour @ gilmourbaseball
+O O O O O O O O B-LOC I-LOC O O O B-LOC I-LOC O O O O O O X O X
+O O O O O O O O B-ORG I-ORG O O O O O O O O O O O O O B-ORG
+
+nba : lakers should target lebron, durant - johnson...
+B-MISC O B-ORG O O B-PER O B-PER X X O O O
+B-ORG O B-ORG O O B-PER O B-PER O B-PER O O O
+
+we're here today at the @ tottbluegrass festival! @ newtecumseth # tottenham
+O O O O O O O O X I-MISC O O X B-LOC X
+O O O O O O O O B-MISC I-MISC O O B-LOC O B-LOC
+
+brit teen hacks north korea's facebook by guessing kim jong - un's easy password
+O O O B-LOC I-LOC O O B-ORG O O B-PER I-PER X X O O O O
+O O O B-LOC I-LOC O O B-ORG O O B-PER I-PER I-PER I-PER O O O O
+
+harry styles is the best - dressed man in the world right now.
+B-PER I-PER O O O X X O O O O O O O
+B-PER I-PER O O O O O O O O O O O O
+
+congrats to bryan reynolds for being named to the sec all - tournament team!
+O O B-PER I-PER O O O O O B-ORG O X X O O
+O O B-PER I-PER O O O O O B-ORG O O O O O
+
+170607 # sehun at louis vuitton exhibition event cr. for windy
+O B-PER X O B-ORG I-ORG O O O O O O
+O O O O B-ORG I-ORG O O O O O O
+
+justin bieber changed the caption of his recent instagram photo :
+B-PER I-PER O O O O O O B-MISC O O
+B-PER I-PER O O O O O O B-ORG O O
+
+projected top pick in nba draft markelle fultz : i want to win roy, mvp next season
+O O O O B-MISC I-MISC B-PER I-PER O O O O O B-PER O B-MISC O O
+O O O O B-ORG O B-PER I-PER O O O O O O O O O O
+
+donald trump just got another boost in the general - neocon nutjob lindsey graham says he can't support him
+B-PER I-PER O O O O O O O X X O B-PER I-PER O O O O O O O
+B-PER I-PER O O O O O O O O O O B-PER I-PER O O O O O O O
+
+bradley wanamaker is “ the best basketball player that ever played in germany ”
+B-PER I-PER O O O O O O O O O O B-LOC O
+B-PER I-PER O O O O O O O O O O B-LOC O
+
+professor bill clinton, university of arkansas, 1973. from the university of arkansas special collections.
+O B-PER I-PER O B-ORG I-ORG I-ORG O O O O O B-ORG I-ORG I-ORG O O O
+O B-PER I-PER O B-ORG I-ORG I-ORG O O O O O B-ORG I-ORG I-ORG O O O
+
+so excited for the summer where i'll be playing a shit ton of festivals
+O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O
+
+( $ ) @ post6baseball drops two in denver ; brody cress wins two rodeos and more.
+O O O O X O O O B-LOC O B-PER I-PER O O O O O O
+O O O O B-ORG O O O B-LOC O B-PER I-PER O O O O O O
+
+robert downey jr. and chris evans photoshoot has my heart racing
+B-PER I-PER O O O B-PER I-PER O O O O O
+B-PER I-PER I-PER O O B-PER I-PER O O O O O
+
+when someone thinks they can beat you at harry potter trivia
+O O O O O O O O B-MISC I-MISC I-MISC
+O O O O O O O O B-MISC I-MISC O
+
+all nba first team... comments??
+O B-MISC O O O O O O O O
+O B-ORG O O O O O O O O
+
+10 nba trades that could change history, but didn't happen
+O B-MISC O O O O O O O O O O O
+O B-ORG O O O O O O O O O O O
+
+i turned an old locker into a dresser for a football theme bedroom # oneroomchallenge
+O O O O O O O O O O O O O O X
+O O O O O O O O O O O O O O O
+
+purple rain'to open 2016 coca - cola summer film festival...
+B-MISC I-MISC O O O O B-MISC X X I-MISC I-MISC I-MISC O O O
+B-MISC I-MISC O O O O B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC O O O
+
+just in : pentagon officials threaten to quit if donald trump becomes presiden
+O O O B-ORG O O O O O B-PER I-PER O O
+O O O B-ORG O O O O O B-PER I-PER O O
+
+another soph baseball in the books. gr8 season. gr8 group of young men on and off the field. my honor to work with u
+O B-MISC O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O
+
+a stylish layering move to borrow from robert pattinson - allow robert pattinson, patron...
+O O O O O O O B-PER I-PER O O B-PER I-PER O O O O O
+O O O O O O O B-PER I-PER O O B-PER I-PER O O O O O
+
+agent oliver arthur optimistic calcio trade ball will boost ghana football and …
+O B-PER I-PER O O O O O O B-LOC O O O
+O B-PER I-PER O B-MISC I-MISC I-MISC O O B-LOC O O O
+
+saw zac hanson on the street... love this guy. - z # awkward # streettalk # hansonday2016
+O B-PER I-PER O O O O O O O O O O O X O X O X O X
+O B-PER I-PER O O O O O O O O O O O O O O O O O O
+
+* that should be me by justin bieber playing on a continuous loop *
+O O O O O O B-PER I-PER O O O O O X
+O B-MISC I-MISC I-MISC I-MISC O B-PER I-PER O O O O O O
+
+david cameron says donald trump'deserves our respect '
+B-PER I-PER O B-PER I-PER O O O O O
+B-PER I-PER O B-PER I-PER O O O O O
+
+| " snoop dogg thinks one direction should get back together while they ’ re still young " – metro
+O O O B-PER I-PER O O O O O O O O O O O O O O O O
+O O O B-PER I-PER O B-PER I-PER O O O O O O O O O O O O B-ORG
+
+they all asked for a photo, so who am i to refuse?! # legends of # qpr for @ footballaid and for diabetes
+O O O O O O O O O O O O O O O O X O B-MISC X O O X O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+
+confederations cup : germany too good for socceroos in russia, winning 3 - 2
+B-MISC I-MISC O B-LOC O O O O O B-LOC O O O X X
+B-MISC I-MISC O B-ORG O O O O O B-LOC O O O O O
+
+underway at the bernabeu in last match here this season : real madrid - valencia on an exciting afternoon in la liga
+O O O B-LOC O O O O O O O B-ORG I-ORG O B-ORG O O O O O B-MISC I-MISC
+O O O B-LOC O O O O O O O B-ORG I-ORG O B-ORG O O O O O B-ORG I-ORG
+
+former nfl player ryan o'callaghan comes out as gay : why it matters
+O B-MISC O B-PER O O O O O O O O O O O
+O B-ORG O B-PER I-PER I-PER I-PER O O O O O O O O
+
+the last known photos of jim morrison alive, june 28 th, 1971
+O O O O O B-PER I-PER O O O O O O O
+O O O O O B-PER I-PER O O O O O O O
+
+the cost of being wrong is less than the cost of doing nothing. seth godin
+O O O O O O O O O O O O O O B-PER I-PER
+O O O O O O O O O O O O O O B-PER I-PER
+
+@ houlsbymark mark, meet my niece, well known concert violinist
+O X B-PER O O O O O O O O O
+O B-PER B-PER O O O O O O O O O
+
+jaden smith just casually going from the weeknd to barack obama
+B-PER I-PER O O O O O O O B-PER I-PER
+B-PER I-PER O O O O O O O B-PER I-PER
+
+justin playing football : a concept
+B-PER O O O O O
+B-PER O O O O O
+
+full speech : donald trump holds huge rally in charleston, wv …
+O O O B-PER I-PER O O O O B-LOC O B-LOC O
+O O O B-PER I-PER O O O O B-LOC O B-LOC O
+
+@ nbaontnt they've done gone fishing! 1 2 3 cancun!
+O X O O O O O O O O O O B-LOC O
+O O O O O O O O O O O O B-LOC O
+
+katy perry comforts ariana grande in new video from manchester benefit concert -
+B-PER I-PER O B-PER I-PER O O O O B-LOC O O O
+B-PER I-PER O B-PER I-PER O O O O B-MISC I-MISC O O
+
+coyotes to pick 7 th in nhl draft...
+B-ORG O O O O O B-MISC I-MISC O O O
+B-ORG O O O O O B-ORG O O O O
+
+@ stelenasclexa flag flewwww and found in the middle of the pride parade
+O X O O O O O O O O O O O
+O B-PER O O O O O O O O O O O
+
+denver broncos : 5 bold predictions for the 2016 nfl season...
+B-ORG I-ORG O O O O O O O B-MISC O O O O
+B-ORG I-ORG O O O O O O O B-ORG O O O O
+
+how much taylor swift has earned since she returned to spotify
+O O B-PER I-PER O O O O O O B-MISC
+O O B-PER I-PER O O O O O O B-ORG
+
+charles barkley doesn't understand why nba players need so much rest # nba # nba
+B-PER I-PER O O O O O B-MISC O O O O O B-MISC X B-MISC X
+B-PER I-PER O O O O O B-ORG O O O O O O B-ORG O B-ORG
+
+charlie robison concert with my bride # bombfactory
+B-PER I-PER O O O O O X
+B-PER I-PER O O O O O B-MISC
+
+the only time i found him semi - cute was with a cap on! # nbafinals # warriors
+O O O O O O O X X O O O O O O O O O X O X
+O O O O O O O O O O O O O O O O O O O O B-ORG
+
+the weeknd canceled his jimmy kimmel appearance because of donald trump -
+O O O O B-MISC I-MISC O O O B-PER I-PER O
+B-PER I-PER O O B-PER I-PER O O O B-PER I-PER O
+
+klay thompson warriors overwhelm trailblazers 110 - 99 go up 2 - 0 in series # nbaplayoffs
+B-ORG I-ORG I-ORG O B-ORG O X X O O O X X O O O X
+B-PER I-PER B-ORG O B-ORG O O O O O O O O O O O O
+
+a dash of masala is all you need to spice up your entertainment.'~ shah rukh khan for dishtv # masalamaarke
+O O O B-MISC O O O O O O O O O O O O B-PER I-PER I-PER O B-MISC O X
+O O O O O O O O O O O O O O O O B-PER I-PER I-PER O O O O
+
+someone commented on ellie goulding's tweet about donald trump. her reply was everything.
+O O O B-PER I-PER O O O O B-PER I-PER O O O O O O
+O O O B-PER I-PER O O O O B-PER I-PER O O O O O O
+
+ketchapp football - the perfect pokemon go trainer!?
+O O O O O B-MISC O O O O
+B-MISC I-MISC O O O B-MISC I-MISC O O O
+
+not the ideal result, but fun night in lincoln watching @ uno _ baseball
+O O O O O O O O O B-LOC O O X
+O O O O O O O O O B-LOC O O B-ORG
+
+tom hanks pays tribute to irishman who gave him his first break.
+B-PER I-PER O O O O O O O O O O O
+B-PER I-PER O O O B-PER O O O O O O O
+
+world cup champs! awesome job to everyone who played! flag football will be the next tournament later this month!
+B-MISC I-MISC O O O O O O O O O B-MISC I-MISC O O O O O O O O O
+B-MISC I-MISC O O O O O O O O O O O O O O O O O O O O
+
+i was the only one to get the # whoamiwnba correct tonight! @ daenforcer33 is amazing. @ lachinarobinson
+O O O O O O O O O X O O O O X O O O O X
+O O O O O O O O O O O O O O B-PER O O O O B-PER
+
+great to see david cameron will be respecting the edinburgh agreement.
+O O O B-PER I-PER O O O O B-LOC O O
+O O O B-PER I-PER O O O O B-LOC O O
+
+do not leave your children with lady gaga
+O O O O O O B-PER I-PER
+O O O O O O B-PER I-PER
+
+the floor is my love for one piece
+O O O O O O O O
+O O O O O O B-MISC I-MISC
+
+watch burnley fc football highlights -
+O B-ORG I-ORG O O O
+O B-ORG I-ORG I-ORG O O
+
+dodgy photo. awesome show. get on board with the sugarland mini - festival this saturday 28 may. tickets $ 35 from tic …
+O O O O O O O O O O O B-MISC I-MISC X X O O O O O O O O O O O
+O O O O O O O O O O O B-MISC I-MISC I-MISC I-MISC O O O O O O O O O O O
+
+rise + shine : @ zendaya takes flight on @ voguemagazine's july cover wearing calvin klein 205 w39nyc.
+O O O O O X O O O O X O O O O O B-PER I-PER O O O
+O O O O O B-PER O O O O B-ORG O O O O O B-ORG I-ORG O O O
+
+sandusky victim : joe paterno told me to drop abuse accusation
+B-PER O O B-PER I-PER O O O O O O
+B-PER O O B-PER I-PER O O O O O O
+
+mlb lineup for tonight, good luck!
+B-MISC O O O O O O O
+B-ORG O O O O O O O
+
+bella hadid attends the 69 th cannes film festival in france on may 18, 2016.
+B-PER I-PER O O O O B-MISC I-MISC I-MISC O B-LOC O O O O O
+B-PER I-PER O O O O B-MISC I-MISC I-MISC O B-LOC O O O O O
+
+woman being arrested for wearing one piece bathing suit, 1922, chicago
+O O O O O O O O O O O B-LOC
+O O O O O O O O O O O B-LOC
+
+retweet if you think donald trump is a true leader! # makeamericagreatagain
+O O O O B-PER I-PER O O O O O O X
+O O O O B-PER I-PER O O O O O O O
+
+# onelovemanchester omg my connection was broke but then im so thankful that i watched the concert
+O X O O O O O O O O O O O O O O O
+O B-MISC O O O O O O O O O O O O O O O
+
+louis van gaal forgets who has won a premier league in his squad
+B-PER I-PER I-PER O O O O O B-MISC I-MISC O O O
+B-PER I-PER I-PER O O O O O B-ORG I-ORG O O O
+
+spent the morning chilling on a sofa with david beckham... as you do.
+O O O O O O O O B-PER I-PER O O O O O O O O
+O O O O O O O O B-PER I-PER O O O O O O O O
+
+so sally kohn, joe scarborough, rachel maddow and chris hayes are all the same person, right? # indianaprimary
+O B-PER I-PER O B-PER I-PER O B-PER I-PER O B-PER I-PER O O O O O O O O O X
+O B-PER I-PER O B-PER I-PER O B-PER I-PER O B-PER I-PER O O O O O O O O O O
+
+jensen at jailbreak concert live from rome. # jibcon7
+B-PER O O O O O B-LOC O O X
+B-PER O B-ORG O O O B-LOC O O O
+
+before we knew what we were in for at the concert @ sheaboobies
+O O O O O O O O O O O O O X
+O O O O O O O O O O O O O B-PER
+
+baby luna threw the first pitch at a professional baseball game, and she crushed it
+O B-MISC O O O O O O O O O O O O O O
+B-PER I-PER O O O O O O O O O O O O O O
+
+carlos saldanha speaking about his next film @ ferdinandmovie at @ annecyfestival @ blueskystudios @ 20 thcenturyfox
+B-PER I-PER O O O O O O X O O X O X O X O
+B-PER I-PER O O O O O O B-MISC O O B-MISC O B-ORG O B-ORG I-ORG
+
+mario kart 8 ( nintendo wii u, 2014 ) - bid now! only $ 13. 5
+B-MISC I-MISC I-MISC O B-MISC I-MISC I-MISC O O O O O O O O O O
+B-MISC I-MISC I-MISC O B-MISC O O O O O O O O O O O O
+
+photo : new stills of jennifer lawrence in x - men : days of future past. ( src : @ j _ lawperfection )
+O O O O O B-PER I-PER O B-MISC X X O O O O O O O O O O X O
+O O O O O B-PER I-PER O B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC O O O O O B-PER O
+
+raptors take game 5 and a 3 - 2 series lead. game 6 in miami # nbaplayoffs # miavstor
+B-ORG O O O O O O X X O O O O O O B-LOC O X O X
+B-ORG O O O O O O O O O O O O O O B-LOC O O O O
+
+feeling a bit hungry? concessions are open and traditional salmon bbq fire has been lit! # seabirdfestival
+O O O O O O O O O O O O O O O O O O X
+O O O O O O O O O O O O O O O O O O B-MISC
+
+the astor big band concert raising money for @ poppylegion 18 june at 7 : 30 pm. why not swing by? # charitytuesday
+O B-MISC I-MISC I-MISC O O O O O X O O O O O O O O O O O O O O X
+B-PER I-PER I-PER I-PER O O O O O O O O O O O O O O O O O O O O O
+
+flower festival to return to st mary's church in # nantwich
+O O O O O B-LOC I-LOC O I-LOC I-LOC O B-LOC X
+O O O O O B-LOC I-LOC I-LOC I-LOC I-LOC O O B-LOC
+
+vote for justin bieber in the mtv awards ( italy ) 2016. he has a total of 4 nominations! |
+O O B-PER I-PER O O B-MISC I-MISC O B-LOC O O O O O O O O O O O O
+O O B-PER I-PER O O B-MISC I-MISC O B-LOC O O O O O O O O O O O O
+
+| | one direction was mentioned in @ people's snapchat story!
+O O O O O O O O O X O O B-MISC O O
+O O O B-PER I-PER O O O O O O O O O O
+
+rich the kid, young thug, justin bieber and diplo - bankroll... coming soon
+O O O O O O O B-PER I-PER O B-PER X X O O O O O
+B-PER I-PER I-PER O B-PER I-PER O B-PER I-PER O B-PER O B-MISC O O O O O
+
+day 4 of mott basketball camp.
+O O O B-ORG O O O
+O O O B-ORG O O O
+
+kevin durant joined elite, efficient company in game 1 of the # nbafinals
+B-PER I-PER O B-ORG O O O O O O O O O X
+B-PER I-PER O O O O O O O O O O O O
+
+kristen stewart during a photocall for the film " cafe society " out of competition, 69 th # cannes film festival
+B-PER I-PER O O O O O O O B-MISC I-MISC O O O O O O O B-MISC X I-MISC I-MISC
+B-PER I-PER O O O O O O O B-MISC I-MISC O O O O O O O O B-MISC I-MISC I-MISC
+
+made it safely to campbell bay music festival, so happy to be here.
+O O O O B-MISC I-MISC I-MISC I-MISC O O O O O O O O
+O O O O B-MISC I-MISC I-MISC I-MISC O O O O O O O O
+
+ibmspss : how # cloud data rocks out the roskilde festival with ibmspss
+B-MISC O O O X O O O O B-MISC I-MISC O B-ORG
+O O O O O O O O O B-MISC I-MISC O O
+
+# mlb # baseball kent tekulve pittsburgh # pirates 1979'we are family'black …
+B-MISC X O X B-PER I-PER B-ORG B-ORG X O O B-MISC I-MISC I-MISC O O O
+O B-ORG O O B-PER I-PER B-ORG I-ORG I-ORG O O O O O O O O
+
+me sitting outside the venue ten days before the concert
+O O O O O O O O O O
+O O O O O O O O O O
+
+former ogden raptor cody bellinger is already a fixture in major league baseball
+O B-LOC O B-PER I-PER O O O O O B-ORG I-ORG I-ORG
+O B-ORG I-ORG B-PER I-PER O O O O O B-ORG I-ORG I-ORG
+
+rt @ celebmix : harry styles ’ song writing continues to be captivating
+O O O X O B-PER I-PER O O O O O O O
+O O O B-ORG O B-PER I-PER O O O O O O O
+
+premierleague : jurgen klopp makes 8 changes to the lfc side that drew with newcastle, wit …
+O O B-PER I-PER O O O O O B-ORG O O O O B-ORG O B-LOC X
+B-ORG O B-PER I-PER O O O O O B-ORG O O O O B-ORG O O O
+
+listen to @ aggiebaseball take on tcu in the elimination game tomorrow at 12 : 45 pm on the zone!
+O O O X O O B-ORG O O O O O O O O O O O O O O
+O O O B-ORG O O B-LOC O O O O O O O O O O O B-MISC I-MISC O
+
+justin trudeau needs to be protected at all costs # pride2017
+B-PER I-PER O O O O O O O O X
+B-PER I-PER O O O O O O O O O
+
+rgj : state baseball : lincoln co. wins twice to stun yerington
+O O O O O B-ORG I-ORG O O O O B-PER I-PER
+O O O O O B-ORG I-ORG O O O O O B-ORG
+
+i really was born to sunbathe all day and drink vodka
+O O O O O O O O O O O O
+O O O O O O O O O O O O
+
+joe paterno was told of jerry sandusky's child sex abuse as early as 1976, report …
+B-PER I-PER O O O B-PER I-PER O O O O O O O O O O O
+B-PER I-PER O O O B-PER I-PER O O O O O O O O O O O
+
+where nba finals mvp kevin durant is still overlooked
+O B-MISC I-MISC I-MISC B-PER I-PER O O O
+O B-ORG O O B-PER I-PER O O O
+
+the 2017 nba finals, a love story for the ages
+O O B-MISC I-MISC O O O O O O O
+O O B-ORG O O O O O O O O
+
+@ mbarkabouaida we haven't closed women's potential to prevent conflict - environment is hostile but need is there
+O X O O O O O O O O O O O O O O O O O O O O
+O B-PER O O O O O O O O O O O O O O O O O O O O
+
+# westan7 " all for one and one for all " ~ mickey mouse, donald duck ; goofy
+O X O O O O O O O O O O B-MISC I-MISC O B-MISC I-MISC O B-MISC
+O O O O O O O O O O O O B-MISC I-MISC O B-MISC I-MISC O B-MISC
+
+our 6 th graders helped stack chairs after the concert. help is always appreciated. thank you.
+O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O
+
+st. joe is on top of marian in girls basketball 45 - 29 after 3. # wsbt22
+O O I-PER O O O O B-ORG O O O O X X O O O O X
+B-ORG I-ORG I-ORG O O O O B-ORG O O O O O O O O O O O
+
+off to london today to deliver training and meeting clients nice quite start to the morning in dunbar station
+O O B-LOC O O O O O O O O O O O O O O B-LOC I-LOC
+O O B-LOC O O O O O O O O O O O O O O B-LOC I-LOC
+
+carl barks panel of donald duck demonstrating his negotiation skills. # disney
+B-PER I-PER O O B-MISC I-PER O O O O O B-ORG X
+B-PER I-PER O O B-MISC I-MISC O O O O O O B-ORG
+
+check out what i just pulled from nba live mobile! download at
+O O O O O O O B-MISC I-MISC O O O O
+O O O O O O O B-ORG O O O O O
+
+what to expect from @ bethhart show at november'16? watch concert now!
+O O O O O X O O O O O O O O O O
+O O O O O B-PER O O O O O O O O O O
+
+my sister posted my number on justin biebers instagram cool
+O O O O O O B-PER I-PER B-MISC O
+O O O O O O B-PER I-PER B-ORG O
+
+donald trump knows what he'd do in his first 100 days as president if he wins
+B-PER I-PER O O O O O O O O O O O O O O O O
+B-PER I-PER O O O O O O O O O O O O O O O O
+
+north west, kanye west ; kim kardashian west roll through the streets of cuba in a …
+O O O B-PER I-PER O B-PER I-PER O O O O O O B-LOC O O O
+B-PER I-PER O B-PER I-PER O B-PER I-PER I-PER O O O O O B-LOC O O O
+
+do you think the concert of pearl jam at toronto is going to be great?
+O O O O O O B-ORG I-ORG O B-LOC O O O O O O
+O O O O O O B-PER I-PER O B-LOC O O O O O O
+
+barack and michelle obama wedding photo, october 3, 1992.
+B-PER O B-PER I-PER O O O O O O O
+B-PER O B-PER I-PER O O O O O O O
+
+icymi : rob gronkowski says he would consider a career in # wwe after he retires from the nfl …
+O O B-PER I-PER O O O O O O O B-ORG X O O O O O B-MISC O
+O O B-PER I-PER O O O O O O O O B-ORG O O O O O B-ORG O
+
+solute to the warriors victory in the nba western finals # warriors
+O O O B-ORG O O O B-MISC I-MISC I-MISC B-ORG X
+O O O B-ORG O O O B-ORG O O O B-ORG
+
+some genius has edited harry styles'voice to a normal human speed and it's kinda crazy
+O O O O B-PER I-PER O O O O O O O O O O O O O
+O O O O B-PER I-PER O O O O O O O O O O O O O
+
+so happy that i got to meet troye w my best friend n experience his concert w her
+O O O O O O O B-PER O O O O O O O O O O O
+O O O O O O O B-PER O O O O O O O O O O O
+
+did you know? danny ainge's summer job was starting for the toronto blue jays, while playing basketball at byu.
+O O O O B-PER I-PER O O O O O O O O B-ORG I-ORG I-ORG O O O O O B-ORG O
+O O O O B-PER I-PER O O O O O O O O B-ORG I-ORG I-ORG O O O O O B-LOC O
+
+bbc news - donald trump'posed as own spokesperson'in business dealings
+B-ORG O O B-PER I-PER O O O O O O O O O
+B-ORG O O B-PER I-PER O O O O O O O O O
+
+r. kelly stops his concert to clap back at fans who called him broke
+O O I-PER O O O O O O O O O O O O
+B-PER I-PER I-PER O O O O O O O O O O O O
+
+happy birthday to my beautiful mama im sorry i have track and soccer on ur bday : / ily : ) ) )
+O O O O O O O O O O O O O O O O O O O X O O O
+O O O O O O O O O O O O O O O O O O O O O O O
+
+the biggest robbery in football history
+O O O O O O O
+O O O O O O O
+
+daniel radcliffe and dane dehaan in kill your darlings ( 2013 )
+B-PER I-PER O B-PER I-PER O B-MISC I-MISC I-MISC O O O
+B-PER I-PER O B-PER I-PER O B-MISC I-MISC I-MISC O O O
+

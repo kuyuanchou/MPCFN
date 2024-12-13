@@ -1,0 +1,56 @@
+50 epoch, 3e-05, 8, 0.5, similar=True, fusion=True, sample_ratio=0.1
+              precision    recall  f1-score   support
+
+         LOC     0.7117    0.6517    0.6804       178
+        MISC     0.4531    0.3694    0.4070       157
+         ORG     0.6961    0.7190    0.7073       395
+         PER     0.8276    0.8969    0.8609       621
+           _     0.0000    0.0000    0.0000         0
+
+   micro avg     0.7393    0.7513    0.7452      1351
+   macro avg     0.5377    0.5274    0.5311      1351
+weighted avg     0.7304    0.7513    0.7395      1351
+50 epoch, 3e-05, 8, 0.5, similar=True, fusion=True, sample_ratio=0.2
+              precision    recall  f1-score   support
+
+         LOC     0.8000    0.7865    0.7932       178
+        MISC     0.5726    0.4522    0.5053       157
+         ORG     0.7903    0.7443    0.7666       395
+         PER     0.8685    0.9147    0.8910       621
+
+   micro avg     0.8098    0.7942    0.8019      1351
+   macro avg     0.7579    0.7244    0.7390      1351
+weighted avg     0.8022    0.7942    0.7969      1351
+50 epoch, 3e-05, 8, 0.5, similar=True, fusion=True, sample_ratio=0.3
+              precision    recall  f1-score   support
+
+         LOC     0.7889    0.7978    0.7933       178
+        MISC     0.6885    0.5350    0.6022       157
+         ORG     0.8163    0.7873    0.8015       395
+         PER     0.9159    0.9114    0.9136       621
+
+   micro avg     0.8478    0.8164    0.8318      1351
+   macro avg     0.8024    0.7579    0.7777      1351
+weighted avg     0.8436    0.8164    0.8288      1351
+50 epoch, 3e-05, 8, 0.5, similar=True, fusion=True, sample_ratio=0.4
+              precision    recall  f1-score   support
+
+         LOC     0.9000    0.8090    0.8521       178
+        MISC     0.6899    0.5669    0.6224       157
+         ORG     0.7995    0.8076    0.8035       395
+         PER     0.9083    0.8937    0.9010       621
+
+   micro avg     0.8522    0.8194    0.8355      1351
+   macro avg     0.8244    0.7693    0.7947      1351
+weighted avg     0.8500    0.8194    0.8337      1351
+50 epoch, 3e-05, 8, 0.5, similar=True, fusion=True, sample_ratio=0.5
+              precision    recall  f1-score   support
+
+         LOC     0.8720    0.8034    0.8363       178
+        MISC     0.6953    0.5669    0.6246       157
+         ORG     0.8342    0.8152    0.8246       395
+         PER     0.9180    0.9195    0.9187       621
+
+   micro avg     0.8654    0.8327    0.8487      1351
+   macro avg     0.8299    0.7762    0.8010      1351
+weighted avg     0.8616    0.8327    0.8462      1351

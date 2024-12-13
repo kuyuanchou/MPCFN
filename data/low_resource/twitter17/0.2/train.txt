@@ -1,0 +1,12033 @@
+IMGID:O_4677
+2	O
+out	O
+of	O
+the	O
+Top	O
+5	O
+most	O
+viewed	O
+music	O
+videos	O
+on	O
+VEVO	B-ORG
+belong	O
+to	O
+the	O
+one	O
+and	O
+only	O
+Taylor	B-PER
+Swift	I-PER
+.	O
+👸	O
+
+IMGID:16_05_25_686
+@	O
+AfricanBabe	B-PER
+lol	O
+.	O
+I	O
+know	O
+,	O
+isn	O
+'	O
+t	O
+she	O
+the	O
+person	O
+you	O
+'	O
+re	O
+referring	O
+to	O
+?	O
+
+IMGID:O_386
+Pretty	O
+sure	O
+Sarah	B-PER
+Palin	I-PER
+is	O
+what	O
+happened	O
+when	O
+two	O
+Young	O
+Republicans	O
+Weird	O
+Science	O
+'	O
+d	O
+the	O
+girl	O
+in	O
+this	O
+vintage	O
+beer	O
+ad	O
+
+IMGID:16_05_10_448
+This	O
+is	O
+what	O
+happens	O
+when	O
+you	O
+make	O
+a	O
+tweet	O
+at	O
+me	O
+to	O
+vote	O
+for	O
+Pavelski	B-PER
+.	O
+#	O
+NHL17Tarasenko	O
+
+IMGID:O_1645
+Peter	B-PER
+Schiff	I-PER
+,	O
+the	O
+boy	O
+who	O
+Anne	B-PER
+Frank	I-PER
+recalled	O
+as	O
+her	O
+"	O
+one	O
+true	O
+love	O
+"	O
+in	O
+her	O
+diary	O
+.	O
+Photo	O
+via	O
+Ernst	B-PER
+Michaels	I-PER
+.	O
+
+IMGID:16_05_17_185
+Open	O
+Baseball	O
+Session	O
+this	O
+Thursday	O
+.	O
+Click	O
+link	O
+for	O
+full	O
+list	O
+and	O
+details	O
+how	O
+to	O
+take	O
+part	O
+
+IMGID:17_01_12917
+Thanks	O
+to	O
+the	O
+Boys	O
+and	O
+Girls	O
+basketball	O
+team	O
+at	O
+Peninsula	B-ORG
+High	I-ORG
+for	O
+appearing	O
+on	O
+"	O
+Playing	O
+The	O
+Field	O
+"	O
+.	O
+So	O
+much	O
+fun	O
+!	O
+
+IMGID:16_05_26_75
+Myers	B-PER
+:	O
+Jets	B-ORG
+’	O
+Decker	B-PER
+shows	O
+loyalty	O
+to	O
+Fitz	B-PER
+rarely	O
+seen	O
+in	O
+NFL	B-ORG
+
+IMGID:O_4605
+BonnyCombs25	O
+:	O
+Watch	O
+Jimmy	B-PER
+Kimmel	I-PER
+Grill	O
+Kelly	B-PER
+Ripa	I-PER
+on	O
+First	O
+Michael	B-PER
+Strahan	I-PER
+-	O
+Less	O
+Live	O
+-	O
+
+IMGID:16_05_19_412
+🎉	O
+Happy	O
+Birthday	O
+🎉	O
+to	O
+baseball	O
+student	O
+-	O
+athlete	O
+JD	B-PER
+Dutka	I-PER
+!	O
+
+IMGID:16_05_06_803
+Some	O
+kid	O
+was	O
+talking	O
+shit	O
+to	O
+me	O
+for	O
+going	O
+to	O
+concerts	O
+and	O
+then	O
+I	O
+realized	O
+,	O
+actually	O
+jokes	O
+on	O
+you	O
+
+IMGID:O_4154
+2	O
+years	O
+ago	O
+today	O
+you	O
+were	O
+crying	O
+your	O
+eyes	O
+out	O
+watching	O
+Kevin	B-PER
+Durant	I-PER
+’	O
+s	O
+emotional	O
+MVP	O
+speech	O
+
+IMGID:O_3842
+Climate	O
+change	O
+-	O
+denier	O
+Donald	B-PER
+Trump	I-PER
+is	O
+worried	O
+rising	O
+seas	O
+could	O
+ruin	O
+his	O
+golf	O
+course	O
+
+IMGID:16_05_02_758
+When	O
+your	O
+working	O
+amongst	O
+the	O
+happiest	O
+hippies	O
+there	O
+is	O
+no	O
+reason	O
+not	O
+to	O
+smile	O
+#	O
+mindbodyspiritfestival	B-MISC
+💛	O
+
+IMGID:O_4369
+Justin	B-PER
+Bieber	I-PER
+sing	O
+a	O
+Taylor	B-PER
+Swift	I-PER
+song	O
+in	O
+the	O
+car	O
+.	O
+.	O
+.	O
+
+IMGID:O_4710
+JESSICA	B-PER
+LANGE	I-PER
+Not	O
+Returning	O
+For	O
+AMERICAN	B-MISC
+HORROR	I-MISC
+STORY	I-MISC
+.	O
+
+IMGID:16_05_04_1155
+Fergus	B-PER
+sunbathes	O
+to	O
+promote	O
+healing	O
+his	O
+hip	O
+after	O
+playing	O
+too	O
+hard	O
+.	O
+Happy	O
+soul	O
+.	O
+
+IMGID:O_2488
+so	O
+it	O
+'	O
+s	O
+actually	O
+Claire	B-PER
+Danes	I-PER
+.	O
+in	O
+the	O
+wonderful	O
+Zac	B-PER
+Posen	I-PER
+gown	O
+.	O
+they	O
+need	O
+turn	O
+the	O
+lights	O
+off	O
+for	O
+her	O
+.	O
+
+IMGID:17_01_16463
+Giants_101	B-ORG
+:	O
+Giants	B-ORG
+Vs	O
+.	O
+Packers	B-ORG
+:	O
+4	O
+Players	O
+to	O
+Watch	O
+#	O
+giants	B-ORG
+#	O
+nyg	B-ORG
+#	O
+nfl	B-ORG
+
+IMGID:O_1299
+Justin	B-PER
+Bieber	I-PER
+is	O
+crying	O
+and	O
+so	O
+am	O
+I	O
+!	O
+😭	O
+#	O
+OneLoveManchester	O
+
+IMGID:16_05_12_1184
+Jason	B-PER
+Campbell	I-PER
+Is	O
+Not	O
+Actually	O
+Returning	O
+to	O
+NFL	B-ORG
+.	O
+.	O
+.	O
+
+IMGID:O_2660
+i	O
+don	O
+'	O
+t	O
+remember	O
+when	O
+this	O
+came	O
+on	O
+but	O
+i	O
+always	O
+watched	O
+it	O
+.	O
+Hamilton	B-PER
+was	O
+a	O
+lil	O
+bitch	O
+sometimes	O
+tho	O
+.	O
+
+IMGID:16_05_22_713
+Jessica	B-PER
+And	O
+Former	O
+NBA	O
+Star	O
+Stephon	B-PER
+Marbury	I-PER
+Snap	O
+Cute	O
+Shots	O
+Together	O
+
+IMGID:17_06_1102
+Only	O
+in	O
+baseball	O
+:	O
+Last	O
+night	O
+'	O
+s	O
+"	O
+miracle	O
+"	O
+in	O
+Ohio	B-LOC
+-	O
+-	O
+
+IMGID:16_05_13_1051
+We	O
+hope	O
+you	O
+'	O
+ve	O
+had	O
+a	O
+great	O
+Friday	O
+.	O
+.	O
+This	O
+time	O
+in	O
+6	O
+weeks	O
+#	O
+BeerFestival	O
+will	O
+be	O
+underway	O
+!	O
+
+IMGID:16_05_15_772
+The	O
+man	O
+himself	O
+Michael	B-PER
+Ozuna	I-PER
+happy	O
+birthday	O
+brother	O
+baseball	O
+is	O
+my	O
+life	O
+too	O
+.	O
+You	O
+my	O
+day	O
+1	O
+from	O
+Puerto	B-LOC
+rico	I-LOC
+😍	O
+💯	O
+❤	O
+️	O
+
+IMGID:17_06_12743
+MT	O
+@	O
+SheilaS	B-PER
+:	O
+Finally	O
+made	O
+it	O
+to	O
+a	O
+special	O
+concert	O
+,	O
+the	O
+Symphony	B-LOC
+in	I-LOC
+the	I-LOC
+Flint	I-LOC
+Hills	I-LOC
+@	O
+SITFHs	B-LOC
+
+IMGID:16_05_11_300
+In	O
+a	O
+First	O
+,	O
+Woman	O
+Coaches	O
+Men	O
+’	O
+s	O
+Soccer	O
+Team	O
+to	O
+a	O
+Title	O
+-	O
+
+IMGID:16_05_01_451
+Nice	O
+first	O
+pitch	O
+delivery	O
+today	O
+.	O
+@	O
+RaysBaseball	B-ORG
+@	O
+BlueJays	B-ORG
+#	O
+MacDill	B-LOC
+
+IMGID:17_06_2731
+To	O
+all	O
+of	O
+our	O
+Quebec	B-ORG
+followers	O
+an	O
+supports	O
+enjoy	O
+your	O
+day	O
+!	O
+!	O
+@	O
+footballquebec	B-ORG
+@	O
+LaurentDTardif	B-PER
+@	O
+NicolasBoulay	B-PER
+
+IMGID:O_3694
+ICYMI	O
+:	O
+Russell	B-PER
+Westbrook	I-PER
+put	O
+the	O
+Thunder	B-ORG
+on	O
+his	O
+back	O
+and	O
+carried	O
+them	O
+to	O
+a	O
+Game	O
+1	O
+win	O
+:	O
+
+IMGID:O_1700
+#	O
+StarWars	B-MISC
+@	O
+HamillHimself	B-PER
+#	O
+Luke	B-PER
+Skywalker	I-PER
+on	O
+#	O
+Bespin	O
+fatigues	O
+publicity	O
+photo	O
+for	O
+The	B-MISC
+Empire	I-MISC
+Strikes	I-MISC
+Back	I-MISC
+
+IMGID:16_05_19_152
+We	O
+are	O
+proud	O
+to	O
+be	O
+sponsoring	O
+@	O
+SHFestival	B-MISC
+again	O
+this	O
+year	O
+-	O
+it	O
+is	O
+always	O
+a	O
+great	O
+event	O
+that	O
+is	O
+not	O
+to	O
+be	O
+missed	O
+!	O
+
+IMGID:17_01_12762
+First	O
+of	O
+3	O
+main	O
+groups	O
+visited	O
+Utah	B-LOC
+State	I-LOC
+this	O
+weekend	O
+#	O
+USUFootball	B-ORG
+
+IMGID:O_2011
+Anti	O
+-	O
+Donald	B-PER
+Trump	I-PER
+sentiment	O
+seeps	O
+into	O
+US	B-LOC
+-	O
+Mexico	B-LOC
+soccer	O
+rivalry	O
+-	O
+USA	B-ORG
+TODAY	I-ORG
+
+IMGID:O_2510
+Analysis	O
+:	O
+Donald	B-PER
+Trump	I-PER
+has	O
+become	O
+what	O
+he	O
+opposed	O
+
+IMGID:16_05_13_892
+Kim	B-PER
+and	O
+Khloe	B-PER
+take	O
+the	O
+Beyoncé	B-PER
+concert	O
+
+IMGID:O_3723
+AUTH	O
+LOUIS	B-MISC
+VUITTON	I-MISC
+CABAS	O
+PIANO	O
+SHOULDER	O
+TOTE	O
+BAG	O
+PURSE	O
+MONOGRAM	O
+M51148	O
+ts10630	O
+-	O
+Bid	O
+Now	O
+!	O
+…	O
+
+IMGID:16_05_17_523
+What	O
+happened	O
+at	O
+The	O
+Kevin	B-PER
+Gates	I-PER
+and	O
+Boosie	B-PER
+Badazz	I-PER
+Concert	O
+?	O
+via	O
+@	O
+vibingwithresse	O
+
+IMGID:16_05_17_386
+Photos	O
+:	O
+Iggy	B-PER
+Azalea	I-PER
+wows	O
+concert	O
+audience	O
+with	O
+her	O
+curves	O
+
+IMGID:16_05_28_831
+Cubs	B-ORG
+'	O
+Maddon	B-PER
+gives	O
+Rizzo	B-PER
+much	O
+-	O
+needed	O
+start	O
+off	O
+#	O
+baseball	O
+
+IMGID:O_2762
+Sergio	B-PER
+Ramos	I-PER
+:	O
+Real	B-ORG
+Madrid	I-ORG
+as	O
+motivated	O
+as	O
+two	O
+years	O
+ago	O
+-	O
+
+IMGID:O_1296
+Will	O
+Donald	B-PER
+Trump	I-PER
+spill	O
+the	O
+national	O
+security	O
+secrets	O
+he	O
+'	O
+s	O
+told	O
+?	O
+
+IMGID:16_05_15_677
+Big	O
+thanks	O
+to	O
+the	O
+Kelly	B-ORG
+baseball	O
+team	O
+for	O
+stopping	O
+by	O
+the	O
+show	O
+tonight	O
+!	O
+-	O
+-	O
+&	O
+gt	O
+;	O
+
+IMGID:17_06_3589
+CRSSD	B-MISC
+Festival	I-MISC
+Drops	O
+Another	O
+Stellar	O
+Line	O
+-	O
+up	O
+
+IMGID:17_06_11625
+A	O
+parade	O
+of	O
+needlepoint	O
+pigs	O
+,	O
+enjoying	O
+the	O
+great	O
+outdoors	O
+
+IMGID:16_05_17_450
+Nigerian	B-LOC
+Footballer	O
+,	O
+Fikayo	B-PER
+Tomori	I-PER
+,	O
+Wins	O
+Chelsea	B-ORG
+Academy	O
+Player	O
+Of	O
+The	O
+Year	O
+
+IMGID:16_05_14_396
+2016	O
+Cannes	B-MISC
+Film	I-MISC
+Festival	I-MISC
+:	O
+Stars	O
+Toast	O
+Nick	B-PER
+Broomfield	I-PER
+at	O
+Charles	O
+Finch	O
+Dinner	O
+
+IMGID:16_05_18_980
+How	O
+to	O
+get	O
+started	O
+in	O
+fishing	O
+?	O
+Family	B-MISC
+Fishing	I-MISC
+Festivals	I-MISC
+#	O
+fishing	O
+#	O
+beer	O
+#	O
+fishingdrinkingbeer	O
+
+IMGID:16_05_07_1001
+Come	O
+on	O
+in	O
+.	O
+You	O
+are	O
+welcome	O
+anytime	O
+.	O
+Kick	O
+off	O
+your	O
+shoes	O
+and	O
+relax	O
+.	O
+#	O
+luxury	O
+#	O
+byronbay	O
+
+IMGID:17_06_15109
+Visiting	O
+us	O
+this	O
+evening	O
+?	O
+Use	O
+the	O
+New	B-LOC
+Richmond	I-LOC
+exit	O
+to	O
+avoid	O
+concert	O
+traffic	O
+for	O
+the	O
+#	O
+SoldOut	O
+@	O
+LukeBryanOnline	B-PER
+show	O
+.	O
+
+IMGID:16_05_26_546
+Exciting	O
+opportunity	O
+to	O
+sponsor	O
+the	O
+Homeschool	B-ORG
+Leaders	I-ORG
+Forum	I-ORG
+today	O
+at	O
+#	O
+FPEA2016	B-MISC
+@	O
+DurellTootle	B-PER
+@	O
+MikeVaughanFl	B-PER
+
+IMGID:O_3902
+Can	O
+'	O
+t	O
+wait	O
+for	O
+his	O
+defeat	O
+!	O
+~	O
+~	O
+Poll	O
+:	O
+Kelli	B-PER
+Ward	I-PER
+Ties	O
+Sen	O
+.	O
+John	B-PER
+McCain	I-PER
+in	O
+Arizona	B-LOC
+-	O
+
+IMGID:O_5047
+The	O
+UK	B-LOC
+will	O
+accept	O
+more	O
+unaccompanied	O
+Syrian	B-LOC
+refugee	O
+children	O
+from	O
+Europe	B-LOC
+,	O
+Prime	O
+Minister	O
+David	B-PER
+Cameron	I-PER
+has	O
+said	O
+.	O
+
+IMGID:O_5126
+Apparently	O
+,	O
+Lady	B-PER
+Gaga	I-PER
+is	O
+on	O
+the	O
+cover	O
+of	O
+a	O
+can	O
+of	O
+beer	O
+.	O
+
+IMGID:16_05_24_420
+All	O
+set	O
+up	O
+and	O
+ready	O
+to	O
+go	O
+for	O
+our	O
+design	O
+workshop	O
+at	O
+3	O
+pm	O
+!	O
+Come	O
+and	O
+get	O
+hands	O
+on	O
+and	O
+creative	O
+@	O
+CDWfestival	B-MISC
+#	O
+CDW2016	O
+
+IMGID:17_06_9527
+Great	O
+football	O
+mash	O
+up	O
+this	O
+afternoon	O
+great	O
+day	O
+in	O
+Smethwick	B-LOC
+😆	O
+
+IMGID:17_06_2649
+#	O
+Fashion	O
+The	O
+alternative	O
+festivals	O
+to	O
+book	O
+now	O
+:	O
+
+IMGID:16_05_25_789
+Edinburgh	B-MISC
+Film	I-MISC
+Festival	I-MISC
+Chief	O
+Mark	B-PER
+Adams	I-PER
+Unveils	O
+70	O
+th	O
+Edition	O
+
+IMGID:16_05_17_746
+Thanks	O
+to	O
+Wyoming	O
+@	O
+wyo_football	B-ORG
+for	O
+coming	O
+to	O
+spring	O
+practice	O
+today	O
+to	O
+talk	O
+with	O
+@	O
+CoachPeteOLu	B-PER
+about	O
+#	O
+OluFootball	O
+!	O
+
+IMGID:O_1853
+Donald	B-PER
+Trump	I-PER
+’	O
+s	O
+voter	O
+fraud	O
+commission	O
+is	O
+itself	O
+an	O
+enormous	O
+fraud	O
+:	O
+
+IMGID:O_2894
+They	O
+said	O
+Justin	B-PER
+Timberlake	I-PER
+is	O
+"	O
+Becky	O
+"	O
+😭	O
+😂	O
+I	O
+'	O
+m	O
+in	O
+tears	O
+.	O
+
+IMGID:O_1091
+Gary	B-PER
+Neville	I-PER
+,	O
+David	B-PER
+Beckham	I-PER
+and	O
+Teddy	B-PER
+Sheringham	I-PER
+celebrate	O
+for	O
+Manchester	B-ORG
+United	I-ORG
+.	O
+
+IMGID:16_05_10_338
+daamn	O
+deion	B-PER
+back	O
+at	O
+it	O
+again	O
+with	O
+the	O
+crazy	O
+girlfriend	O
+with	O
+the	O
+thick	O
+ass	O
+eyebrows	O
+and	O
+chubby	O
+belly	O
+🙄	O
+@	O
+footballa021	O
+
+IMGID:16_05_03_210
+because	O
+of	O
+concerts	O
+I	O
+got	O
+to	O
+meet	O
+my	O
+#	O
+1	O
+buddy	O
+💗	O
+can	O
+'	O
+t	O
+wait	O
+to	O
+experience	O
+more	O
+with	O
+u	O
+this	O
+year	O
+💘	O
+#	O
+NationalConcertDay	O
+
+IMGID:O_2251
+Taylor	B-PER
+Swift	I-PER
+uploading	O
+her	O
+Albums	O
+to	O
+Spotify	B-ORG
+like	O
+
+IMGID:16_05_13_78
+Waiting	O
+for	O
+Buckethead	B-PER
+Concert	O
+to	O
+start	O
+!	O
+😃	O
+
+IMGID:O_886
+Were	O
+you	O
+even	O
+a	O
+Harry	B-MISC
+Potter	I-MISC
+fan	O
+if	O
+you	O
+didn	O
+'	O
+t	O
+own	O
+these	O
+in	O
+ur	O
+childhood	O
+
+IMGID:O_2271
+House	B-ORG
+Speaker	O
+Paul	B-PER
+Ryan	I-PER
+says	O
+he	O
+can	O
+'	O
+t	O
+currently	O
+support	O
+presumptive	O
+GOP	B-ORG
+nominee	O
+Donald	B-PER
+Trump	I-PER
+
+IMGID:16_05_11_416
+@	O
+penguins	B-ORG
+@	O
+NHL	B-ORG
+good	O
+luck	O
+in	O
+the	O
+next	O
+round	O
+
+IMGID:O_1411
+1991,	O
+Robin	B-MISC
+Hood	I-MISC
+:	I-MISC
+Prince	I-MISC
+of	I-MISC
+Thieves	I-MISC
+was	O
+released	O
+.	O
+25	O
+years	O
+on	O
+,	O
+I	O
+fulfilled	O
+a	O
+dream	O
+of	O
+visiting	O
+the	O
+tree	O
+#	O
+RobinHood	B-MISC
+
+IMGID:16_05_27_574
+These	O
+guys	O
+are	O
+camera	O
+-	O
+ready	O
+!	O
+@	O
+SHUBaseball	B-ORG
+is	O
+loose	O
+and	O
+gearing	O
+up	O
+for	O
+their	O
+3	O
+:	O
+30	O
+pitch	O
+with	O
+St	B-ORG
+.	I-ORG
+John	I-ORG
+'	O
+s	O
+.	O
+#	O
+BIGEASTbase	O
+
+IMGID:16_05_01_130
+NBA	B-ORG
+:	O
+Miami	B-ORG
+Heat	O
+close	O
+out	O
+Hornets	B-ORG
+in	O
+game	O
+seven	O
+
+IMGID:O_4195
+Harry	B-PER
+Styles	I-PER
+and	O
+his	O
+Mercedes	B-ORG
+Benz	I-ORG
+convertible	O
+1966	O
+is	O
+visual	O
+therapy	O
+
+IMGID:16_05_31_225
+So	O
+much	O
+soccer	O
+this	O
+summer	O
+😍	O
+⚽	O
+️	O
+@	O
+757	O
+_HS_Soccer	O
+@	O
+757	O
+soccer	O
+
+IMGID:O_4011
+Childish	B-PER
+Gambino	I-PER
+/	O
+Donald	B-PER
+Glover	I-PER
+.	O
+This	O
+man	O
+is	O
+not	O
+only	O
+a	O
+lyrical	O
+genius	O
+but	O
+he	O
+a	O
+god	O
+on	O
+earth	B-LOC
+.	O
+so	O
+beautiful	O
+.	O
+
+IMGID:17_06_12508
+Road	O
+closures	O
+in	O
+Southampton	B-LOC
+today	O
+for	O
+Robbie	B-PER
+Williams	I-PER
+concert	O
+
+IMGID:16_05_26_1071
+Hoboken	B-LOC
+pays	O
+tribute	O
+to	O
+heroes	O
+at	O
+118	O
+th	O
+annual	O
+Memorial	B-MISC
+Day	I-MISC
+parade	O
+(	O
+PHOTOS	O
+)	O
+#	O
+JerseyCity	B-LOC
+
+IMGID:17_06_14619
+Went	O
+to	O
+a	O
+@	O
+michaelkiwanuka	B-PER
+concert	O
+,	O
+forgot	O
+about	O
+Trump	B-PER
+,	O
+ignored	O
+the	O
+feeling	O
+of	O
+impending	O
+doom	O
+for	O
+a	O
+full	O
+two	O
+hours	O
+.	O
+
+IMGID:16_05_06_139
+Band	O
+Concert	O
+was	O
+amazing	O
+tonight	O
+!	O
+Not	O
+a	O
+surprise	O
+they	O
+received	O
+gold	O
+at	O
+ISSMA	B-ORG
+.	O
+Sounded	O
+amazing	O
+!	O
+
+IMGID:16_05_13_187
+Sent	O
+to	O
+our	O
+vendors	O
+showing	O
+how	O
+we	O
+'	O
+ve	O
+promoted	O
+Chocolate	O
+Festival	O
+.	O
+Help	O
+us	O
+spread	O
+the	O
+word	O
+
+IMGID:O_376
+#	O
+TheWiderImage	O
+Wizards	O
+,	O
+witches	O
+and	O
+quidditch	O
+:	O
+Harry	B-MISC
+Potter	I-MISC
+turns	O
+20	O
+by	O
+REUTERS	B-ORG
+/	O
+@	O
+neilhallphoto	B-PER
+@	O
+EmilyGraceRoe	B-PER
+
+IMGID:17_06_8809
+Local	O
+soccer	O
+standout	O
+Akil	B-PER
+Watts	I-PER
+still	O
+on	O
+the	O
+move	O
+.	O
+The	O
+move	O
+up	O
+-	O
+
+IMGID:O_176
+Russell	B-PER
+Westbrook	I-PER
+caps	O
+off	O
+a	O
+historic	O
+season	O
+with	O
+his	O
+first	O
+MVP	O
+trophy	O
+.	O
+
+IMGID:O_3234
+According	O
+to	O
+WWD	B-ORG
+,	O
+Mark	B-PER
+Ronson	I-PER
+is	O
+hoping	O
+to	O
+have	O
+Lady	B-PER
+Gaga	I-PER
+'	O
+s	O
+new	O
+album	O
+released	O
+by	O
+year	O
+-	O
+end	O
+.	O
+
+IMGID:16_05_15_654
+Heidi	B-PER
+Klum	I-PER
+stuns	O
+in	O
+bright	O
+pink	O
+maxi	O
+dress	O
+during	O
+Cannes	B-MISC
+Film	I-MISC
+Festival	I-MISC
+2016	O
+
+IMGID:16_05_06_283
+When	O
+you	O
+a	O
+soccer	O
+mom	O
+but	O
+also	O
+swaggy	O
+af	O
+
+IMGID:16_05_01_817
+Pre	O
+game	O
+catch	O
+on	O
+the	O
+field	O
+at	O
+the	O
+@	O
+RidersBaseball	B-ORG
+game	O
+!	O
+#	O
+citydads	O
+
+IMGID:O_5052
+Wayne	B-PER
+Rooney	I-PER
+:	O
+"	O
+Fifth	O
+place	O
+is	O
+what	O
+we	O
+deserve	O
+this	O
+season	O
+.	O
+"	O
+#	O
+MUNBOU	O
+
+IMGID:16_05_01_270
+[	O
+INFO	O
+]	O
+COME	O
+ON	O
+AND	O
+JOIN	O
+'	O
+MC24H	B-MISC
+ART	I-MISC
+FESTIVAL	I-MISC
+.	O
+WITH	O
+FINAL	O
+EVENTS	O
+ON	O
+MAY	O
+21,	O
+2016	O
+.	O
+AND	O
+GET	O
+YOUR	O
+PRIZE	O
+.	O
+
+IMGID:16_05_08_164
+Posting	O
+a	O
+3	O
+am	O
+pic	O
+because	O
+I	O
+miss	O
+Houston	B-LOC
+and	O
+having	O
+enough	O
+money	O
+to	O
+go	O
+to	O
+concerts	O
+
+IMGID:O_557
+taylor	B-PER
+swift	I-PER
+lockscreen	O
+🌷	O
+tweet	O
+us	O
+or	O
+@	O
+1989	O
+moonlights	O
+if	O
+you	O
+want	O
+
+IMGID:16_05_11_578
+Carnaval	O
+Grand	O
+Parade	O
+in	O
+San	B-LOC
+Francisco	I-LOC
+.	O
+.	O
+.	O
+Sunday	O
+May	O
+29	O
+th	O
+.	O
+.	O
+.	O
+see	O
+you	O
+there	O
+!	O
+
+IMGID:17_06_4996
+Loving	O
+my	O
+seat	O
+thanks	O
+@	O
+CanadaSoccerEN	B-ORG
+
+IMGID:17_06_11077
+Concert	O
+ready	O
+done	O
+by	O
+yours	O
+truly	O
+#	O
+muah	O
+💋	O
+
+IMGID:O_118
+Photo	O
+of	O
+Justin	B-PER
+Bieber	I-PER
+out	O
+in	O
+New	B-LOC
+York	I-LOC
+City	I-LOC
+today	O
+.	O
+(	O
+June	O
+2	O
+)	O
+
+IMGID:16_05_01_253
+Today	O
+'	O
+s	O
+Point	B-ORG
+Beach	I-ORG
+at	O
+Toms	B-ORG
+River	I-ORG
+South	I-ORG
+OCT	O
+game	O
+⚾	O
+️	O
+has	O
+been	O
+postponed	O
+due	O
+to	O
+rain	O
+☔	O
+️	O
+date	O
+TBD	O
+#	O
+BeachBaseball	O
+
+IMGID:17_01_9187
+I	O
+wonder	O
+if	O
+someone	O
+did	O
+not	O
+get	O
+wet	O
+at	O
+Ravi	B-PER
+'	O
+s	O
+concert	O
+💧	O
+💧	O
+💧	O
+💧	O
+#	O
+REAL1ZE_PROJECT	O
+🌊	O
+🌊	O
+🌊	O
+
+IMGID:16_05_04_756
+Can	O
+'	O
+t	O
+thank	O
+my	O
+brothers	O
+enough	O
+for	O
+how	O
+hard	O
+they	O
+fought	O
+to	O
+give	O
+me	O
+one	O
+last	O
+game	O
+.	O
+You	O
+'	O
+ll	O
+be	O
+missed	O
+soccer	O
+
+IMGID:O_1989
+My	O
+favorite	O
+thing	O
+about	O
+chop	O
+suey	O
+is	O
+his	O
+eyelashes	O
+—	O
+Harry	B-PER
+Styles	I-PER
+
+IMGID:17_06_5576
+Saturday	O
+night	O
+fun	O
+at	O
+a	O
+lovely	O
+music	O
+festival	O
+.	O
+#	O
+music	O
+#	O
+festival	O
+#	O
+summer	O
+#	O
+summertime	O
+#	O
+bands	O
+#	O
+lovesummer	O
+
+IMGID:16_05_08_231
+Rafa	B-PER
+Benitez	I-PER
+won	O
+'	O
+t	O
+speculate	O
+over	O
+Newcastle	B-ORG
+'	O
+s	O
+Premier	B-ORG
+League	I-ORG
+relegation	O
+-	O
+
+IMGID:O_432
+The	O
+model	O
+from	O
+Calvin	B-ORG
+Klein	I-ORG
+'	O
+s	O
+'	O
+upskirt	O
+'	O
+ad	O
+responds	O
+to	O
+critics	O
+:	O
+'	O
+I	O
+LOVE	O
+this	O
+photo	O
+'	O
+#	O
+Tech	O
+#	O
+TedMinri	O
+
+IMGID:17_01_23785
+Gold	O
+mine	O
+of	O
+#	O
+Dodgers	B-ORG
+memorabilia	O
+plus	O
+All	O
+Stars	O
+and	O
+Legends	O
+#	O
+MLB	B-ORG
+
+IMGID:17_06_10098
+Also	O
+working	O
+in	O
+Midtown	B-LOC
+?	O
+Have	O
+a	O
+brown	O
+bag	O
+lunch	O
+break	O
+with	O
+Bossa	O
+Nova	O
+piano	O
+concert	O
+in	O
+#	O
+BryantPark	B-LOC
+#	O
+NewYorkCity	B-LOC
+
+IMGID:16_05_10_886
+Look	O
+at	O
+these	O
+lovelies	O
+who	O
+have	O
+just	O
+agreed	O
+to	O
+come	O
+to	O
+@	O
+AlsoFestival	B-MISC
+to	O
+hang	O
+out	O
+with	O
+us	O
+by	O
+the	O
+lake	O
+.	O
+
+IMGID:16_05_30_95
+“	O
+@	O
+LosPollosTV	B-ORG
+:	O
+Yo	O
+NBA	B-ORG
+is	O
+rigged	O
+!	O
+!	O
+!	O
+!	O
+
+IMGID:O_2820
+Who	O
+is	O
+the	O
+better	O
+player	O
+?	O
+#	O
+Retweet	O
+for	O
+LeBron	B-PER
+James	I-PER
+#	O
+Favorite	O
+for	O
+Kevin	B-PER
+Durant	I-PER
+
+IMGID:16_05_20_1041
+OHS	B-ORG
+Varsity	O
+Baseball	O
+Alumni	O
+Night	O
+is	O
+Monday	O
+,	O
+May	O
+23	O
+vs	O
+.	O
+Fort	B-ORG
+Atkinson	I-ORG
+.	O
+Game	O
+time	O
+:	O
+5	O
+p	O
+.	O
+m	O
+.	O
+at	O
+Roosevelt	B-LOC
+Field	I-LOC
+.	O
+
+IMGID:O_3221
+aaron	B-PER
+paul	I-PER
+,	O
+dita	B-PER
+von	I-PER
+teese	I-PER
+and	O
+harry	B-PER
+styles	I-PER
+front	O
+row	O
+at	O
+the	O
+burberry	B-ORG
+prorsum	O
+during	O
+london	B-LOC
+fashion	O
+week	O
+,	O
+2012	O
+
+IMGID:16_05_19_379
+Baseball	O
+banquet	O
+last	O
+night	O
+⚾	O
+🌜	O
+
+IMGID:O_4143
+#	O
+UPDATE	O
+:	O
+Just	O
+in	O
+!	O
+Hottest	O
+Couple	O
+,	O
+Louis	B-PER
+Tomlinson	I-PER
+and	O
+Harry	B-PER
+Styles	I-PER
+spotted	O
+at	O
+#	O
+MetGala	B-MISC
+
+IMGID:16_05_30_424
+NBA	B-ORG
+star	O
+Pau	B-PER
+Gasol	I-PER
+considers	O
+skipping	O
+Olympics	B-MISC
+due	O
+to	O
+Zika	O
+virus	O
+concerns	O
+
+IMGID:16_05_23_264
+Amazing	O
+view	O
+on	O
+a	O
+great	O
+day	O
+for	O
+baseball	O
+#	O
+patriotpride	O
+
+IMGID:16_05_04_60
+Solid	O
+first	O
+inning	O
+for	O
+this	O
+OVER	O
+9,	O
+let	O
+'	O
+s	O
+keep	O
+it	O
+up	O
+fellas	O
+#	O
+MLB	B-ORG
+
+IMGID:O_4777
+Live	O
+at	O
+#	O
+ALAAC17	O
+for	O
+the	O
+launch	O
+of	O
+@	O
+bookclubcentral	O
+with	O
+the	O
+one	O
+and	O
+only	O
+Sarah	B-PER
+Jessica	I-PER
+Parker	I-PER
+!	O
+
+IMGID:16_05_20_25
+The	O
+only	O
+app	O
+you	O
+need	O
+to	O
+find	O
+concerts	O
+happening	O
+near	O
+you	O
+-	O
+anytime	O
+,	O
+anywhere	O
+!	O
+
+IMGID:O_4123
+Justin	B-PER
+Bieber	I-PER
+is	O
+now	O
+the	O
+first	O
+and	O
+only	O
+artist	O
+to	O
+have	O
+three	O
+videos	O
+with	O
+over	O
+1	O
+BILLION	O
+views	O
+on	O
+VEVO	B-ORG
+.	O
+
+IMGID:16_05_13_952
+Zidane	B-PER
+:	O
+We	O
+have	O
+a	O
+great	O
+job	O
+reducing	O
+,	O
+our	O
+fate	O
+will	O
+be	O
+decided	O
+tomorrow	O
+in	O
+La	B-ORG
+Liga	I-ORG
+.	O
+
+IMGID:O_4472
+The	O
+Old	O
+Mill	O
+,	O
+North	B-LOC
+Little	I-LOC
+Rock	I-LOC
+,	O
+Arkansas	B-LOC
+,	O
+USA	B-LOC
+
+IMGID:O_444
+Russell	B-PER
+Westbrook	I-PER
+on	O
+guarding	O
+Steph	B-PER
+Curry	I-PER
+:	O
+'	O
+He	O
+'	O
+s	O
+not	O
+nothing	O
+I	O
+haven	O
+'	O
+t	O
+seen	O
+'	O
+
+IMGID:O_5051
+BREAKING	O
+:	O
+United	B-ORG
+have	O
+made	O
+Ryan	B-PER
+Giggs	I-PER
+an	O
+offer	O
+to	O
+stay	O
+at	O
+the	O
+club	O
+#	O
+mufc	B-ORG
+
+IMGID:16_05_08_986
+This	O
+cuties	O
+blessed	O
+me	O
+today	O
+💕	O
+💕	O
+good	O
+luck	O
+on	O
+the	O
+concert	O
+!	O
+!	O
+😘	O
+
+IMGID:17_06_2184
+The	O
+NBA	B-ORG
+Finals	O
+:	O
+Durant	B-PER
+,	O
+Curry	B-PER
+lead	O
+Warriors	B-ORG
+to	O
+Game	O
+2	O
+win	O
+over	O
+Cavs	B-ORG
+
+IMGID:16_05_14_561
+his	O
+first	O
+baseball	O
+game	O
+🤘	O
+🏽	O
+😁	O
+
+IMGID:16_05_10_853
+Lucia	B-PER
+Aliberti	I-PER
+with	O
+tenor	O
+Michael	B-PER
+Schade	I-PER
+conductor	O
+Gerard	B-PER
+Wirth	I-PER
+and	O
+Regine	B-PER
+Sixt	I-PER
+at	O
+Xmas	O
+Concert	O
+in	O
+Stephan	B-LOC
+Dom	I-LOC
+Wien	I-LOC
+
+IMGID:17_06_4227
+Game	O
+5	O
+kicks	O
+for	O
+the	O
+👑	O
+(	O
+via	O
+@	O
+Cavs	B-ORG
+)	O
+#	O
+NBAFinals	O
+
+IMGID:17_06_14768
+Attention	O
+:	O
+Taco	B-ORG
+Bell	I-ORG
+is	O
+giving	O
+away	O
+free	O
+tacos	O
+for	O
+the	O
+#	O
+NBAFinals	O
+
+IMGID:16_05_25_375
+#	O
+CocaCola	B-ORG
+presents	O
+#	O
+SpeedStreet	O
+!	O
+A	O
+free	O
+festival	O
+full	O
+of	O
+music	O
+,	O
+food	O
+,	O
+and	O
+NASCAR	B-ORG
+!	O
+
+IMGID:16_05_24_214
+I	O
+think	O
+i	O
+might	O
+be	O
+obsessed	O
+with	O
+baseball	O
+.	O
+.	O
+.	O
+.	O
+.	O
+
+IMGID:O_2710
+Still	O
+believe	O
+the	O
+best	O
+explanation	O
+of	O
+Donald	B-PER
+Trump	I-PER
+'	O
+s	O
+rise	O
+comes	O
+not	O
+from	O
+any	O
+pundit	O
+,	O
+but	O
+Donald	B-PER
+Trump	I-PER
+himself	O
+.	O
+
+IMGID:16_05_01_718
+Was	O
+with	O
+you	O
+in	O
+spirit	O
+this	O
+am	O
+@	O
+NumCog	B-PER
+from	O
+@	O
+QueenBeaverPub	B-LOC
+in	O
+TO	B-LOC
+.	O
+.	O
+.	O
+next	O
+time	O
+from	O
+your	O
+living	O
+room	O
+!	O
+#	O
+PremierLeague	O
+
+IMGID:16_05_08_797
+I	O
+was	O
+pretty	O
+mad	O
+when	O
+the	O
+@	O
+Vikings	B-ORG
+didn	O
+'	O
+t	O
+draft	O
+Johnny	B-PER
+Football	I-PER
+.	O
+@	O
+teddyb_h2o	B-PER
+I	O
+appreciate	O
+you	O
+a	O
+lot	O
+more	O
+now	O
+😂	O
+😂	O
+
+IMGID:17_06_15451
+NBA	B-ORG
+finals	O
+game	O
+1	O
+.	O
+.	O
+the	O
+winner	O
+is	O
+@	O
+rihanna	B-PER
+much	O
+love	O
+😍	O
+😍	O
+😍	O
+
+IMGID:17_06_11126
+ImSEEEING	O
+LORDEIN	B-PER
+CONCERT	O
+IM	O
+SO	O
+HAPPIE	O
+
+IMGID:O_3098
+Preview	O
+:	O
+'	O
+2017	O
+Official	O
+18	O
+-	O
+month	O
+One	B-PER
+Direction	I-PER
+Calender	O
+'	O
+!	O
+You	O
+can	O
+order	O
+it	O
+here	O
+:	O
+
+IMGID:O_4428
+can	O
+we	O
+all	O
+just	O
+take	O
+a	O
+moment	O
+to	O
+appreciate	O
+Zac	B-PER
+Efron	I-PER
+please	O
+
+IMGID:O_541
+Glenn	B-PER
+Beck	I-PER
+Endorses	O
+Assassinating	O
+Donald	B-PER
+Trump	I-PER
+-	O
+Killing	O
+Him	O
+Would	O
+Be	O
+Patriotic	O
+He	O
+Believes	O
+…	O
+
+IMGID:17_06_4127
+•	O
+favourite	O
+beatles	B-PER
+concert	O
+-	O
+i	O
+love	O
+the	O
+rooftop	O
+one	O
+but	O
+SHEA	B-LOC
+STADIUM	I-LOC
+♡	O
+♡	O
+♡	O
+•	O
+
+IMGID:O_1862
+TheEconomist	B-ORG
+:	O
+Donald	B-PER
+Trump	I-PER
+calls	O
+it	O
+"	O
+rape	O
+"	O
+.	O
+China	B-LOC
+calls	O
+it	O
+a	O
+commitment	O
+.	O
+A	O
+looming	O
+trade	O
+row	O
+…	O
+
+IMGID:17_06_5542
+Those	O
+spoilt	O
+footballers	O
+could	O
+learn	O
+a	O
+lot	O
+from	O
+our	O
+Olympic	B-MISC
+Heroes	O
+.	O
+.	O
+.	O
+
+IMGID:16_05_18_448
+Find	O
+out	O
+what	O
+classical	O
+delights	O
+the	O
+Bath	B-MISC
+International	I-MISC
+Music	I-MISC
+Festival	I-MISC
+is	O
+serving	O
+up	O
+.	O
+
+IMGID:O_4696
+Stephen	B-PER
+Colbert	I-PER
+announces	O
+a	O
+week	O
+of	O
+'	O
+Late	B-MISC
+Show	I-MISC
+'	O
+episodes	O
+from	O
+Russia	B-LOC
+
+IMGID:O_1638
+(	O
+20	O
+)	O
+More	O
+photos	O
+of	O
+Justin	B-PER
+Bieber	I-PER
+performing	O
+on	O
+the	O
+#	O
+PurposeTour	O
+tonight	O
+in	O
+Ottawa	B-LOC
+,	O
+Ontario	B-LOC
+.	O
+(	O
+May	O
+13	O
+)	O
+
+IMGID:O_2753
+When	O
+Donald	B-PER
+Trump	I-PER
+is	O
+getting	O
+closer	O
+to	O
+winning	O
+the	O
+election	O
+and	O
+you	O
+'	O
+re	O
+trying	O
+not	O
+to	O
+get	O
+deported	O
+
+IMGID:17_06_3768
+The	O
+#	O
+Gators	B-ORG
+bullpen	O
+has	O
+an	O
+inflatable	O
+burger	O
+tonight	O
+.	O
+
+IMGID:16_05_11_667
+This	O
+what	O
+happens	O
+when	O
+I	O
+ask	O
+my	O
+dad	O
+to	O
+go	O
+to	O
+a	O
+Snoop	B-PER
+Dogg	I-PER
+concert	O
+
+IMGID:17_06_3231
+MT	O
+@	O
+Shanshero08	B-PER
+:	O
+Weather	O
+is	O
+getting	O
+warmer	O
+but	O
+want	O
+my	O
+#	O
+bluefamily	O
+to	O
+stay	O
+safe	O
+.	O
+
+IMGID:O_549
+My	O
+column	O
+on	O
+what	O
+Donald	B-PER
+Trump	I-PER
+doesn	O
+'	O
+t	O
+understand	O
+about	O
+women	O
+:	O
+
+IMGID:O_279
+My	O
+mate	O
+was	O
+on	O
+a	O
+flight	O
+with	O
+Harry	B-PER
+Redknapp	I-PER
+last	O
+night	O
+
+IMGID:O_1592
+Stephen	B-PER
+King	I-PER
+saw	O
+Baby	B-MISC
+Driver	I-MISC
+and	O
+thinks	O
+it	O
+'	O
+s	O
+'	O
+ultimately	O
+cool	O
+'	O
+
+IMGID:O_1717
+Kevin	B-PER
+Durant	I-PER
+going	O
+to	O
+the	O
+warriors	B-ORG
+is	O
+the	O
+same	O
+as	O
+Lebron	B-PER
+going	O
+to	O
+the	O
+Heat	B-ORG
+
+IMGID:16_05_29_222
+ICYMI	O
+our	O
+2	O
+A	O
+State	O
+Baseball	O
+coverage	O
+Selah	B-ORG
+finally	O
+wins	O
+it	O
+all	O
+
+IMGID:O_4315
+If	O
+Donald	B-PER
+Trump	I-PER
+wants	O
+to	O
+beat	O
+Hillary	B-PER
+Clinton	I-PER
+,	O
+he	O
+needs	O
+to	O
+win	O
+these	O
+5	O
+states	O
+
+IMGID:16_05_15_379
+❤	O
+️	O
+🙏	O
+Please	O
+bring	O
+our	O
+talented	O
+@	O
+Apollo5Official	B-PER
+to	O
+performs	O
+@	O
+rixfmfestival	B-ORG
+this	O
+summer	O
+.	O
+#	O
+Apollo5TillRixFmFestival2016	O
+
+IMGID:O_2347
+Emma	B-PER
+Watson	I-PER
+wearing	O
+Calvin	B-ORG
+Klein	I-ORG
+.	O
+This	O
+dress	O
+was	O
+made	O
+out	O
+of	O
+recycled	O
+plastic	O
+bottles	O
+#	O
+MetGala	B-MISC
+
+IMGID:16_05_20_957
+.	O
+@	O
+ArianaGrande	B-PER
+will	O
+be	O
+having	O
+a	O
+private	O
+concert	O
+at	O
+the	O
+Trianon	B-LOC
+in	O
+Paris	B-LOC
+,	O
+June	O
+8	O
+!	O
+Curated	O
+by	O
+@	O
+HP_France	B-ORG
+.	O
+#	O
+HPLounge	O
+
+IMGID:17_06_14909
+Ranking	O
+Michigan	B-ORG
+State	I-ORG
+'	O
+s	O
+eight	O
+active	O
+NBA	B-ORG
+players	O
+
+IMGID:17_06_1768
+Rain	O
+or	O
+shine	O
+-	O
+let	O
+'	O
+s	O
+play	O
+ball	O
+!	O
+!	O
+@	O
+ORUBaseball	B-ORG
+#	O
+SurviveAndAdvance	O
+#	O
+SoarAbove	O
+
+IMGID:16_05_30_252
+#	O
+Redding	B-ORG
+Colt	I-ORG
+45	I-ORG
+s	I-ORG
+draw	O
+capacity	O
+summer	O
+college	O
+baseball	O
+crowds	O
+to	O
+see	O
+small	O
+college	O
+kids	O
+chase	O
+dreams	O
+.	O
+
+IMGID:16_05_27_551
+Pictures	O
+courtesy	O
+of	O
+my	O
+friend	O
+.	O
+I	O
+am	O
+so	O
+ready	O
+for	O
+football	O
+
+IMGID:17_01_6766
+@	O
+steelers	B-ORG
+should	O
+give	O
+@	O
+WizardOfBoz09	B-PER
+a	O
+pay	O
+raise	O
+.	O
+Best	O
+kicker	O
+in	O
+@	O
+NFL	B-ORG
+🏈	O
+#	O
+HereWeGo	O
+#	O
+StairwayToSeven	O
+
+IMGID:17_06_1763
+Clark	B-PER
+noticed	O
+this	O
+at	O
+@	O
+Target	B-LOC
+.	O
+The	O
+Warriors	B-ORG
+blew	O
+a	O
+3	O
+-	O
+1	O
+lead	O
+in	O
+the	O
+2016	O
+NBA	B-ORG
+Finals	O
+.	O
+
+IMGID:O_2820
+Who	O
+is	O
+the	O
+better	O
+player	O
+?	O
+#	O
+Retweet	O
+for	O
+LeBron	B-PER
+James	I-PER
+#	O
+Favorite	O
+for	O
+Kevin	B-PER
+Durant	I-PER
+
+IMGID:O_3263
+Yoongi	B-PER
+trying	O
+to	O
+find	O
+new	O
+ways	O
+to	O
+say	O
+he	O
+walked	O
+past	O
+nicki	B-PER
+minaj	I-PER
+and	O
+lil	B-PER
+wayne	I-PER
+
+IMGID:O_4795
+Dodgy	O
+David	B-PER
+Cameron	I-PER
+tells	O
+Queen	O
+Nigeria	B-LOC
+and	O
+Afghanistan	B-LOC
+are	O
+fantastically	O
+corrupt	O
+
+IMGID:17_06_4309
+Best	O
+of	O
+LeBron	B-PER
+James	I-PER
+and	O
+Kevin	B-PER
+Durant	I-PER
+Through	O
+4	O
+Games	O
+Of	O
+NBA	B-ORG
+Finals	O
+2017	O
+
+IMGID:O_346
+Congratulations	O
+@	O
+taylorswift13	B-PER
+on	O
+the	O
+BMI	B-ORG
+Taylor	B-MISC
+Swift	I-MISC
+Award	I-MISC
+.	O
+Here	O
+'	O
+s	O
+to	O
+two	O
+things	O
+that	O
+never	O
+go	O
+out	O
+of	O
+style	O
+.	O
+
+IMGID:O_1698
+NEIGHBORS	B-MISC
+2	I-MISC
+is	O
+one	O
+of	O
+the	O
+best	O
+comedy	O
+sequels	O
+ever	O
+;	O
+Seth	B-PER
+Rogen	I-PER
+is	O
+America	B-LOC
+'	O
+s	O
+new	O
+movie	O
+dad	O
+.	O
+
+IMGID:17_06_1415
+The	O
+@	O
+TownofLaSalle	B-LOC
+#	O
+StrawberryFestival	B-MISC
+is	O
+Finally	O
+Here	O
+Starting	O
+June	O
+8	O
+#	O
+YQG	O
+#	O
+CBCeyes	O
+
+IMGID:16_05_05_76
+A	O
+music	O
+festival	O
+for	O
+the	O
+ages	O
+is	O
+happening	O
+in	O
+the	O
+California	B-LOC
+desert	O
+next	O
+fall	O
+:	O
+
+IMGID:16_05_28_625
+Russell	B-PER
+Westbrook	I-PER
+lookin	O
+like	O
+ducky	O
+from	O
+Land	O
+Before	O
+Time	O
+.	O
+#	O
+NBAPlayoffs	O
+#	O
+OKCvsGSW	O
+😂	O
+
+IMGID:O_4855
+russell	B-PER
+westbrook	I-PER
+watching	O
+curry	B-PER
+and	O
+KD	B-PER
+giggling	O
+together	O
+with	O
+their	O
+championship	O
+
+IMGID:O_5028
+Sexiest	O
+Man	O
+Alive	O
+David	B-PER
+Beckham	I-PER
+on	O
+His	O
+40	O
+-	O
+Plus	O
+Tattoos	O
+:	O
+.	O
+.	O
+.	O
+-	O
+#	O
+fashion	O
+#	O
+mensfashion	O
+#	O
+style	O
+
+IMGID:O_915
+What	O
+was	O
+your	O
+favorite	O
+One	B-PER
+Direction	I-PER
+tour	O
+?	O
+Up	O
+all	O
+night	O
+,	O
+take	O
+me	O
+home	O
+,	O
+where	O
+we	O
+are	O
+or	O
+Otra	O
+#	O
+NoControlDay	O
+
+IMGID:O_4677
+2	O
+out	O
+of	O
+the	O
+Top	O
+5	O
+most	O
+viewed	O
+music	O
+videos	O
+on	O
+VEVO	B-ORG
+belong	O
+to	O
+the	O
+one	O
+and	O
+only	O
+Taylor	B-PER
+Swift	I-PER
+.	O
+👸	O
+
+IMGID:O_2051
+Box	O
+Office	O
+Showdown	O
+:	O
+Tom	B-PER
+Cruise	I-PER
+'	O
+s	O
+'	O
+The	B-MISC
+Mummy	I-MISC
+'	O
+to	O
+Get	O
+Lassoed	O
+by	O
+'	O
+Wonder	B-MISC
+Woman	I-MISC
+'	O
+
+IMGID:16_05_01_29
+Candid	O
+,	O
+blurry	O
+photo	O
+of	O
+me	O
+at	O
+a	O
+Rush	B-PER
+concert	O
+😂	O
+😄	O
+
+IMGID:O_2364
+Ryan	B-PER
+Gosling	I-PER
+and	O
+Mike	B-PER
+Myers	I-PER
+sing	O
+'	O
+a	O
+-	O
+boot	O
+'	O
+Canada	B-LOC
+on	O
+SNL	B-MISC
+#	O
+RyanGosling	B-PER
+
+IMGID:17_06_4238
+Best	O
+shot	O
+ever	O
+of	O
+my	O
+Dad	O
+and	O
+I	O
+.	O
+Did	O
+a	O
+mini	O
+-	O
+concert	O
+show	O
+for	O
+his	O
+living	O
+community	O
+today	O
+.	O
+He	O
+produced	O
+it	O
+.	O
+Bravo	O
+Pops	O
+!	O
+
+IMGID:16_05_19_832
+Hot	O
+Football	O
+Transfer	O
+Gossip	O
+:	O
+Man	B-ORG
+Utds	I-ORG
+Aubameyang	B-PER
+fear	O
+,	O
+#	O
+Arsenal	B-ORG
+could	O
+make	O
+#	O
+Kante	B-PER
+bid	O
+
+IMGID:16_05_11_831
+Facts	O
+proved	O
+that	O
+basketball	O
+skill	O
+is	O
+of	O
+no	O
+help	O
+to	O
+be	O
+a	O
+goalkeeper	O
+.	O
+But	O
+good	O
+fun	O
+.	O
+#	O
+StaffVersusSudent	O
+#	O
+@	O
+GEESatHull	O
+
+IMGID:O_4223
+Lady	B-PER
+Gaga	I-PER
+will	O
+star	O
+in	O
+Dionne	B-PER
+Warwick	I-PER
+'	O
+s	O
+biopic	O
+.	O
+
+IMGID:17_06_8302
+JR	B-PER
+SMITH	I-PER
+from	O
+way	O
+,	O
+way	O
+back	O
+!	O
+👌	O
+#	O
+NBAFinals	O
+
+IMGID:16_05_02_659
+The	O
+night	O
+shift	O
+has	O
+a	O
+dark	O
+influence	O
+on	O
+#	O
+hearthealth	O
+,	O
+but	O
+that	O
+’	O
+s	O
+not	O
+the	O
+whole	O
+story	O
+-	O
+
+IMGID:O_1546
+Jimmy	B-PER
+Buffett	I-PER
+9	O
+/	O
+3	O
+Alpine	B-LOC
+Valley	I-LOC
+WI	B-LOC
+2	O
+-	O
+4	O
+Tickets	O
+Back	O
+Pavilion	O
+203	O
+Row	O
+VV	O
+
+IMGID:17_06_4982
+Photos	O
+Of	O
+Notorious	O
+Kidnapper	O
+,	O
+Evans	B-PER
+Paraded	O
+Along	O
+With	O
+His	O
+Gang	O
+Members	O
+
+IMGID:O_4956
+Russell	B-PER
+Simmons	I-PER
+sheds	O
+light	O
+on	O
+Def	B-ORG
+Jam	I-ORG
+split	O
+with	O
+Rick	B-PER
+Rubin	I-PER
+
+IMGID:O_189
+With	O
+Donald	B-PER
+Trump	I-PER
+as	O
+presumptive	O
+nominee	O
+,	O
+some	O
+in	O
+GOP	B-ORG
+say	O
+they	O
+'	O
+re	O
+breaking	O
+away	O
+from	O
+party	O
+
+IMGID:17_06_1606
+Better	O
+to	O
+give	O
+than	O
+to	O
+receive	O
+.	O
+I	O
+'	O
+d	O
+do	O
+it	O
+for	O
+one	O
+but	O
+blessed	O
+to	O
+serve	O
+the	O
+@	O
+TexasFootball	B-ORG
+fam	O
+.	O
+#	O
+thisisTexas	O
+
+IMGID:17_06_397
+Empire	B-LOC
+State	I-LOC
+Building	I-LOC
+has	O
+never	O
+looked	O
+better	O
+!	O
+#	O
+NYCPride2017	O
+#	O
+NYCPrideParade	O
+#	O
+gay	O
+#	O
+NYC	B-LOC
+
+IMGID:17_06_12483
+New	O
+Post	O
+:	O
+Blackburn	B-MISC
+Festival	I-MISC
+of	I-MISC
+Voice	I-MISC
+2017	O
+
+IMGID:17_06_3085
+I	O
+feel	O
+like	O
+this	O
+is	O
+a	O
+throwback	O
+tweet	O
+to	O
+2012	O
+with	O
+Chris	B-PER
+Hogan	I-PER
+(	O
+7	O
+/	O
+11	O
+)	O
+on	O
+Hard	B-MISC
+Knocks	I-MISC
+.	O
+Good	O
+call	O
+,	O
+@	O
+AllbrightNFL	B-PER
+👍	O
+🏼	O
+
+IMGID:16_05_25_266
+This	O
+year	O
+the	O
+#	O
+Frederick	B-MISC
+Festival	I-MISC
+of	I-MISC
+the	I-MISC
+Arts	I-MISC
+is	O
+featuring	O
+130	O
+arts	O
+-	O
+more	O
+than	O
+ever	O
+before	O
+!	O
+#	O
+FFOTA	O
+#	O
+MD	O
+🎨	O
+🎨	O
+
+IMGID:O_2475
+Fear	O
+can	O
+hold	O
+you	O
+prisoner	O
+.	O
+Hope	O
+can	O
+set	O
+you	O
+free	O
+.	O
+-	O
+Stephen	B-PER
+King	I-PER
+#	O
+quote	O
+
+IMGID:O_2049
+BREAKING	O
+:	O
+Chris	B-PER
+Paul	I-PER
+has	O
+been	O
+traded	O
+to	O
+the	O
+Rockets	B-ORG
+.	O
+
+IMGID:17_01_16826
+Great	O
+moment	O
+playing	O
+bubble	O
+hockey	O
+with	O
+the	O
+great	O
+Terry	B-PER
+O	I-PER
+'	I-PER
+Reilly	I-PER
+!	O
+!	O
+@	O
+NHLBruins	B-ORG
+@	O
+CCRINews	B-ORG
+@	O
+CCRIAthletics	B-ORG
+
+IMGID:O_3112
+Wife	O
+Calls	O
+Hubby	B-PER
+From	O
+Ellen	B-MISC
+DeGeneres	I-MISC
+Show	I-MISC
+Live	O
+On	O
+TV	O
+As	O
+A	O
+PrankAnd	O
+His	O
+Mistress	O
+Pick	O
+
+IMGID:17_06_13014
+Festivals	O
+coming	O
+up	O
+in	O
+June	O
+/	O
+July	O
+
+IMGID:16_05_22_274
+#	O
+MLB	B-ORG
+Cards	B-ORG
+blast	O
+three	O
+homers	O
+in	O
+win	O
+over	O
+#	O
+Diamondbacks	B-ORG
+
+IMGID:O_4020
+(	O
+PCDD	O
+)	O
+One	B-MISC
+Piece	I-MISC
+Burning	I-MISC
+Blood	I-MISC
+$	O
+16.99	O
+via	O
+Steam	B-ORG
+.	O
+
+IMGID:17_06_5939
+Jaws	B-PER
+gettin	O
+in	O
+the	O
+mix	O
+!	O
+!	O
+@	O
+soulfootball	B-ORG
+
+IMGID:16_05_10_719
+Spring	O
+Concert	O
+tonight	O
+7	O
+:	O
+00	O
+p	O
+.	O
+m	O
+.	O
+Concert	O
+be	O
+live	O
+-	O
+streamed	O
+on	O
+our	O
+website	O
+
+IMGID:16_05_03_587
+Truly	O
+blessed	O
+that	O
+I	O
+got	O
+the	O
+opportunity	O
+to	O
+sign	O
+with	O
+my	O
+best	O
+friend	O
+and	O
+continue	O
+playing	O
+football	O
+at	O
+the	O
+next	O
+level	O
+
+IMGID:17_06_1187
+I	O
+lost	O
+my	O
+BR	O
+bc	O
+this	O
+game	O
+fucking	O
+rung	O
+me	O
+up	O
+with	O
+bases	O
+Loaded	O
+this	O
+game	O
+is	O
+fucking	O
+broke	O
+@	O
+MLB_GGM_GOON	B-PER
+
+IMGID:O_4463
+Justin	B-PER
+Bieber	I-PER
+and	O
+Skrillex	B-PER
+are	O
+getting	O
+sued	O
+over	O
+"	O
+Sorry	B-MISC
+"	O
+
+IMGID:16_05_01_217
+Tattoos	O
+and	O
+concerts	O
+.	O
+.	O
+.	O
+Just	O
+a	O
+typical	O
+weekend	O
+with	O
+grandma	O
+😝	O
+🤘	O
+
+IMGID:16_05_25_689
+@	O
+GPISDECHS	B-ORG
+Day	O
+2	O
+Game	O
+1	O
+.	O
+Thanks	O
+Coach	O
+Trevino	B-PER
+for	O
+refereeing	O
+.	O
+#	O
+soccer	O
+
+IMGID:16_05_23_972
+Great	O
+opportunity	O
+for	O
+young	O
+baseball	O
+players	O
+.	O
+Be	O
+a	O
+part	O
+of	O
+the	O
+12	O
+U	O
+National	O
+Team	O
+.	O
+
+IMGID:O_3045
+Gravis	O
+Indiana	B-LOC
+Poll	O
+:	O
+Donald	B-PER
+Trump	I-PER
+44	O
+%	O
+,	O
+Ted	B-PER
+Cruz	I-PER
+27	O
+%	O
+,	O
+John	B-PER
+Kasich	I-PER
+9	O
+%	O
+…	O
+
+IMGID:16_05_10_448
+This	O
+is	O
+what	O
+happens	O
+when	O
+you	O
+make	O
+a	O
+tweet	O
+at	O
+me	O
+to	O
+vote	O
+for	O
+Pavelski	B-PER
+.	O
+#	O
+NHL17Tarasenko	O
+
+IMGID:O_4605
+BonnyCombs25	O
+:	O
+Watch	O
+Jimmy	B-PER
+Kimmel	I-PER
+Grill	O
+Kelly	B-PER
+Ripa	I-PER
+on	O
+First	O
+Michael	B-PER
+Strahan	I-PER
+-	O
+Less	O
+Live	O
+-	O
+
+IMGID:O_2316
+pictured	O
+:	O
+harry	B-PER
+potter	I-PER
+during	O
+most	O
+of	O
+the	O
+events	O
+of	O
+Harry	B-MISC
+Potter	I-MISC
+(	O
+1997	O
+-	O
+2007	O
+)	O
+
+IMGID:16_05_21_859
+the	O
+crowd	O
+at	O
+the	O
+festival	O
+tho	O
+
+IMGID:O_3340
+Jennifer	B-PER
+Lopez	I-PER
+just	O
+did	O
+an	O
+AMAZING	O
+thing	O
+for	O
+a	O
+former	O
+American	B-MISC
+Idol	I-MISC
+contestant	O
+.	O
+Lucky	O
+her	O
+!	O
+!	O
+
+IMGID:17_06_9338
+Local	O
+NFL	B-ORG
+player	O
+gives	O
+back	O
+to	O
+area	O
+youth	O
+
+IMGID:17_06_5097
+Andrew	B-PER
+Cole	I-PER
+eager	O
+to	O
+look	O
+into	O
+heart	O
+problems	O
+troubling	O
+footballers	O
+
+IMGID:16_05_30_851
+[	O
+INFO	O
+]	O
+COME	O
+ON	O
+AND	O
+'	O
+JOIN	O
+MC24H	B-MISC
+ART	I-MISC
+FESTIVAL	I-MISC
+.	O
+WITH	O
+FINAL	O
+EVENTS	O
+ON	O
+MAY	O
+21,	O
+2016	O
+.	O
+AND	O
+GET	O
+YOUR	O
+PRIZE	O
+.	O
+
+IMGID:16_05_01_723
+Spending	O
+my	O
+Sunday	O
+morning	O
+watching	O
+my	O
+favorite	O
+baseball	O
+player	O
+💙	O
+⚾	O
+️	O
+☘	O
+
+IMGID:O_4803
+Justin	B-PER
+Bieber	I-PER
+joined	O
+Skrillex	B-PER
+at	O
+@	O
+XSlasvegas	B-LOC
+over	O
+the	O
+weekend	O
+
+IMGID:17_06_3796
+Tony	B-PER
+Bradley	I-PER
+@	O
+ToBrad1	B-PER
+was	O
+drafted	O
+28	O
+th	O
+by	O
+the	O
+@	O
+Lakers	B-ORG
+before	O
+his	O
+rights	O
+were	O
+traded	O
+to	O
+Utah	B-ORG
+in	O
+the	O
+2017	O
+NBA	B-ORG
+Draft	O
+
+IMGID:17_06_11551
+Enjoying	O
+our	O
+Summer	O
+Music	O
+Festival	O
+!	O
+#	O
+STARFISH	B-MISC
+musicians	O
+
+IMGID:O_4246
+Stephen	B-PER
+Curry	I-PER
+Responds	O
+to	O
+Kevin	B-PER
+Durant	I-PER
+,	O
+Russell	B-PER
+Westbrook	I-PER
+'	O
+s	O
+Defensive	O
+Criticism	O
+
+IMGID:17_06_15536
+Ernesto	B-PER
+Valverde	I-PER
+reveals	O
+pattern	O
+of	O
+football	O
+he	O
+wants	O
+in	O
+Barcelona	B-ORG
+
+IMGID:16_05_16_1080
+when	O
+u	O
+tryna	O
+hold	O
+your	O
+spot	O
+at	O
+the	O
+barricade	O
+at	O
+a	O
+concert	O
+
+IMGID:16_05_17_386
+Photos	O
+:	O
+Iggy	B-PER
+Azalea	I-PER
+wows	O
+concert	O
+audience	O
+with	O
+her	O
+curves	O
+
+IMGID:16_05_08_388
+Modric	B-PER
+is	O
+bigger	O
+than	O
+football	O
+
+IMGID:16_05_14_1125
+Cause	O
+of	O
+A	B-PER
+.	I-PER
+i	I-PER
+I	O
+have	O
+the	O
+love	O
+for	O
+basketball	O
+that	O
+I	O
+do	O
+today	O
+.	O
+He	O
+was	O
+the	O
+realest	O
+on	O
+and	O
+off	O
+the	O
+court	O
+.	O
+PRACTICE	O
+!	O
+
+IMGID:16_05_10_755
+Alex	B-PER
+vidal	I-PER
+and	O
+Ardan	B-PER
+turan	I-PER
+are	O
+included	O
+in	O
+d	O
+list	O
+of	O
+La	B-ORG
+Liga	I-ORG
+'	O
+s	O
+worst	O
+signings	O
+and	O
+worst	O
+players	O
+of	O
+this	O
+season	O
+
+IMGID:17_06_14460
+Does	O
+anybody	O
+really	O
+buy	O
+this	O
+#	O
+MLB	B-ORG
+marketing	O
+garbage	O
+?	O
+Enough	O
+already	O
+.	O
+
+IMGID:17_06_11788
+Nba	B-ORG
+finals	O
+.	O
+.	O
+.	O
+Golden	B-ORG
+state	I-ORG
+warriors	I-ORG
+2017	O
+champs	O
+@	O
+KDTrey5	B-PER
+@	O
+StephenCurry30	B-PER
+
+IMGID:O_2343
+HQ	O
+photo	O
+of	O
+Justin	B-PER
+Bieber	I-PER
+performing	O
+on	O
+the	O
+#	O
+PurposeTour	O
+last	O
+night	O
+in	O
+Washington	B-LOC
+,	I-LOC
+D	I-LOC
+.	I-LOC
+C	I-LOC
+.	O
+(	O
+April	O
+29	O
+)	O
+
+IMGID:16_05_18_776
+Just	O
+waiting	O
+for	O
+ur	O
+Belfast	B-LOC
+concert	O
+to	O
+start	O
+
+IMGID:17_06_4555
+New	O
+:	O
+Senators	B-ORG
+ask	O
+Phaneuf	B-PER
+to	O
+waive	O
+no	O
+-	O
+movement	O
+clause	O
+#	O
+nhl	B-ORG
+@	O
+Media_Sens	O
+@	O
+Senators	B-ORG
+
+IMGID:O_2358
+Justin	B-PER
+Bieber	I-PER
+Shows	O
+Off	O
+His	O
+Package	O
+In	O
+Skin	O
+Tight	O
+Swimming	O
+Trun	O
+
+IMGID:16_05_10_231
+In	O
+a	O
+most	O
+unsuspecting	O
+place	O
+,	O
+two	O
+tulips	O
+were	O
+enjoying	O
+their	O
+own	O
+festival	O
+today	O
+,	O
+welcoming	O
+warmer	O
+weather	O
+.	O
+
+IMGID:O_5068
+Kevin	B-PER
+Durant	I-PER
+is	O
+the	O
+1	O
+st	O
+player	O
+to	O
+score	O
+25	O
++	O
+Pts	O
+in	O
+9	O
+straight	O
+potential	O
+series	O
+-	O
+clinchers	O
+since	O
+MJ	B-PER
+in	O
+1997	O
+-	O
+98	O
+.	O
+
+IMGID:16_05_17_616
+He	O
+didn	O
+'	O
+t	O
+receive	O
+a	O
+single	O
+1	O
+st	O
+place	O
+MVP	O
+vote	O
+,	O
+but	O
+here	O
+are	O
+LeBron	B-PER
+'	O
+s	O
+playoff	O
+numbers	O
+.	O
+Playing	O
+with	O
+a	O
+vengeance	O
+?	O
+#	O
+NBA	B-ORG
+
+IMGID:16_05_01_166
+My	O
+first	O
+SSR	O
+event	O
+,	O
+I	O
+guess	O
+I	O
+really	O
+lucky	O
+#	O
+GranblueFantasy	B-MISC
+
+IMGID:O_1579
+Justin	B-PER
+Bieber	I-PER
+just	O
+won	O
+the	O
+'	O
+Top	O
+Male	O
+Artist	O
+'	O
+award	O
+at	O
+the	O
+#	O
+BBMAs	B-MISC
+!	O
+Congratulations	O
+👏	O
+🎉	O
+
+IMGID:O_276
+When	O
+you	O
+realise	O
+David	B-PER
+Beckham	I-PER
+is	O
+41	O
+now	O
+.	O
+.	O
+and	O
+Diego	B-PER
+Costa	I-PER
+27	O
+.	O
+
+IMGID:O_4202
+Knockout	O
+Cup	O
+:	O
+Round	O
+1	O
+:	O
+1	O
+st	O
+Leg	O
+:	O
+RT	O
+for	O
+Tina	B-PER
+O	I-PER
+'	I-PER
+brien	I-PER
+Like	O
+for	O
+Kelly	B-PER
+Rowland	I-PER
+
+IMGID:O_1146
+Justin	B-PER
+Bieber	I-PER
+lip	O
+syncs	O
+to	O
+Taylor	B-PER
+Swift	I-PER
+'	O
+s	O
+"	O
+Teardrops	B-MISC
+on	I-MISC
+My	I-MISC
+Guitar	I-MISC
+"	O
+
+IMGID:16_05_27_669
+so	O
+so	O
+ready	O
+for	O
+football	O
+season	O
+!	O
+!	O
+
+IMGID:O_2886
+Donald	B-PER
+Trump	I-PER
+exposes	O
+the	O
+GOP	B-ORG
+'	O
+s	O
+dirty	O
+secret	O
+:	O
+They	O
+build	O
+everything	O
+by	O
+.	O
+.	O
+.	O
+
+IMGID:17_06_9777
+#	O
+Radiohead	B-PER
+@	O
+opener_festival	B-MISC
+#	O
+TTMR	O
+good	O
+old	O
+times	O
+are	O
+back	O
+😅	O
+😊	O
+🎸	O
+🎼	O
+🎧	O
+🎹	O
+
+IMGID:17_06_4924
+so	O
+jas	O
+got	O
+me	O
+a	O
+baseball	O
+tee	O
+.	O
+.	O
+.	O
+w	O
+/	O
+her	O
+face	O
+on	O
+it	O
+for	O
+a	O
+grad	O
+gift	O
+😂	O
+
+IMGID:O_3501
+You	O
+know	O
+what	O
+?	O
+Maybe	O
+Donald	B-PER
+trump	I-PER
+could	O
+make	O
+a	O
+great	O
+presi	O
+.	O
+.	O
+.	O
+
+IMGID:O_4107
+Blake	B-PER
+Lively	I-PER
+rollin	O
+into	O
+the	O
+Met	B-MISC
+Ball	I-MISC
+like	O
+a	O
+musical	O
+theatre	O
+major	O
+who	O
+just	O
+found	O
+out	O
+the	O
+spring	O
+mainstage	O
+is	O
+Evita	O
+
+IMGID:O_1592
+Stephen	B-PER
+King	I-PER
+saw	O
+Baby	B-MISC
+Driver	I-MISC
+and	O
+thinks	O
+it	O
+'	O
+s	O
+'	O
+ultimately	O
+cool	O
+'	O
+
+IMGID:16_05_06_597
+The	O
+value	O
+of	O
+assistant	O
+coaches	O
+in	O
+women	O
+'	O
+s	O
+basketball	O
+is	O
+more	O
+important	O
+than	O
+ever	O
+:	O
+
+IMGID:16_05_25_229
+@	O
+CallumSwanny	B-PER
+hummels	B-PER
+the	O
+football	O
+player	O
+looks	O
+like	O
+a	O
+taller	O
+,	O
+german	B-LOC
+version	O
+of	O
+u	O
+😂	O
+😂	O
+
+IMGID:16_05_22_855
+Excited	O
+about	O
+going	O
+to	O
+this	O
+year	O
+'	O
+s	O
+@	O
+hayfestival	B-MISC
+
+IMGID:16_05_24_652
+NBATV	B-ORG
+:	O
+.	O
+Warriors	B-ORG
+coach	O
+Steve	B-PER
+Kerr	I-PER
+takes	O
+the	O
+podium	O
+following	O
+a	O
+Game	O
+4	O
+loss	O
+.	O
+.	O
+.	O
+…	O
+
+IMGID:16_05_02_804
+@	O
+Supaahh_Flor	B-PER
+happy	O
+birthday	O
+Sunflower	O
+!	O
+!	O
+💕	O
+😊	O
+sorry	O
+I	O
+couldn	O
+'	O
+t	O
+bring	O
+you	O
+donuts	O
+this	O
+year	O
+😹	O
+but	O
+ill	O
+make	O
+it	O
+up	O
+to	O
+you	O
+
+IMGID:16_05_12_1212
+We	O
+would	O
+like	O
+to	O
+welcome	O
+@	O
+sid_iv	B-PER
+to	O
+the	O
+Viking	B-ORG
+Football	O
+Family	O
+!	O
+#	O
+RowTheShip	O
+
+IMGID:O_1252
+Rose	B-PER
+Byrne	I-PER
+,	O
+Seth	B-PER
+Rogen	I-PER
+|	O
+Celebrity	O
+Sightings	O
+in	O
+New	B-LOC
+York	I-LOC
+City	I-LOC
+-	O
+May	O
+18,	O
+2016	O
+
+IMGID:17_06_9836
+#	O
+mvbookfestival2017	B-MISC
+How	O
+can	O
+I	O
+enter	O
+my	O
+book	O
+in	O
+your	O
+festival	O
+?	O
+
+IMGID:17_06_14969
+Charlie	B-PER
+is	O
+decidedly	O
+not	O
+excited	O
+about	O
+@	O
+ussoccer_ynt	B-ORG
+at	O
+4	O
+am	O
+.	O
+#	O
+U20WC	O
+
+IMGID:16_05_02_122
+Happy	O
+Senior	O
+Night	O
+to	O
+my	O
+fav	O
+baseball	O
+player	O
+!	O
+⚾	O
+️	O
+
+IMGID:16_05_08_336
+Mandzukic	B-PER
+rejects	O
+Premier	B-ORG
+League	I-ORG
+speculation	O
+
+IMGID:O_3735
+This	O
+shit	O
+only	O
+works	O
+on	O
+Lady	B-PER
+Gaga	I-PER
+can	O
+y	O
+'	O
+all	O
+stop	O
+this	O
+😩	O
+
+IMGID:17_06_10642
+Meet	O
+the	O
+2	O
+officers	O
+who	O
+prevented	O
+a	O
+'	O
+massacre	O
+'	O
+at	O
+GOP	B-ORG
+baseball	O
+practice	O
+
+IMGID:O_5
+1	O
+gang	O
+boss	O
+dead	O
+,	O
+2	O
+agents	O
+shot	O
+,	O
+as	O
+FBI	B-ORG
+busts	O
+Black	B-ORG
+P	I-ORG
+-	I-ORG
+Stone	I-ORG
+Nation	I-ORG
+
+IMGID:O_145
+31	O
+plays	O
+to	O
+celebrate	O
+Chris	B-PER
+Paul	I-PER
+(	O
+@	O
+CP3	O
+)	O
+'	O
+s	O
+31	O
+st	O
+birthday	O
+:	O
+
+IMGID:16_05_27_128
+add	O
+me	O
+on	O
+sc	O
+to	O
+see	O
+my	O
+b	B-PER
+.	I-PER
+a	I-PER
+.	I-PER
+p	I-PER
+concert	O
+last	O
+night	O
+😊	O
+😊	O
+😊	O
+😊	O
+😊	O
+-	O
+marycherryk	O
+
+IMGID:O_244
+Sergio	B-PER
+Ramos	I-PER
+becomes	O
+first	O
+defender	O
+to	O
+score	O
+in	O
+two	O
+Champions	B-MISC
+League	I-MISC
+finals	O
+
+IMGID:O_3221
+aaron	B-PER
+paul	I-PER
+,	O
+dita	B-PER
+von	I-PER
+teese	I-PER
+and	O
+harry	B-PER
+styles	I-PER
+front	O
+row	O
+at	O
+the	O
+burberry	B-ORG
+prorsum	O
+during	O
+london	B-LOC
+fashion	O
+week	O
+,	O
+2012	O
+
+IMGID:O_579
+Download	O
+my	O
+new	O
+book	O
+-	O
+Charlie	B-MISC
+Chaplin	I-MISC
+:	I-MISC
+A	I-MISC
+Silent	I-MISC
+Icon	I-MISC
+Beacon	B-ORG
+Publishing	I-ORG
+,	I-ORG
+Inc	I-ORG
+.	O
+
+IMGID:17_01_17616
+Two	O
+No	O
+.	O
+1	O
+-	O
+ranked	O
+basketball	O
+recruits	O
+playing	O
+in	O
+Kentucky	B-LOC
+this	O
+week	O
+
+IMGID:16_05_15_974
+Had	O
+a	O
+great	O
+time	O
+at	O
+Young	B-PER
+Thug	I-PER
+'	O
+s	O
+concert	O
+tonight	O
+!	O
+He	O
+'	O
+s	O
+an	O
+excellent	O
+performer	O
+,	O
+played	O
+all	O
+of	O
+his	O
+best	O
+songs	O
+!	O
+
+IMGID:O_229
+Alec	B-PER
+Baldwin	I-PER
+will	O
+return	O
+to	O
+"	O
+Saturday	B-MISC
+Night	I-MISC
+Live	I-MISC
+"	O
+as	O
+Donald	B-PER
+Trump	I-PER
+
+IMGID:16_05_14_457
+You	O
+'	O
+ve	O
+still	O
+got	O
+time	O
+to	O
+get	O
+your	O
+lineup	O
+ready	O
+for	O
+this	O
+week	O
+'	O
+s	O
+#	O
+Bundesliga	B-ORG
+soccer	O
+contests	O
+.	O
+
+IMGID:16_05_26_798
+Some	O
+of	O
+the	O
+moments	O
+we	O
+had	O
+with	O
+@	O
+ildivoofficial	B-PER
+at	O
+our	O
+concert	O
+in	O
+Antwerp	B-LOC
+.	O
+More	O
+pictures	O
+:	O
+
+IMGID:O_474
+Can	O
+we	O
+just	O
+take	O
+a	O
+moment	O
+to	O
+appreciate	O
+90	O
+'	O
+s	O
+James	B-PER
+Franco	I-PER
+
+IMGID:16_05_13_128
+We	O
+'	O
+ve	O
+got	O
+all	O
+your	O
+festival	O
+needs	O
+!	O
+#	O
+festivals	O
+#	O
+festivalseason	O
+#	O
+pipes	O
+#	O
+papers	O
+#	O
+pendants	O
+#	O
+accessories	O
+#	O
+vapes	O
+
+IMGID:O_316
+16,000	O
+people	O
+just	O
+watched	O
+me	O
+get	O
+a	O
+live	O
+tattoo	O
+of	O
+Donald	B-PER
+Trump	I-PER
+sucking	O
+a	O
+dick	O
+.	O
+Welcome	O
+to	O
+the	O
+future	O
+.	O
+
+IMGID:16_05_22_529
+Klay	B-PER
+Thompson	I-PER
+looking	O
+like	O
+he	O
+already	O
+planning	O
+what	O
+he	O
+gonna	O
+do	O
+after	O
+they	O
+get	O
+eliminated	O
+.	O
+.	O
+.	O
+#	O
+NBAPlayoffs	O
+
+IMGID:16_05_03_223
+There	O
+are	O
+going	O
+to	O
+be	O
+some	O
+ticked	O
+ppl	O
+.	O
+.	O
+.	O
+.	O
+.	O
+traffic	O
+a	O
+mess	O
+for	O
+the	O
+Beyonce	B-PER
+concert	O
+.	O
+TONS	O
+of	O
+people	O
+are	O
+still	O
+not	O
+in	O
+.	O
+
+IMGID:16_05_27_308
+My	O
+new	O
+crop	O
+of	O
+Sunflower	O
+Sprouts	O
+.	O
+My	O
+office	O
+farm	O
+.	O
+
+IMGID:O_82
+Donald	B-PER
+Trump	I-PER
+backs	O
+out	O
+of	O
+a	O
+debate	O
+with	O
+Bernie	B-PER
+Sanders	I-PER
+:	O
+
+IMGID:O_1392
+Donald	B-PER
+Glover	I-PER
+at	O
+the	O
+Gucci	B-ORG
+Cruise	O
+2018	O
+fashion	O
+show	O
+
+IMGID:O_4126
+Taylor	B-PER
+Swift	I-PER
+tops	O
+Billboard	O
+'	O
+s	O
+top	O
+#	O
+MoneyMakers	O
+list	O
+earning	O
+a	O
+total	O
+of	O
+$	O
+4.1	O
+M	O
+dollars	O
+.	O
+
+IMGID:16_05_17_746
+Thanks	O
+to	O
+Wyoming	O
+@	O
+wyo_football	B-ORG
+for	O
+coming	O
+to	O
+spring	O
+practice	O
+today	O
+to	O
+talk	O
+with	O
+@	O
+CoachPeteOLu	B-PER
+about	O
+#	O
+OluFootball	O
+!	O
+
+IMGID:O_2060
+Republican	B-ORG
+front	O
+-	O
+runner	O
+Donald	B-PER
+Trump	I-PER
+has	O
+won	O
+the	O
+state	O
+of	O
+Indiana	B-LOC
+
+IMGID:16_05_27_128
+add	O
+me	O
+on	O
+sc	O
+to	O
+see	O
+my	O
+b	B-PER
+.	I-PER
+a	I-PER
+.	I-PER
+p	I-PER
+concert	O
+last	O
+night	O
+😊	O
+😊	O
+😊	O
+😊	O
+😊	O
+-	O
+marycherryk	O
+
+IMGID:16_05_05_975
+Colts	B-ORG
+Football	O
+Player	O
+Escorts	O
+High	O
+School	O
+Student	O
+Battling	O
+Lupus	O
+To	O
+Prom	O
+
+IMGID:17_06_15117
+Jim	B-PER
+Tomsula	I-PER
+:	O
+#	O
+JarrydHayne	B-PER
+'	O
+represented	O
+himself	O
+well	O
+'	O
+in	O
+first	O
+NFL	B-ORG
+start	O
+#	O
+JarrydHayne	B-PER
+
+IMGID:O_2619
+What	O
+would	O
+the	O
+Founding	O
+Fathers	O
+think	O
+of	O
+Donald	B-PER
+Trump	I-PER
+?	O
+
+IMGID:O_4718
+Canadian	B-MISC
+Prime	O
+Minister	O
+Justin	B-PER
+Trudeau	I-PER
+Again	O
+Apologizes	O
+for	O
+Elbowing	O
+Incident	O
+-	O
+
+IMGID:16_05_03_865
+At	O
+17,	O
+Christian	B-PER
+Pulisic	I-PER
+does	O
+what	O
+no	O
+one	O
+has	O
+with	O
+U	B-LOC
+.	I-LOC
+S	I-LOC
+.	O
+Soccer	O
+and	O
+in	O
+Bundesliga	B-ORG
+
+IMGID:17_06_1994
+Cap	O
+expert	O
+expects	O
+Derek	B-PER
+Carr	I-PER
+to	O
+become	O
+NFL	B-ORG
+’	O
+s	O
+highest	O
+paid	O
+player	O
+,	O
+Khalil	B-PER
+Mack	I-PER
+highest	O
+…	O
+
+IMGID:16_05_22_87
+Football	O
+is	O
+just	O
+around	O
+the	O
+corner	O
+.	O
+You	O
+can	O
+sign	O
+up	O
+today	O
+online	O
+at	O
+
+IMGID:O_2101
+📸	O
+Bruno	B-PER
+Mars	I-PER
+accepts	O
+the	O
+award	O
+for	O
+Best	O
+Male	O
+R	O
+;	O
+B	O
+/	O
+Pop	O
+Artis	O
+onstage	O
+at	O
+2017	O
+BET	B-MISC
+Awards	I-MISC
+👑	O
+❤	O
+️	O
+️	O
+#	O
+1	O
+
+IMGID:O_340
+Happy	O
+birthday	O
+@	O
+danielhowell	B-PER
+!	O
+Here	O
+is	O
+a	O
+photo	O
+of	O
+you	O
+gracefully	O
+losing	O
+at	O
+Mario	B-MISC
+Kart	I-MISC
+🎈	O
+🎉	O
+
+IMGID:16_05_23_309
+Whether	O
+you	O
+'	O
+re	O
+a	O
+fan	O
+of	O
+him	O
+or	O
+not	O
+,	O
+I	O
+think	O
+this	O
+really	O
+puts	O
+football	O
+into	O
+perspective	O
+.	O
+#	O
+MUFC	B-ORG
+
+IMGID:16_05_04_642
+Firework	O
+Festival	O
+in	O
+Chiang	B-LOC
+Mai	I-LOC
+Thailand	B-LOC
+
+IMGID:O_1999
+Blake	B-PER
+Shelton	I-PER
+sure	O
+is	O
+popular	O
+among	O
+the	O
+spam	O
+email	O
+crowds	O
+
+IMGID:17_06_15329
+What	O
+better	O
+way	O
+to	O
+ring	O
+in	O
+22	O
+than	O
+an	O
+amazing	O
+concert	O
+and	O
+a	O
+new	O
+tattoo	O
+?	O
+
+IMGID:O_2714
+Harry	B-PER
+Styles	I-PER
+wearing	O
+Ashley	B-ORG
+Williams	I-ORG
+'	O
+hand	O
+print	O
+t	O
+-	O
+shirt	O
+at	O
+the	O
+2013	O
+London	B-LOC
+Fashion	O
+Week	O
+
+IMGID:16_05_20_317
+Here	O
+are	O
+the	O
+boys	O
+and	O
+girls	O
+rosters	O
+for	O
+the	O
+inaugural	O
+Native	O
+All	O
+-	O
+State	O
+Basketball	O
+game	O
+in	O
+Oklahoma	B-LOC
+#	O
+NativePreps	O
+
+IMGID:O_2608
+OKC	B-ORG
+evens	O
+the	O
+series	O
+!	O
+Kevin	B-PER
+Durant	I-PER
+'	O
+s	O
+41	O
+points	O
+lead	O
+Thunder	B-ORG
+to	O
+111	O
+-	O
+97	O
+victory	O
+over	O
+Spurs	B-ORG
+in	O
+Game	O
+4	O
+.	O
+
+IMGID:17_01_23706
+When	O
+#	O
+AusOpen2017	B-MISC
+meets	O
+football	O
+planning	O
+.	O
+.	O
+.	O
+#	O
+watchwithLily	O
+#	O
+nflfc	B-ORG
+@	O
+AndiBell7	B-PER
+#	O
+FedererNadal	O
+#	O
+Lily	B-PER
+
+IMGID:17_01_21950
+businessinsider	O
+:	O
+Former	O
+UVA	B-ORG
+basketball	O
+player	O
+had	O
+his	O
+eye	O
+pop	O
+out	O
+during	O
+game	O
+in	O
+New	B-LOC
+Zealand	I-LOC
+…	O
+
+IMGID:O_3997
+Donald	B-PER
+Trump	I-PER
+'	O
+s	O
+Twitter	B-ORG
+tirade	O
+against	O
+Mika	B-PER
+Brzezinski	I-PER
+is	O
+latest	O
+attack	O
+on	O
+press	O
+
+IMGID:O_3714
+Donald	B-PER
+Trump	I-PER
+dismisses	O
+Elizabeth	B-PER
+Warren	I-PER
+'	O
+s	O
+Native	O
+American	B-LOC
+heritage	O
+
+IMGID:16_05_02_955
+Whoops	O
+.	O
+Spurs	B-ORG
+are	O
+the	O
+best	O
+team	O
+I	O
+'	O
+ve	O
+seen	O
+this	O
+year	O
+but	O
+this	O
+is	O
+the	O
+best	O
+thing	O
+that	O
+'	O
+s	O
+happened	O
+to	O
+the	O
+Premier	B-ORG
+League	I-ORG
+
+IMGID:16_05_10_756
+After	O
+attending	O
+the	O
+@	O
+MariahCarey	B-PER
+concert	O
+started	O
+reflecting	O
+on	O
+other	O
+shows	O
+I	O
+'	O
+d	O
+attended	O
+
+IMGID:O_965
+Saw	O
+this	O
+mannequin	O
+in	O
+the	O
+London	B-LOC
+@	O
+Topshop	B-LOC
+.	O
+Jennifer	B-PER
+Lawrence	I-PER
+,	O
+is	O
+that	O
+you	O
+?	O
+!	O
+Should	O
+I	O
+show	O
+her	O
+tmw	O
+?	O
+😂	O
+#	O
+XMenApocalypse	O
+
+IMGID:O_395
+Throwback	O
+to	O
+the	O
+time	O
+Alex	B-PER
+was	O
+part	O
+of	O
+One	B-PER
+Direction	I-PER
+
+IMGID:17_06_12202
+Luke	B-PER
+'	O
+s	O
+first	O
+baseball	O
+game	O
+!	O
+Go	O
+Cubs	B-ORG
+!	O
+#	O
+sbcubs	B-ORG
+
+IMGID:O_4020
+(	O
+PCDD	O
+)	O
+One	B-MISC
+Piece	I-MISC
+Burning	I-MISC
+Blood	I-MISC
+$	O
+16.99	O
+via	O
+Steam	B-ORG
+.	O
+
+IMGID:O_2998
+Donald	B-PER
+Trump	I-PER
+'	O
+s	O
+budget	O
+slashes	O
+government	O
+junk	O
+food	O
+pipeline	O
+to	O
+the	O
+poor	O
+#	O
+news	O
+
+IMGID:17_06_13538
+Membership	O
+card	O
+of	O
+@	O
+SbgFestival	B-MISC
+in	O
+this	O
+year	O
+.	O
+
+IMGID:O_1280
+It	O
+'	O
+s	O
+great	O
+that	O
+Azealia	B-PER
+Banks	I-PER
+got	O
+suspended	O
+but	O
+what	O
+about	O
+Tila	B-PER
+Tequila	I-PER
+,	O
+Piers	B-PER
+Morgan	I-PER
+,	O
+and	O
+Donald	B-PER
+Trump	I-PER
+.	O
+
+IMGID:17_06_3135
+can	O
+tell	O
+summer	O
+is	O
+coming	O
+because	O
+my	O
+hair	O
+keeps	O
+inflating	O
+
+IMGID:O_4202
+Knockout	O
+Cup	O
+:	O
+Round	O
+1	O
+:	O
+1	O
+st	O
+Leg	O
+:	O
+RT	O
+for	O
+Tina	B-PER
+O	I-PER
+'	I-PER
+brien	I-PER
+Like	O
+for	O
+Kelly	B-PER
+Rowland	I-PER
+
+IMGID:16_05_15_746
+My	O
+Future	B-MISC
+Hearts	I-MISC
+Tour	O
+concert	O
+was	O
+one	O
+year	O
+ago	O
+today	O
+.	O
+One	O
+of	O
+the	O
+best	O
+😭	O
+
+IMGID:O_1151
+Russell	B-PER
+Westbrook	I-PER
+watching	O
+Curry	B-PER
+and	O
+Durant	B-PER
+giggling	O
+at	O
+the	O
+PostGame	O
+Ceremonies	O
+like	O
+
+IMGID:16_05_30_556
+Getting	O
+ready	O
+to	O
+walk	O
+in	O
+the	O
+Memorial	B-MISC
+Day	I-MISC
+Parade	O
+with	O
+my	O
+main	O
+guy	O
+James	B-PER
+.	O
+With	O
+@	O
+juliawebber	B-PER
+
+IMGID:17_06_5816
+Insurtech	O
+News	O
+|	O
+Insurtech	O
+50	O
+Influencers	O
+.	O
+Happy	O
+to	O
+be	O
+No	O
+.	O
+6	O
+this	O
+month	O
+
+IMGID:17_06_10719
+Omg	O
+!	O
+2	O
+!	O
+22	O
+!	O
+I	O
+'	O
+m	O
+at	O
+@	O
+sunflowershane	B-PER
+house	O
+!	O
+?	O
+2	O
+!	O
+3	O
+?	O
+3	O
+!	O
+!	O
+2	O
+!	O
+2	O
+!	O
+2	O
+!	O
+3	O
+!	O
+4	O
+!	O
+!	O
+😂	O
+😌	O
+😁	O
+🙌	O
+😞	O
+💖	O
+😌	O
+😭	O
+😤	O
+😎	O
+😌	O
+😤	O
+😎	O
+😁	O
+🤡	O
+😂	O
+😌	O
+
+IMGID:16_05_03_815
+Music	O
+festival	O
+@	O
+clockenflap	B-MISC
+is	O
+moving	O
+to	O
+Hong	B-LOC
+Kong	I-LOC
+side	O
+
+IMGID:O_4770
+If	O
+you	O
+see	O
+Justin	B-PER
+Bieber	I-PER
+in	O
+public	O
+,	O
+please	O
+don	O
+'	O
+t	O
+ask	O
+him	O
+to	O
+take	O
+a	O
+photo	O
+with	O
+you	O
+:	O
+
+IMGID:O_2875
+Petition	O
+to	O
+have	O
+Jessica	B-PER
+Lange	I-PER
+come	O
+back	O
+for	O
+American	B-MISC
+Horror	I-MISC
+Story	I-MISC
+season	O
+6	O
+
+IMGID:16_05_01_498
+#	O
+Sports	O
+Connor	B-PER
+Cook	I-PER
+could	O
+not	O
+satisfy	O
+NFL	B-ORG
+teams	O
+'	O
+questions	O
+about	O
+leadership	O
+
+IMGID:16_05_30_57
+Soccer	O
+central	O
+at	O
+sugar	O
+hollow	O
+park	O
+.	O
+#	O
+#	O
+
+IMGID:17_06_1096
+Had	O
+a	O
+great	O
+time	O
+@	O
+CanalsideBflo	B-LOC
+!	O
+!	O
+Concert	O
+was	O
+amazing	O
+!	O
+
+IMGID:O_2760
+Harry	B-PER
+Styles	I-PER
+'	O
+Sister	O
+Confesses	O
+:	O
+Our	O
+Mom	O
+'	O
+s	O
+Life	O
+Is	O
+.	O
+.	O
+.	O
+
+IMGID:17_06_14237
+The	O
+Medgar	B-PER
+Evers	I-PER
+parade	O
+is	O
+underway	O
+in	O
+the	O
+Georgetown	B-LOC
+community	O
+of	O
+Jackson	B-LOC
+
+IMGID:O_4972
+Real	O
+question	O
+:	O
+I	O
+thought	O
+Trey	B-PER
+Songz	I-PER
+said	O
+he	O
+just	O
+wanted	O
+one	O
+girl	O
+a	O
+second	O
+ago	O
+.	O
+.	O
+.	O
+.	O
+?	O
+#	O
+BetAwards	B-MISC
+
+IMGID:16_05_29_502
+Cristiano	B-PER
+Ronaldo	I-PER
+Had	O
+Vision	O
+of	O
+Scoring	O
+UEFA	B-MISC
+Champions	I-MISC
+League	I-MISC
+Winning	O
+.	O
+.	O
+.	O
+
+IMGID:17_06_13856
+My	O
+home	O
+,	O
+my	O
+land	O
+,	O
+my	O
+team	O
+!	O
+My	O
+REAL	O
+football	O
+family	O
+.	O
+
+IMGID:O_340
+Happy	O
+birthday	O
+@	O
+danielhowell	B-PER
+!	O
+Here	O
+is	O
+a	O
+photo	O
+of	O
+you	O
+gracefully	O
+losing	O
+at	O
+Mario	B-MISC
+Kart	I-MISC
+🎈	O
+🎉	O
+
+IMGID:17_01_23785
+Gold	O
+mine	O
+of	O
+#	O
+Dodgers	B-ORG
+memorabilia	O
+plus	O
+All	O
+Stars	O
+and	O
+Legends	O
+#	O
+MLB	B-ORG
+
+IMGID:O_4763
+Lobby	O
+firm	O
+tied	O
+to	O
+Barney	B-PER
+Frank	I-PER
+and	O
+Nancy	B-PER
+Pelosi	I-PER
+uses	O
+lefty	O
+groups	O
+to	O
+help	O
+hedge	O
+funds	O
+
+IMGID:O_2141
+Exactly	O
+2	O
+years	O
+ago	O
+#	O
+MUFC	B-ORG
+legend	O
+Ryan	B-PER
+Giggs	I-PER
+made	O
+his	O
+final	O
+ever	O
+appearance	O
+for	O
+the	O
+club	O
+as	O
+player	O
+manager	O
+.	O
+
+IMGID:16_05_16_287
+#	O
+NBA	B-ORG
+Enhanced	O
+:	O
+OKC	B-ORG
+Thunder	I-ORG
+to	O
+win	O
+is	O
+NOW	O
+10	O
+/	O
+3	O
+.	O
+
+IMGID:O_4521
+David	B-PER
+Cameron	I-PER
+unveils	O
+his	O
+most	O
+convincing	O
+argument	O
+yet	O
+to	O
+stay	O
+in	O
+the	O
+EU	B-LOC
+.	O
+.	O
+.	O
+
+IMGID:16_05_14_1061
+And	O
+I	O
+love	O
+this	O
+!	O
+!	O
+Our	O
+suite	O
+was	O
+bumpin	O
+'	O
+in	O
+game	O
+7	O
+!	O
+!	O
+@	O
+StLouisBlues	B-ORG
+#	O
+NHL17Tarasenko	O
+
+IMGID:17_06_13095
+Premier	B-ORG
+League	I-ORG
+clubs	O
+target	O
+Norwich	B-ORG
+winger	O
+Jacob	B-PER
+Murphy	I-PER
+
+IMGID:O_3764
+I	O
+showed	O
+my	O
+grandma	O
+Harry	B-PER
+Styles	I-PER
+new	O
+hair	O
+and	O
+she	O
+said	O
+"	O
+oh	O
+well	O
+that	O
+looks	O
+good	O
+.	O
+"	O
+Got	O
+that	O
+right	O
+grams	O
+
+IMGID:17_06_364
+Montreal	B-LOC
+festival	O
+float	O
+causes	O
+race	O
+row	O
+
+IMGID:16_05_09_716
+Penguins	B-ORG
+sticking	O
+with	O
+rookie	O
+Murray	B-PER
+in	O
+Game	O
+6	O
+vs	O
+.	O
+Capitals	B-ORG
+#	O
+nhl	B-ORG
+
+IMGID:O_2662
+Claire	B-PER
+Danes	I-PER
+illuminating	O
+ballgown	O
+by	O
+Zac	B-PER
+Posen	I-PER
+is	O
+just	O
+magical	O
+.	O
+.	O
+.	O
+🙌	O
+🏻	O
+✨	O
+
+IMGID:16_05_07_197
+Best	O
+Bday	O
+ever	O
+!	O
+Beach	O
+in	O
+the	O
+AM	O
+,	O
+opening	O
+for	O
+#	O
+colliebuddz	O
+at	O
+a	O
+reggae	O
+festival	O
+in	O
+the	O
+PM	O
+t	O
+…	O
+
+IMGID:17_06_15602
+VIDEO	O
+:	O
+LeBron	B-PER
+James	I-PER
+dunks	O
+all	O
+over	O
+JaVale	B-PER
+McGee	I-PER
+#	O
+NBAFinals	O
+
+IMGID:O_1890
+Kevin	B-PER
+Smith	I-PER
+:	O
+#	O
+TheFlash	O
+’	O
+s	O
+man	O
+in	O
+the	O
+iron	O
+mask	O
+reveal	O
+will	O
+‘	O
+make	O
+you	O
+cry	O
+’	O
+@	O
+CW_TheFlash	O
+
+IMGID:16_05_22_607
+Yesterday	O
+I	O
+was	O
+at	O
+my	O
+first	O
+choir	O
+concert	O
+now	O
+16	O
+concerts	O
+later	O
+I	O
+'	O
+m	O
+done	O
+💙	O
+💛	O
+🎓	O
+🎶	O
+
+IMGID:17_06_11572
+Moscow	B-LOC
+festival	O
+reflects	O
+hope	O
+for	O
+Turkey	B-LOC
+’	O
+s	O
+tourism	O
+sector	O
+
+IMGID:16_05_14_689
+Aishwarya	B-PER
+Rai	I-PER
+Bachchan	I-PER
+is	O
+Rocking	O
+the	O
+Cannes	B-MISC
+Film	I-MISC
+Festival	I-MISC
+.	O
+.	O
+.	O
+
+IMGID:16_05_09_815
+@	O
+girlsjpg	O
+this	O
+is	O
+him	O
+at	O
+the	O
+same	O
+concert	O
+but	O
+from	O
+the	O
+front	O
+
+IMGID:17_06_5383
+From	O
+Pride	O
+Parade	O
+in	O
+Paris	B-LOC
+,	O
+2015	O
+.	O
+#	O
+dogsofpride	O
+
+IMGID:16_05_31_1048
+Predicting	O
+Every	O
+NFL	B-ORG
+Team	O
+'	O
+s	O
+Most	O
+Heated	O
+Camp	O
+Battle	O
+.	O
+.	O
+.	O
+
+IMGID:17_06_8616
+So	O
+who	O
+'	O
+s	O
+the	O
+best	O
+South	B-LOC
+American	I-LOC
+Player	O
+in	O
+the	O
+#	O
+PremierLeague	B-ORG
+?	O
+🤔	O
+⚽	O
+️	O
+
+IMGID:17_06_12882
+Kylian	B-PER
+Mbappe	I-PER
+plays	O
+football	O
+with	O
+kids	O
+at	O
+charity	O
+event	O
+:	O
+Kylian	B-PER
+Mbappe	I-PER
+may	O
+be	O
+the	O
+mo	O
+.	O
+.	O
+
+IMGID:O_4733
+What	O
+Is	O
+Kim	B-PER
+Kardashian	I-PER
+Doing	O
+In	O
+A	O
+Jane	B-PER
+Austen	I-PER
+Novel	O
+…	O
+:	O
+
+IMGID:O_2168
+Lady	B-PER
+Gaga	I-PER
+at	O
+the	O
+#	O
+Indy500	B-MISC
+today	O
+YAAAS	O
+MAMA	O
+you	O
+look	O
+so	O
+good	O
+!	O
+🙌	O
+🏼	O
+
+IMGID:17_06_15502
+LeBron	B-PER
+almost	O
+has	O
+a	O
+triple	O
+double	O
+and	O
+it	O
+'	O
+s	O
+almost	O
+halftime	O
+#	O
+NBAFinals	O
+
+IMGID:O_4777
+Live	O
+at	O
+#	O
+ALAAC17	O
+for	O
+the	O
+launch	O
+of	O
+@	O
+bookclubcentral	O
+with	O
+the	O
+one	O
+and	O
+only	O
+Sarah	B-PER
+Jessica	I-PER
+Parker	I-PER
+!	O
+
+IMGID:17_06_3351
+Proud	O
+to	O
+hand	O
+out	O
+the	O
+#	O
+ParisAirForum	B-MISC
+innovation	O
+award	O
+to	O
+@	O
+skylightsaero	B-ORG
+for	O
+their	O
+inflight	O
+#	O
+VR	O
+solution	O
+👏	O
+🏻	O
+
+IMGID:16_05_09_841
+The	O
+baseball	O
+team	O
+wraps	O
+up	O
+its	O
+season	O
+short	O
+of	O
+the	O
+Red	B-ORG
+Rolfe	I-ORG
+Division	I-ORG
+title	O
+
+IMGID:O_404
+Happy	O
+30	O
+th	O
+birthday	O
+,	O
+Robert	B-PER
+Pattinson	I-PER
+!	O
+See	O
+the	O
+Twilight	B-PER
+star	O
+'	O
+s	O
+transformation	O
+:	O
+
+IMGID:16_05_14_1173
+@	O
+johnbartlettNY	B-PER
+Hi	O
+John	O
+!	O
+The	B-ORG
+New	I-ORG
+Vegan	I-ORG
+Times	I-ORG
+Magazine	I-ORG
+is	O
+proud	O
+to	O
+connect	O
+with	O
+you	O
+!	O
+We	O
+are	O
+here	O
+to	O
+serve	O
+!	O
+
+IMGID:16_05_02_176
+Enjoy	O
+performances	O
+you	O
+won	O
+'	O
+t	O
+forget	O
+tonight	O
+at	O
+8	O
+PM	O
+#	O
+XilinLanternFestival	B-MISC
+
+IMGID:16_05_01_557
+T	O
+-	O
+minus	O
+40	O
+min	O
+!	O
+Visit	O
+with	O
+artist	O
+from	O
+around	O
+the	O
+world	O
+on	O
+our	O
+last	O
+day	O
+.	O
+#	O
+HouArtFest	B-MISC
+#	O
+bayoucityartfestival	O
+
+IMGID:16_05_13_834
+A	O
+5	O
+-	O
+day	O
+festival	O
+pass	O
++	O
+lodging	O
+.	O
+To	O
+enter	O
+,	O
+comment	O
+below	O
+and	O
+tag	O
+2	O
+friends	O
+.	O
+If	O
+chosen	O
+,	O
+all	O
+3	O
+of	O
+you	O
+will	O
+get	O
+to	O
+go	O
+!	O
+
+IMGID:O_2857
+RT	O
+if	O
+you	O
+think	O
+this	O
+mozzarella	O
+stick	O
+would	O
+be	O
+a	O
+better	O
+president	O
+than	O
+Donald	B-PER
+Trump	I-PER
+.	O
+
+IMGID:16_05_22_710
+Great	O
+concert	O
+at	O
+TABI	B-LOC
+right	O
+now	O
+.	O
+Our	O
+own	O
+Kippah	B-PER
+Groovin	I-PER
+in	O
+concert	O
+
+IMGID:16_05_27_267
+Brooklyn	B-MISC
+Film	I-MISC
+Festival	I-MISC
+Returns	O
+With	O
+100	O
+-	O
+Plus	O
+Screenings	O
+in	O
+.	O
+.	O
+.	O
+
+IMGID:17_06_15741
+Look	O
+what	O
+arrived	O
+today	O
+!	O
+Get	O
+a	O
+sneak	O
+peek	O
+at	O
+#	O
+highschoolmusical	O
+at	O
+the	O
+Summer	O
+Concert	O
+tomorrow	O
+!	O
+@	O
+stpaulsdundee	B-ORG
+
+IMGID:O_4262
+Me	O
+when	O
+I	O
+found	O
+out	O
+Joe	B-PER
+Biden	I-PER
+decided	O
+to	O
+become	O
+a	O
+lifeguard	O
+
+IMGID:16_05_17_852
+Barcelona	B-ORG
+Crowned	O
+2016	O
+La	B-ORG
+Liga	I-ORG
+Champions	O
+,	O
+Suarez	B-PER
+Sink	O
+.	O
+.	O
+.	O
+
+IMGID:O_3666
+Kim	B-PER
+Kardashian	I-PER
+Is	O
+Over	O
+The	O
+Beauty	O
+Trend	O
+She	O
+Helped	O
+Popularize	O
+
+IMGID:16_05_28_951
+Zak	B-PER
+got	O
+decked	O
+in	O
+the	O
+face	O
+with	O
+a	O
+baseball	O
+10	O
+minutes	O
+after	O
+this	O
+
+IMGID:O_4166
+Kelly	B-PER
+Rowland	I-PER
+arriving	O
+to	O
+the	O
+#	O
+FormationWorldTour	O
+yesterday	O
+in	O
+L	B-LOC
+.	I-LOC
+A	I-LOC
+.	O
+
+IMGID:17_06_4251
+#	O
+Cavs	B-ORG
+Game	O
+5	O
+Watch	O
+Party	O
+with	O
+Grandma	O
+!	O
+❤	O
+️	O
+🏀	O
+#	O
+defendtheland	O
+#	O
+nbafinals	O
+@	O
+TweetQTV	O
+
+IMGID:O_887
+Lil	B-PER
+Wayne	I-PER
+'	O
+s	O
+"	O
+Dedication	B-MISC
+6	I-MISC
+"	O
+is	O
+on	O
+the	O
+way	O
+👀	O
+
+IMGID:16_05_30_572
+#	O
+festival	O
+season	O
+is	O
+now	O
+here	O
+have	O
+you	O
+tried	O
+Coachstar	O
+for	O
+an	O
+unbeatable	O
+deal	O
+on	O
+#	O
+winnebagohire	O
+
+IMGID:O_80
+Tom	B-PER
+Cruise	I-PER
+Sells	O
+Beverly	B-LOC
+Hills	I-LOC
+Estate	O
+to	O
+Billionaire	O
+Financier	O
+Leon	B-PER
+Black	I-PER
+
+IMGID:17_06_10659
+#	O
+USAToday	B-ORG
+Toaster	O
+owner	O
+says	O
+Klay	B-PER
+invited	O
+him	O
+to	O
+GSW	B-ORG
+parade	O
+
+IMGID:16_05_25_153
+Lee	O
+out	O
+of	O
+the	O
+NBA	B-ORG
+,	O
+moves	O
+to	O
+Kentucky	B-LOC
+
+IMGID:16_05_03_1044
+#	O
+football	O
+:	O
+Kane	B-PER
+:	O
+It	O
+'	O
+s	O
+"	O
+exciting	O
+times	O
+"	O
+at	O
+Spurs	B-ORG
+,	O
+I	O
+want	O
+to	O
+emulate	O
+these	O
+"	O
+special	O
+"	O
+nights	O
+
+IMGID:16_05_05_255
+Spring	O
+band	O
+concert	O
+in	O
+session	O
+.	O
+Great	O
+crowd	O
+.	O
+Great	O
+job	O
+Mrs	O
+.	O
+Asquith	B-PER
+.	O
+
+IMGID:16_05_15_670
+@	O
+DjJimmyChunga	B-PER
+having	O
+fun	O
+at	O
+The	B-PER
+Cure	I-PER
+concert	O
+tonight	O
+in	O
+DFW	B-LOC
+.	O
+Thinking	O
+of	O
+Radio	O
+Ronan	O
+#	O
+podbash	O
+
+IMGID:O_279
+My	O
+mate	O
+was	O
+on	O
+a	O
+flight	O
+with	O
+Harry	B-PER
+Redknapp	I-PER
+last	O
+night	O
+
+IMGID:16_05_19_178
+So	O
+grateful	O
+that	O
+I	O
+just	O
+received	O
+my	O
+first	O
+offer	O
+and	O
+opportunity	O
+to	O
+play	O
+D1	O
+football	O
+at	O
+Morehead	B-ORG
+State	I-ORG
+University	I-ORG
+!	O
+🙏	O
+🏾	O
+
+IMGID:17_06_4853
+Bryce	B-PER
+Harper	I-PER
+joining	O
+in	O
+on	O
+the	O
+HR	O
+parade	O
+.	O
+
+IMGID:17_06_7007
+Penn	B-ORG
+State	I-ORG
+men	O
+'	O
+s	O
+#	O
+basketball	O
+announces	O
+decision	O
+to	O
+not	O
+pursue	O
+postseason	O
+play	O
+#	O
+basketball	O
+
+IMGID:16_05_17_1078
+Being	O
+the	O
+doughy	O
+white	O
+guy	O
+on	O
+a	O
+professional	O
+baseball	O
+team	O
+#	O
+ObsoleteJobSkills	O
+
+IMGID:O_2701
+retweet	O
+if	O
+harry	O
+styles	O
+has	O
+ever	O
+made	O
+you	O
+smile	O
+
+IMGID:17_06_14475
+German	B-LOC
+youth	O
+football	O
+team	O
+rallies	O
+behind	O
+'	O
+star	O
+players	O
+'	O
+facing	O
+deportation	O
+
+IMGID:16_05_26_424
+so	O
+you	O
+wanna	O
+hear	O
+about	O
+vogue	B-ORG
+.	O
+.	O
+.	O
+.	O
+.	O
+.	O
+#	O
+VogueFestival	B-MISC
+:	O
+
+IMGID:17_01_351
+Are	O
+you	O
+ready	O
+for	O
+some	O
+football	O
+?	O
+@	O
+MLS	B-ORG
+and	O
+@	O
+advocare	B-ORG
+sports	O
+nutrition	O
+partner	O
+!	O
+My	O
+team	O
+@	O
+MNUFC	B-ORG
+#	O
+LoonArmy	O
+#	O
+soccer	O
+
+IMGID:O_5037
+Love	O
+Cards	O
+Against	O
+Humanity	O
+and	O
+hating	O
+on	O
+Donald	B-PER
+Trump	I-PER
+?	O
+Have	O
+we	O
+got	O
+the	O
+game	O
+for	O
+you	O
+:	O
+
+IMGID:16_05_26_679
+#	O
+NBA	B-ORG
+#	O
+Nutrition	O
+Why	O
+It	O
+’	O
+s	O
+Good	O
+to	O
+Get	O
+Weight	O
+Loss	O
+Help	O
+
+IMGID:O_288
+Exclusive	O
+—	O
+Donald	B-PER
+Trump	I-PER
+:	O
+‘	O
+Clinton	B-MISC
+Cash	I-MISC
+’	O
+Proves	O
+Hillary	B-PER
+Is	O
+‘	O
+Crooked	O
+As	O
+Hell	O
+’	O
+-	O
+Breitbart	B-ORG
+
+IMGID:O_3026
+President	O
+Donald	B-PER
+Trump	I-PER
+'	O
+s	O
+White	B-ORG
+House	I-ORG
+declines	O
+to	O
+recognize	O
+LGBT	B-ORG
+Pride	O
+Month	O
+
+IMGID:O_2112
+.	O
+@	O
+jk_rowling	B-PER
+slams	O
+a	O
+new	O
+"	O
+Harry	B-MISC
+Potter	I-MISC
+"	O
+fan	O
+theory	O
+about	O
+Dumbledore	B-PER
+
+IMGID:O_2573
+Thunder	O
+Road	O
+:	O
+How	O
+long	O
+before	O
+Kevin	B-PER
+Durant	I-PER
+and	O
+Oklahoma	B-LOC
+City	I-LOC
+reign	O
+?	O
+
+IMGID:O_287
+#	O
+retropic	O
+#	O
+Emma	B-PER
+Goldman	I-PER
+,	O
+anarchist	O
+,	O
+activist	O
+,	O
+feminist	O
+,	O
+"	O
+Most	O
+dangerous	O
+woman	O
+in	O
+America	B-LOC
+"	O
+,	O
+…	O
+
+IMGID:16_05_18_135
+My	O
+first	O
+Jays	B-ORG
+game	O
+!	O
+Thanks	O
+#	O
+teamclio	O
+TO	O
+!	O
+On	O
+a	O
+side	O
+note	O
+,	O
+baseball	O
+'	O
+s	O
+WAY	O
+slower	O
+than	O
+hockey	O
+.	O
+
+IMGID:16_05_25_153
+Lee	O
+out	O
+of	O
+the	O
+NBA	B-ORG
+,	O
+moves	O
+to	O
+Kentucky	B-LOC
+
+IMGID:O_1930
+I	O
+'	O
+d	O
+like	O
+to	O
+Congratulation	O
+our	O
+new	O
+President	O
+,	O
+Donald	B-PER
+Trump	I-PER
+and	O
+Vice	O
+President	O
+Macaulay	B-PER
+Culkin	I-PER
+
+IMGID:16_05_28_253
+#	O
+NHLPlayoffs	O
+People	O
+are	O
+wondering	O
+—	O
+do	O
+the	O
+Florida	B-ORG
+#	I-ORG
+Panthers	I-ORG
+know	O
+what	O
+they	O
+’	O
+re	O
+.	O
+.	O
+.	O
+
+IMGID:16_05_27_352
+Jennie	B-PER
+Finch	I-PER
+will	O
+become	O
+the	O
+first	O
+woman	O
+to	O
+manage	O
+a	O
+men	O
+'	O
+s	O
+pro	O
+baseball	O
+team	O
+
+IMGID:O_216
+Lebron	B-PER
+traded	O
+you	O
+for	O
+kevin	B-PER
+love	O
+.	O
+What	O
+are	O
+your	O
+current	O
+thoughts	O
+on	O
+that	O
+move	O
+
+IMGID:O_3482
+May	O
+8,	O
+1945	O
+.	O
+Two	O
+million	O
+people	O
+gathered	O
+in	O
+Times	B-LOC
+Square	I-LOC
+to	O
+celebrate	O
+VE	B-MISC
+Day	I-MISC
+.	O
+
+IMGID:O_2821
+My	O
+#	O
+TeenChoice	O
+nominee	O
+for	O
+#	O
+SocialMediaQueen	O
+is	O
+Ashley	B-PER
+Tisdale	I-PER
+(	O
+@	O
+ashleytisdale	B-PER
+)	O
+
+IMGID:O_183
+National	O
+poll	O
+shows	O
+Donald	B-PER
+Trump	I-PER
+and	O
+Hillary	B-PER
+Clinton	I-PER
+are	O
+statistically	O
+tied	O
+
+IMGID:O_2941
+Sean	B-PER
+Hannity	I-PER
+Invites	O
+Kim	B-PER
+Dotcom	I-PER
+to	O
+Host	O
+His	O
+Radio	O
+Show	O
+
+IMGID:17_06_8244
+Lions	B-ORG
+:	O
+OT	O
+Taylor	B-PER
+Decker	I-PER
+(	O
+torn	O
+labrum	O
+)	O
+will	O
+miss	O
+4	O
+to	O
+6	O
+months	O
+-	O
+NFL	B-ORG
+Network	I-ORG
+(	O
+ESPN	B-ORG
+)	O
+
+IMGID:16_05_01_149
+I	O
+cannot	O
+wait	O
+to	O
+meet	O
+and	O
+see	O
+my	O
+FAVOURITE	O
+band	O
+this	O
+month	O
+dreams	O
+really	O
+do	O
+come	O
+true	O
+😭	O
+😍	O
+💜	O
+💞	O
+#	O
+PIGSCANFLY	O
+@	O
+Busted	B-PER
+🐷	O
+🚀	O
+🌠	O
+
+IMGID:16_05_01_189
+Absolutely	O
+mad	O
+that	O
+I	O
+'	O
+m	O
+best	O
+mates	O
+with	O
+a	O
+premier	B-ORG
+league	I-ORG
+legend	O
+
+IMGID:17_06_2634
+3	O
+CNN	B-ORG
+Journalists	O
+Resign	O
+After	O
+Retracted	O
+Story	O
+on	O
+Trump	B-PER
+Ally	O
+by	O
+MICHAEL	B-PER
+M	I-PER
+.	I-PER
+GRYNBAUM	I-PER
+via	O
+
+IMGID:16_05_18_203
+i	O
+honestly	O
+miss	O
+harry	O
+spitting	O
+water	O
+during	O
+concerts	O
+
+IMGID:17_06_3275
+The	B-PER
+Crane	I-PER
+Wives	I-PER
+gets	O
+Kentwood	B-LOC
+’	O
+s	O
+Summer	O
+Concert	O
+Series	O
+off	O
+to	O
+a	O
+rockin	O
+’	O
+start	O
+
+IMGID:O_1543
+Chris	B-PER
+Bosh	I-PER
+’	O
+s	O
+Situation	O
+–	O
+Why	O
+It	O
+is	O
+Complicated	O
+and	O
+How	O
+it	O
+Applies	O
+to	O
+You	O
+
+IMGID:O_2323
+Puma	B-ORG
+and	O
+BAPE	B-ORG
+tap	O
+Mario	B-PER
+Balotelli	I-PER
+to	O
+model	O
+upcoming	O
+collaboration	O
+:	O
+
+IMGID:16_05_22_684
+Missed	O
+@	O
+CeeLoGreen	B-PER
+'	O
+s	O
+live	O
+performance	O
+?	O
+Watch	O
+whole	O
+concert	O
+here	O
+.	O
+Now	O
+!	O
+
+IMGID:O_2820
+Who	O
+is	O
+the	O
+better	O
+player	O
+?	O
+#	O
+Retweet	O
+for	O
+LeBron	B-PER
+James	I-PER
+#	O
+Favorite	O
+for	O
+Kevin	B-PER
+Durant	I-PER
+
+IMGID:O_320
+Donald	B-PER
+Trump	I-PER
+is	O
+eating	O
+a	O
+taco	O
+salad	O
+on	O
+top	O
+of	O
+a	O
+bikini	O
+-	O
+clad	O
+photo	O
+of	O
+his	O
+ex	O
+-	O
+wife	O
+,	O
+Marla	B-PER
+Maples	I-PER
+.	O
+
+IMGID:16_05_02_973
+and	O
+they	O
+say	O
+girls	O
+with	O
+ears	O
+can	O
+'	O
+t	O
+play	O
+basketball	O
+😴	O
+😤	O
+
+IMGID:16_05_01_391
+Happy	O
+birthday	O
+@	O
+dachejones	B-PER
+.	O
+Best	O
+fantasy	O
+football	O
+GM	O
+I	O
+know	O
+.	O
+Can	O
+'	O
+t	O
+wait	O
+to	O
+be	O
+back	O
+home	O
+with	O
+you	O
+and	O
+the	O
+guys	O
+
+IMGID:O_2444
+Can	O
+someone	O
+ask	O
+Victoria	B-PER
+Beckham	I-PER
+why	O
+this	O
+is	O
+her	O
+go	O
+-	O
+to	O
+pose	O
+?	O
+
+IMGID:O_3480
+.	O
+@	O
+VP	O
+Joe	B-PER
+Biden	I-PER
+tells	O
+@	O
+GMA	B-MISC
+he	O
+'	O
+s	O
+"	O
+confident	O
+"	O
+Hillary	B-PER
+Clinton	I-PER
+will	O
+be	O
+the	O
+Democratic	B-ORG
+nominee	O
+
+IMGID:17_06_15536
+Ernesto	B-PER
+Valverde	I-PER
+reveals	O
+pattern	O
+of	O
+football	O
+he	O
+wants	O
+in	O
+Barcelona	B-ORG
+
+IMGID:O_1698
+NEIGHBORS	B-MISC
+2	I-MISC
+is	O
+one	O
+of	O
+the	O
+best	O
+comedy	O
+sequels	O
+ever	O
+;	O
+Seth	B-PER
+Rogen	I-PER
+is	O
+America	B-LOC
+'	O
+s	O
+new	O
+movie	O
+dad	O
+.	O
+
+IMGID:O_1231
+It	O
+’	O
+s	O
+always	O
+wrong	O
+to	O
+hate	O
+,	O
+but	O
+it	O
+’	O
+s	O
+never	O
+wrong	O
+to	O
+love	O
+-	O
+Lady	B-PER
+Gaga	I-PER
+.	O
+#	O
+LoveIsLove	O
+#	O
+Pride2017	O
+
+IMGID:16_05_14_571
+Ahhh	O
+I	O
+see	O
+.	O
+Callahan	B-PER
+was	O
+just	O
+trying	O
+to	O
+get	O
+a	O
+piggy	O
+back	O
+ride	O
+.	O
+Now	O
+I	O
+understand	O
+why	O
+he	O
+didn	O
+'	O
+t	O
+get	O
+suspended	O
+#	O
+NHLDoPS	O
+
+IMGID:O_2319
+Kelly	B-PER
+Rowland	I-PER
+has	O
+HAD	O
+IT	O
+with	O
+Tina	B-PER
+Knowles	I-PER
+Instashenanigans	O
+
+IMGID:16_05_24_201
+Two	O
+base	O
+hits	O
+,	O
+two	O
+RBIs	O
+,	O
+one	O
+walk	O
+,	O
+one	O
+run	O
+tonight	O
+.	O
+This	O
+dude	O
+makes	O
+me	O
+so	O
+proud	O
+.	O
+#	O
+baseball	O
+…	O
+
+IMGID:O_2556
+United	O
+have	O
+removed	O
+Wayne	B-PER
+Rooney	I-PER
+from	O
+their	O
+Facebook	B-ORG
+cover	O
+photo	O
+.	O
+
+IMGID:O_1192
+Harry	B-PER
+con	O
+James	B-PER
+,	O
+David	B-PER
+Beckham	I-PER
+y	O
+Emily	B-PER
+Blunt	I-PER
+hoy	O
+en	O
+Late	B-MISC
+Late	I-MISC
+Show	I-MISC
+!	O
+😍	O
+
+IMGID:17_06_14708
+Rihanna	B-PER
+steals	O
+the	O
+spotlight	O
+from	O
+Cavs	B-ORG
+,	O
+Warriors	B-ORG
+during	O
+NBA	B-ORG
+Finals	O
+
+IMGID:O_1421
+Imagine	O
+the	O
+next	O
+One	B-PER
+Direction	I-PER
+Tour	O
+starts	O
+with	O
+Niall	B-PER
+and	O
+Harry	B-PER
+playing	O
+guitar	O
+together	O
+✨	O
+
+IMGID:O_965
+Saw	O
+this	O
+mannequin	O
+in	O
+the	O
+London	B-LOC
+@	O
+Topshop	B-LOC
+.	O
+Jennifer	B-PER
+Lawrence	I-PER
+,	O
+is	O
+that	O
+you	O
+?	O
+!	O
+Should	O
+I	O
+show	O
+her	O
+tmw	O
+?	O
+😂	O
+#	O
+XMenApocalypse	O
+
+IMGID:17_01_5343
+DJ	B-PER
+KAYWISE	I-PER
+PRESENT	O
+:	O
+JOOR	B-MISC
+CONCERT	I-MISC
+2017	O
+
+IMGID:O_92
+Sergio	B-PER
+Ramos	I-PER
+has	O
+scored	O
+in	O
+more	O
+Champions	B-MISC
+League	I-MISC
+finals	O
+than	O
+Arsenal	B-ORG
+.	O
+
+IMGID:O_3795
+Roger	B-PER
+Goodell	I-PER
+says	O
+the	O
+NFL	B-ORG
+will	O
+return	O
+$	O
+723	O
+K	O
+from	O
+paid	O
+military	O
+tributes	O
+to	O
+the	O
+government	O
+:	O
+
+IMGID:O_1002
+Knockout	O
+Cup	O
+:	O
+Round	O
+1	O
+:	O
+1	O
+st	O
+Leg	O
+:	O
+RT	O
+for	O
+Helen	B-PER
+Wood	I-PER
+Like	O
+for	O
+Victoria	B-PER
+Beckham	I-PER
+
+IMGID:O_1064
+Wishing	O
+a	O
+very	O
+happy	O
+birthday	O
+to	O
+Adam	B-PER
+Smith	I-PER
+,	O
+born	O
+on	O
+this	O
+day	O
+in	O
+1723	O
+!	O
+
+IMGID:O_3793
+Harry	B-MISC
+Potter	I-MISC
+and	I-MISC
+the	I-MISC
+Sorcerer	I-MISC
+'	I-MISC
+s	I-MISC
+Stone	I-MISC
+(	O
+Book	O
+1	O
+)	O
+by	O
+J	B-PER
+.	I-PER
+K	I-PER
+.	I-PER
+Rowling	I-PER
+
+IMGID:16_05_03_988
+NME	O
+:	O
+Super	B-PER
+Furry	I-PER
+Animals	I-PER
+to	O
+return	O
+with	O
+a	O
+new	O
+song	O
+to	O
+unite	O
+Wales	B-LOC
+and	O
+their	O
+football	O
+team	O
+…	O
+
+IMGID:16_05_04_249
+im	O
+wearing	O
+this	O
+dress	O
+2	O
+my	O
+schools	O
+spring	O
+concert	O
+its	O
+so	O
+pretty	O
+and	O
+i	O
+love	O
+it	O
+so	O
+much	O
+
+IMGID:16_05_10_969
+I	O
+have	O
+a	O
+number	O
+of	O
+events	O
+planed	O
+,	O
+charity	O
+football	O
+,	O
+20	O
+/	O
+20	O
+cricket	O
+,	O
+golf	O
+day	O
+,	O
+number	O
+charity	O
+evenings	O
+can	O
+you	O
+help	O
+
+IMGID:16_05_02_696
+Harlem	B-LOC
+’	O
+s	O
+Alicia	B-PER
+Keys	I-PER
+To	O
+Debut	O
+New	O
+Music	O
+At	O
+UEFA	B-MISC
+Final	O
+
+IMGID:16_05_02_41
+Spurs	B-ORG
+fans	O
+,	O
+inbounder	O
+needs	O
+to	O
+have	O
+3	O
+ft	O
+of	O
+space	O
+to	O
+inbound	O
+.	O
+🤔	O
+😂	O
+😭	O
+#	O
+NBA	B-ORG
+
+IMGID:17_06_15568
+#	O
+ConflictsofInterest	O
+is	O
+out	O
+today	O
+.	O
+Get	O
+it	O
+while	O
+it	O
+'	O
+s	O
+hot	O
+!	O
+
+IMGID:16_05_23_379
+Ten	O
+things	O
+we	O
+learned	O
+from	O
+the	O
+Cannes	B-MISC
+Film	I-MISC
+Festival	I-MISC
+:	O
+
+IMGID:16_05_06_760
+Where	O
+will	O
+we	O
+meet	O
+this	O
+weekend	O
+?	O
+#	O
+party	O
+#	O
+weekend	O
+#	O
+Theracords	O
+#	O
+festival	O
+
+IMGID:16_05_13_371
+Young	O
+Ghanaian	B-LOC
+footballers	O
+aged	O
+16	O
+-	O
+22	O
+to	O
+go	O
+international	O
+
+IMGID:16_05_27_128
+add	O
+me	O
+on	O
+sc	O
+to	O
+see	O
+my	O
+b	B-PER
+.	I-PER
+a	I-PER
+.	I-PER
+p	I-PER
+concert	O
+last	O
+night	O
+😊	O
+😊	O
+😊	O
+😊	O
+😊	O
+-	O
+marycherryk	O
+
+IMGID:O_346
+Congratulations	O
+@	O
+taylorswift13	B-PER
+on	O
+the	O
+BMI	B-ORG
+Taylor	B-MISC
+Swift	I-MISC
+Award	I-MISC
+.	O
+Here	O
+'	O
+s	O
+to	O
+two	O
+things	O
+that	O
+never	O
+go	O
+out	O
+of	O
+style	O
+.	O
+
+IMGID:16_05_05_269
+Me	O
+after	O
+the	O
+Jason	B-PER
+Aldean	I-PER
+concert	O
+this	O
+Saturday	O
+
+IMGID:16_05_09_1145
+She	O
+’	O
+s	O
+wearing	O
+basketball	O
+shorts	O
+as	O
+a	O
+dress	O
+I	O
+’	O
+m	O
+dying	O
+😭	O
+😂	O
+😩	O
+
+IMGID:O_3462
+You	O
+can	O
+now	O
+order	O
+Tom	B-PER
+Brady	I-PER
+'	O
+s	O
+nutritional	O
+manual	O
+on	O
+@	O
+TB12Sports	B-ORG
+:	O
+
+IMGID:O_2960
+who	O
+will	O
+be	O
+the	O
+ultimate	O
+mario	B-MISC
+kart	I-MISC
+champion	O
+?	O
+
+IMGID:O_1429
+HQ	O
+photos	O
+of	O
+Justin	B-PER
+Bieber	I-PER
+performing	O
+on	O
+the	O
+#	O
+PurposeTour	O
+in	O
+Montreal	B-LOC
+,	O
+Canada	B-LOC
+.	O
+(	O
+May	O
+16	O
+)	O
+
+IMGID:O_1518
+why	O
+does	O
+justin	B-PER
+bieber	I-PER
+look	O
+like	O
+the	O
+theater	O
+thug	O
+
+IMGID:16_05_31_396
+Here	O
+we	O
+go	O
+again	O
+!	O
+#	O
+glorysoccer	O
+👑	O
+❤	O
+️	O
+⚫	O
+️	O
+⚽	O
+️	O
+
+IMGID:16_05_25_1022
+Gorgeous	O
+street	O
+food	O
+for	O
+your	O
+wedding	O
+,	O
+festival	O
+or	O
+party	O
+?	O
+It	O
+'	O
+s	O
+our	O
+passion	O
+!	O
+
+IMGID:17_06_9064
+Nirvana	B-PER
+and	O
+Foos	B-PER
+guitar	O
+legend	O
+Pat	B-PER
+Smear	I-PER
+is	O
+currently	O
+loving	O
+#	O
+GlastonburyFestival	B-MISC
+.	O
+And	O
+is	O
+57	O
+.	O
+#	O
+Inspiration	O
+
+IMGID:O_1754
+When	O
+alo	B-PER
+told	O
+Rich	B-PER
+that	O
+he	O
+looked	O
+like	O
+Justin	B-PER
+Bieber	I-PER
+
+IMGID:O_347
+Jessica	B-PER
+Lange	I-PER
+and	O
+Susan	B-PER
+Sarandon	I-PER
+photographed	O
+by	O
+Corina	B-PER
+Marie	I-PER
+.	O
+
+IMGID:O_4151
+Google	B-ORG
+top	O
+suggestion	O
+for	O
+Donald	B-PER
+Trump	I-PER
+is	O
+'	O
+Mondale	B-PER
+'	O
+@	O
+KevinNR	B-PER
+@	O
+derekahunter	B-PER
+
+IMGID:O_2657
+From	O
+Kim	B-PER
+Kardashian	I-PER
+to	O
+Kate	B-PER
+Hudson	I-PER
+:	O
+A	O
+history	O
+of	O
+baby	O
+bumps	O
+at	O
+the	O
+Met	B-MISC
+Gala	I-MISC
+.	O
+
+IMGID:O_82
+Donald	B-PER
+Trump	I-PER
+backs	O
+out	O
+of	O
+a	O
+debate	O
+with	O
+Bernie	B-PER
+Sanders	I-PER
+:	O
+
+IMGID:O_4240
+WATCH	O
+:	O
+New	O
+Trump	B-PER
+Ad	O
+Attacks	O
+Bill	B-PER
+Clinton	I-PER
+for	O
+Sexual	O
+Misconduct	O
+
+IMGID:16_05_16_365
+ABC	B-ORG
+:	O
+Georgia	B-ORG
+college	I-ORG
+baseball	O
+team	O
+adopts	O
+puppy	O
+abandoned	O
+at	O
+their	O
+stadium	O
+as	O
+official	O
+'	O
+bat	O
+dog	O
+'	O
+.	O
+…	O
+
+IMGID:O_1926
+Justin	B-PER
+Bieber	I-PER
+,	O
+Rich	B-PER
+the	I-PER
+Kid	I-PER
+and	O
+Diplo	B-PER
+have	O
+a	O
+banger	O
+on	O
+the	O
+way	O
+:	O
+
+IMGID:O_4461
+Leonardo	B-PER
+Dicaprio	I-PER
+and	O
+Kate	B-PER
+Winslet	I-PER
+,	O
+then	O
+and	O
+now	O
+.	O
+
+IMGID:O_4260
+Louis	B-ORG
+Vuitton	I-ORG
+,	O
+The	O
+Undisputed	O
+Leader	O
+Of	O
+Luxury	O
+Fashion	O
+Brands	O
+…	O
+:	O
+
+IMGID:17_06_15644
+@	O
+BakermatMusic	B-PER
+played	O
+the	O
+best	O
+set	O
+@	O
+WhatTheFestival	B-MISC
+welcome	O
+to	O
+my	O
+#	O
+yearofmusic	O
+#	O
+thanksfortheexperience	O
+#	O
+WTFest17	B-MISC
+
+IMGID:17_06_9506
+@	O
+KingwoodAreaDem	B-ORG
+members	O
+at	O
+the	O
+Houston	B-LOC
+Pride	O
+Parade	O
+!	O
+🏳	O
+️	O
+‍	O
+🌈	O
+
+IMGID:17_06_10525
+Seattle	B-ORG
+Mariners	I-ORG
+have	O
+great	O
+first	O
+day	O
+of	O
+2017	O
+MLB	B-ORG
+Draft	O
+
+IMGID:16_05_26_927
+Kids	O
+with	O
+additional	O
+needs	O
+are	O
+invited	O
+to	O
+a	O
+special	O
+,	O
+FREE	O
+soccer	O
+event	O
+on	O
+9	O
+July	O
+!	O
+
+IMGID:O_1673
+Okay	O
+Neil	B-PER
+Patrick	I-PER
+Harris	I-PER
+and	O
+David	B-PER
+Burtka	I-PER
+have	O
+the	O
+absolute	O
+cutest	O
+family	O
+!	O
+!	O
+!	O
+
+IMGID:O_4818
+Any	O
+team	O
+planning	O
+on	O
+signing	O
+Kevin	B-PER
+Durant	I-PER
+needs	O
+to	O
+include	O
+an	O
+"	O
+Apologize	O
+to	O
+Lil	B-PER
+B	I-PER
+"	O
+clause	O
+in	O
+the	O
+contract	O
+
+IMGID:17_06_10985
+HAPPY	O
+#	O
+NationalSunglassesDay	O
+😎	O
+MY	O
+KING	O
+😘	O
+@	O
+FinnBalor	B-PER
+
+IMGID:O_3769
+Chris	B-PER
+Brown	I-PER
+wins	O
+again	O
+in	O
+custody	O
+lawsuit	O
+filed	O
+by	O
+Royalty	B-PER
+’	O
+s	O
+mum	O
+
+IMGID:16_05_09_946
+Liam	B-PER
+at	O
+Beyoncé	B-PER
+'	O
+s	O
+concert	O
+in	O
+Houston	B-LOC
+,	O
+Texas	B-LOC
+07.05	O
+.	O
+16	O
+(	O
+3	O
+)	O
+
+IMGID:O_1092
+[	O
+PIC	O
+]	O
+Kim	B-PER
+Heechul	I-PER
+with	O
+Jieqiong	B-PER
+from	O
+his	O
+Weibo	B-ORG
+account	O
+
+IMGID:17_06_5864
+Nomination	O
+Opens	O
+for	O
+2017	O
+100	O
+Most	O
+Influential	O
+Young	O
+Africans	O
+
+IMGID:O_4240
+WATCH	O
+:	O
+New	O
+Trump	B-PER
+Ad	O
+Attacks	O
+Bill	B-PER
+Clinton	I-PER
+for	O
+Sexual	O
+Misconduct	O
+
+IMGID:O_3664
+It	O
+'	O
+s	O
+official	O
+!	O
+Shah	B-PER
+Rukh	I-PER
+Khan	I-PER
+'	O
+s	O
+film	O
+with	O
+Aanand	B-PER
+Rai	I-PER
+to	O
+have	O
+Hobbit	O
+-	O
+like	O
+VFX	O
+!	O
+@	O
+iamsrk	B-PER
+
+IMGID:17_06_2871
+2017	O
+NBA	B-MISC
+Awards	I-MISC
+Show	O
+:	O
+Preview	O
+and	O
+predictions	O
+for	O
+MVP	O
+,	O
+ROY	O
+,	O
+and	O
+more	O
+
+IMGID:16_05_31_545
+#	O
+NHLPlayoffs	O
+#	O
+Penguins	B-ORG
+Top	O
+Sharks	B-ORG
+in	O
+Stanley	B-MISC
+Cup	I-MISC
+Finals	O
+Opener	O
+on	O
+Late	O
+Goal	O
+
+IMGID:16_05_19_148
+@	O
+Football__Tweet	O
+:	O
+Happy	O
+birthday	O
+to	O
+Andrea	B-PER
+Pirlo	I-PER
+-	O
+the	O
+Godfather	O
+of	O
+football	O
+turns	O
+37	O
+today	O
+.	O
+�	O
+�	O
+�	O
+�	O
+
+IMGID:O_1759
+Yes	O
+this	O
+is	O
+really	O
+a	O
+typo	O
+that	O
+is	O
+on	O
+Donald	B-PER
+Trump	I-PER
+’	O
+s	O
+Facebook	B-ORG
+page	O
+right	O
+now	O
+
+IMGID:O_381
+Thank	O
+you	O
+Indiana	B-LOC
+a	O
+vote	O
+for	O
+Donald	B-PER
+Trump	I-PER
+is	O
+a	O
+step	O
+closer	O
+4	O
+Justice	O
+4	O
+Jamiel	O
+and	O
+MANY	O
+more	O
+❤	O
+️	O
+🇺	O
+🇸	O
+
+IMGID:16_05_21_726
+Music	O
+,	O
+dance	O
+,	O
+food	O
+and	O
+fun	O
+for	O
+all	O
+this	O
+weekend	O
+at	O
+#	O
+Skokie	B-MISC
+Festival	I-MISC
+of	I-MISC
+Cultures	I-MISC
+!	O
+
+IMGID:O_3345
+Stephen	B-PER
+Hawking	I-PER
+and	O
+his	O
+wife	O
+Jane	B-PER
+Wilde	I-PER
+,	O
+1965	O
+
+IMGID:O_2774
+This	O
+half	O
+pitbull	O
+,	O
+half	O
+german	O
+shepherd	O
+looks	O
+EXACTLY	O
+like	O
+Scooby	O
+-	O
+Doo	O
+!	O
+
+IMGID:O_1843
+A	O
+list	O
+of	O
+all	O
+Donald	B-PER
+Trump	I-PER
+'	O
+s	O
+successful	O
+businesses	O
+#	O
+MAGA	O
+#	O
+TRUMPTRAIN	O
+#	O
+hillaryhate	O
+#	O
+DropOutHillary	O
+#	O
+NeverClinton	O
+
+IMGID:O_3406
+Best	O
+Dressed	O
+:	O
+Blake	B-PER
+Lively	I-PER
+looking	O
+FLAWLESS	O
+at	O
+the	O
+#	O
+MetGala	B-MISC
+🔥	O
+🔥	O
+🔥	O
+
+IMGID:O_623
+👑	O
+Katy	B-PER
+Perry	I-PER
+and	O
+Lady	B-PER
+Gaga	I-PER
+appreciation	O
+tweet	O
+👑	O
+
+IMGID:16_05_09_815
+@	O
+girlsjpg	O
+this	O
+is	O
+him	O
+at	O
+the	O
+same	O
+concert	O
+but	O
+from	O
+the	O
+front	O
+
+IMGID:16_05_01_599
+Oakland	B-ORG
+Raiders	I-ORG
+Stockpile	O
+During	O
+NFL	B-ORG
+Draft	O
+
+IMGID:O_3266
+Christina	B-PER
+Aguilera	I-PER
+has	O
+the	O
+beautiful	O
+curves	O
+.	O
+From	O
+yesterday	O
+to	O
+today	O
+😍	O
+👏	O
+
+IMGID:O_2753
+When	O
+Donald	B-PER
+Trump	I-PER
+is	O
+getting	O
+closer	O
+to	O
+winning	O
+the	O
+election	O
+and	O
+you	O
+'	O
+re	O
+trying	O
+not	O
+to	O
+get	O
+deported	O
+
+IMGID:16_05_26_274
+LeBron	B-PER
+,	O
+Warriors	B-ORG
+face	O
+similar	O
+challenge	O
+:	O
+Pressure	O
+to	O
+deliver	O
+#	O
+nhl	B-ORG
+
+IMGID:16_05_22_529
+Klay	B-PER
+Thompson	I-PER
+looking	O
+like	O
+he	O
+already	O
+planning	O
+what	O
+he	O
+gonna	O
+do	O
+after	O
+they	O
+get	O
+eliminated	O
+.	O
+.	O
+.	O
+#	O
+NBAPlayoffs	O
+
+IMGID:16_05_30_669
+BREAKING	O
+:	O
+The	O
+@	O
+warriors	B-ORG
+are	O
+headed	O
+to	O
+the	O
+NBA	B-ORG
+Finals	O
+!	O
+#	O
+StrengthInNumbers	O
+#	O
+FeelTheBern	O
+
+IMGID:16_05_31_52
+My	O
+son	O
+in	O
+a	O
+batters	O
+box	O
+ready	O
+to	O
+crush	O
+a	O
+baseball	O
+.	O
+#	O
+LifeIsGood	O
+
+IMGID:16_05_05_133
+If	O
+you	O
+'	O
+re	O
+not	O
+at	O
+the	O
+SHS	B-ORG
+band	O
+concert	O
+you	O
+'	O
+re	O
+missing	O
+out	O
+!	O
+🎼	O
+🎶	O
+
+IMGID:16_05_07_489
+Fun	O
+night	O
+of	O
+baseball	O
+that	O
+raised	O
+money	O
+for	O
+a	O
+great	O
+cause	O
+.	O
+Big	O
+thanks	O
+to	O
+everyone	O
+who	O
+came	O
+out	O
+.	O
+@	O
+Rocket_Baseball	B-ORG
+
+IMGID:16_05_04_526
+When	O
+my	O
+parents	O
+ask	O
+me	O
+how	O
+much	O
+the	O
+concert	O
+tickets	O
+I	O
+want	O
+are	O
+
+IMGID:16_05_17_794
+Double	O
+shot	O
+of	O
+Nolan	B-PER
+Ryan	I-PER
+on	O
+@	O
+baseball_ref	O
+today	O
+.	O
+Didn	O
+'	O
+t	O
+know	O
+that	O
+was	O
+possible	O
+,	O
+but	O
+he	O
+'	O
+s	O
+as	O
+deserving	O
+as	O
+anyone	O
+.	O
+
+IMGID:17_06_14115
+Stitching	O
+up	O
+a	O
+"	O
+Jackie	B-PER
+Robinson	I-PER
+"	O
+replica	O
+baseball	O
+jersey	O
+for	O
+shadowbox	O
+frame	O
+.	O
+
+IMGID:17_06_935
+Everybody	O
+making	O
+power	O
+moves	O
+and	O
+#	O
+DannyAinge	B-PER
+at	O
+home	O
+like	O
+#	O
+NBAFreeAgency	O
+
+IMGID:O_82
+Donald	B-PER
+Trump	I-PER
+backs	O
+out	O
+of	O
+a	O
+debate	O
+with	O
+Bernie	B-PER
+Sanders	I-PER
+:	O
+
+IMGID:17_06_4234
+I	O
+loved	O
+seeing	O
+@	O
+VerticalHorizon	B-PER
+on	O
+Saturday	O
+at	O
+@	O
+CelebrateFFX	B-MISC
+.	O
+Brilliant	O
+as	O
+expected	O
+.	O
+#	O
+music	O
+#	O
+summer	O
+#	O
+concert	O
+
+IMGID:O_578
+Jennifer	B-PER
+Lawrence	I-PER
+appears	O
+at	O
+the	O
+MTV	B-MISC
+Snapchat	I-MISC
+with	O
+the	O
+title	O
+"	O
+Celebs	O
+working	O
+the	O
+lingerie	O
+trend	O
+"	O
+
+IMGID:17_06_4629
+Line	O
+Up	O
+For	O
+Gorillaz	B-MISC
+Demon	I-MISC
+Dayz	I-MISC
+Festival	I-MISC
+Revealed	O
+:	O
+
+IMGID:17_01_5097
+Patrick	B-PER
+van	I-PER
+Aanholt	I-PER
+could	O
+be	O
+set	O
+for	O
+a	O
+move	O
+to	O
+one	O
+of	O
+Sunderland	B-ORG
+'	O
+s	O
+Premier	B-ORG
+League	I-ORG
+rivals	O
+
+IMGID:17_06_6187
+Great	O
+1	O
+st	O
+week	O
+@	O
+CampMVP	B-MISC
+2017	O
+!	O
+!	O
+#	O
+basketball	O
+@	O
+Singletary26_2	B-PER
+
+IMGID:17_06_1006
+I	O
+'	O
+m	O
+at	O
+Liparis	B-LOC
+Sunflowers	I-LOC
+in	O
+Mersin	B-LOC
+
+IMGID:16_05_05_175
+A	O
+beautiful	O
+day	O
+for	O
+the	O
+Tennis	O
+festival	O
+St	B-ORG
+Georges	I-ORG
+today	O
+!	O
+!	O
+Good	O
+luck	O
+to	O
+our	O
+doubles	O
+pairs	O
+from	O
+U11	O
+-	O
+U16	O
+!	O
+#	O
+teamCHS	O
+
+IMGID:16_05_26_424
+so	O
+you	O
+wanna	O
+hear	O
+about	O
+vogue	B-ORG
+.	O
+.	O
+.	O
+.	O
+.	O
+.	O
+#	O
+VogueFestival	B-MISC
+:	O
+
+IMGID:O_1524
+The	O
+Justin	B-PER
+Bieber	I-PER
+merchandise	O
+stand	O
+has	O
+been	O
+set	O
+up	O
+at	O
+the	O
+arena	O
+for	O
+#	O
+PurposeTourBoston	O
+.	O
+
+IMGID:17_06_4491
+Mad	O
+that	O
+this	O
+guy	O
+used	O
+to	O
+be	O
+the	O
+worlds	O
+best	O
+footballer	O
+!	O
+!	O
+#	O
+R9	B-PER
+#	O
+ronaldo	B-PER
+
+IMGID:16_05_09_38
+Join	O
+the	O
+Island	O
+Xscape	O
+team	O
+in	O
+May	O
+2016	O
+at	O
+the	O
+St	B-MISC
+Lucian	I-MISC
+Jazz	I-MISC
+Festival	I-MISC
+!	O
+
+IMGID:O_4484
+It	O
+took	O
+a	O
+full	O
+MINUTE	O
+for	O
+Justin	B-PER
+Bieber	I-PER
+to	O
+show	O
+his	O
+face	O
+in	O
+Company	B-MISC
+.	O
+TORTURE	O
+.	O
+#	O
+BBMAs	B-MISC
+
+IMGID:17_06_15563
+Varun	B-PER
+Dhawan	I-PER
+and	O
+others	O
+grace	O
+the	O
+launch	O
+of	O
+the	O
+‘	O
+India	B-MISC
+Alive	I-MISC
+Short	I-MISC
+Film	I-MISC
+Festival	I-MISC
+’	O
+
+IMGID:17_06_1693
+Found	O
+a	O
+little	O
+env	O
+.	O
+of	O
+our	O
+old	O
+signed	O
+concert	O
+tickets	O
+.	O
+The	B-PER
+Angels	I-PER
+at	O
+Wollongong	B-LOC
+,	O
+just	O
+before	O
+NEXT	B-MISC
+EXIT	I-MISC
+was	O
+released	O
+.	O
+
+IMGID:O_3553
+No	O
+,	O
+most	O
+working	O
+-	O
+class	O
+Americans	O
+did	O
+not	O
+vote	O
+for	O
+Donald	B-PER
+Trump	I-PER
+
+IMGID:17_01_16826
+Great	O
+moment	O
+playing	O
+bubble	O
+hockey	O
+with	O
+the	O
+great	O
+Terry	B-PER
+O	I-PER
+'	I-PER
+Reilly	I-PER
+!	O
+!	O
+@	O
+NHLBruins	B-ORG
+@	O
+CCRINews	B-ORG
+@	O
+CCRIAthletics	B-ORG
+
+IMGID:O_3646
+John	B-PER
+Lennon	I-PER
+and	O
+Paul	B-PER
+McCartney	I-PER
+in	O
+the	O
+studio	O
+,	O
+1965	O
+
+IMGID:16_05_08_797
+I	O
+was	O
+pretty	O
+mad	O
+when	O
+the	O
+@	O
+Vikings	B-ORG
+didn	O
+'	O
+t	O
+draft	O
+Johnny	B-PER
+Football	I-PER
+.	O
+@	O
+teddyb_h2o	B-PER
+I	O
+appreciate	O
+you	O
+a	O
+lot	O
+more	O
+now	O
+😂	O
+😂	O
+
+IMGID:17_06_13519
+#	O
+WatfordFC	B-ORG
+#	O
+WFC	B-ORG
+Over	O
+half	O
+of	O
+Premier	B-ORG
+League	I-ORG
+clubs	O
+open	O
+to	O
+safe	O
+standing	O
+
+IMGID:O_1079
+We	O
+nominate	O
+Taylor	B-PER
+Swift	I-PER
+@	O
+taylorswift13	B-PER
+as	O
+#	O
+ChoiceFemaleArtist	O
+on	O
+#	O
+TeenChoice	O
+
+IMGID:16_05_13_78
+Waiting	O
+for	O
+Buckethead	B-PER
+Concert	O
+to	O
+start	O
+!	O
+😃	O
+
+IMGID:16_05_21_328
+Last	O
+senior	O
+baseball	O
+game	O
+💙	O
+⚾	O
+️	O
+
+IMGID:16_05_11_1092
+It	O
+'	O
+s	O
+a	O
+beautiful	O
+patio	O
+day	O
+here	O
+in	O
+#	O
+downtownbarrie	O
+!	O
+!	O
+What	O
+a	O
+view	O
+!	O
+!	O
+#	O
+spiritcatcher	O
+#	O
+barriepatio	O
+
+IMGID:O_2690
+The	O
+National	B-ORG
+Rifle	I-ORG
+Association	I-ORG
+has	O
+endorsed	O
+Donald	B-PER
+Trump	I-PER
+for	O
+President	O
+!	O
+#	O
+2	O
+A	O
+#	O
+NRA	B-ORG
+#	O
+Trump2016	O
+#	O
+TrumpTrain	O
+
+IMGID:16_05_29_839
+Scott	B-PER
+Whitfield	I-PER
+appearing	O
+10	O
+am	O
+N	O
+Dallas	B-LOC
+Memorial	B-MISC
+Day	I-MISC
+Parade	O
+5	O
+/	O
+30	O
+
+IMGID:17_06_14475
+German	B-LOC
+youth	O
+football	O
+team	O
+rallies	O
+behind	O
+'	O
+star	O
+players	O
+'	O
+facing	O
+deportation	O
+
+IMGID:16_05_23_916
+We	O
+'	O
+re	O
+at	O
+Wymondham	B-LOC
+Windmill	I-LOC
+Beer	O
+Festival	O
+on	O
+June	O
+4	O
+th	O
+.	O
+Will	O
+you	O
+be	O
+?	O
+(	O
+Yep	O
+,	O
+if	O
+you	O
+ever	O
+want	O
+a	O
+pint	O
+in	O
+my	O
+pub	O
+again	O
+)	O
+
+IMGID:17_06_11126
+ImSEEEING	O
+LORDEIN	B-PER
+CONCERT	O
+IM	O
+SO	O
+HAPPIE	O
+
+IMGID:O_4280
+Louis	B-PER
+Armstrong	I-PER
+,	O
+Earl	B-PER
+Hines	I-PER
+,	O
+Louis	B-MISC
+Armstrong	I-MISC
+Vol	I-MISC
+IV	I-MISC
+with	I-MISC
+Earl	I-MISC
+Hines	I-MISC
+Audio	O
+CD	O
+
+IMGID:16_05_26_856
+More	O
+year	O
+9	O
+food	O
+!	O
+Really	O
+proud	O
+of	O
+this	O
+group	O
+today	O
+,	O
+working	O
+as	O
+teams	O
+to	O
+make	O
+street	O
+food	O
+for	O
+a	O
+festival	O
+
+IMGID:16_05_01_599
+Oakland	B-ORG
+Raiders	I-ORG
+Stockpile	O
+During	O
+NFL	B-ORG
+Draft	O
+
+IMGID:17_06_15202
+Liverpool	B-ORG
+agree	O
+personal	O
+terms	O
+with	O
+Roma	B-ORG
+midfielder	O
+Mohamed	B-PER
+Salah	I-PER
+(	O
+Tribal	B-ORG
+Football	I-ORG
+)	O
+
+IMGID:O_1727
+cast	O
+blake	B-PER
+lively	I-PER
+as	O
+a	O
+disney	B-ORG
+princess	O
+2	O
+k16	O
+
+IMGID:O_1458
+CHRIS	B-PER
+BROWN	I-PER
+JUST	O
+SAID	O
+KEVIN	B-PER
+MCCSHIT	O
+IS	O
+"	O
+NOT	O
+WORTHY	O
+OF	O
+A	O
+FART	O
+"	O
+😂	O
+😂	O
+😂	O
+😂	O
+😂	O
+😂	O
+😂	O
+😂	O
+😂	O
+😂	O
+😂	O
+😂	O
+😂	O
+😂	O
+😂	O
+😂	O
+😂	O
+😂	O
+😂	O
+😂	O
+he	O
+'	O
+s	O
+the	O
+best	O
+
+IMGID:16_05_03_239
+happy	O
+national	O
+concert	O
+day	O
+part	O
+3	O
+
+IMGID:O_2928
+JUST	O
+IN	O
+:	O
+Bookings	O
+At	O
+Donald	B-PER
+Trump	I-PER
+’	O
+s	O
+Hotels	O
+Have	O
+Plummeted	O
+60	O
+%	O
+For	O
+This	O
+Specific	O
+Reason	O
+
+IMGID:17_06_2273
+Baseball	O
+world	O
+reacts	O
+to	O
+Albert	B-PER
+Pujols	I-PER
+'	O
+600	O
+th	O
+career	O
+home	O
+run	O
+
+IMGID:16_05_06_240
+Eighteen	O
+years	O
+ago	O
+today	O
+,	O
+Kerry	B-PER
+Wood	I-PER
+threw	O
+arguably	O
+the	O
+most	O
+dominant	O
+game	O
+in	O
+MLB	B-ORG
+history	O
+
+IMGID:17_01_22127
+Year	O
+9	O
+basketball	O
+team	O
+-	O
+county	O
+champions	O
+!	O
+!	O
+Hooray	O
+!	O
+#	O
+champs	O
+#	O
+farlingaye	O
+#	O
+basketball	O
+
+IMGID:O_3986
+Pending	O
+free	O
+-	O
+agent	O
+Kevin	B-PER
+Durant	I-PER
+has	O
+some	O
+decisions	O
+to	O
+make	O
+about	O
+his	O
+future	O
+.	O
+
+IMGID:16_05_02_794
+‘	O
+I	O
+would	O
+like	O
+to	O
+coach	O
+in	O
+Serie	B-ORG
+A	I-ORG
+’	O
+–	O
+Pellegrini	B-PER
+Follow	O
+@	O
+FaithFans1	O
+
+IMGID:17_06_12865
+Dan	B-PER
+Auerbach	I-PER
+on	O
+the	O
+Influences	O
+Behind	O
+'	O
+Waiting	B-MISC
+on	I-MISC
+a	I-MISC
+Song	I-MISC
+'	O
+
+IMGID:16_05_17_118
+@	O
+SacStBaseball	B-ORG
+getting	O
+ready	O
+for	O
+the	O
+first	O
+night	O
+game	O
+at	O
+John	B-LOC
+Smith	I-LOC
+Field	I-LOC
+!	O
+Come	O
+join	O
+us	O
+,	O
+stadium	O
+is	O
+filling	O
+up	O
+!	O
+
+IMGID:O_4815
+Supermods	O
+Enter	B-PER
+Rehab	I-PER
+’	O
+Photographed	O
+by	O
+Steven	B-PER
+Meisel	I-PER
+for	O
+Vogue	B-ORG
+Italia	I-ORG
+July	O
+2007	O
+
+IMGID:17_06_14040
+LGBT	B-ORG
+group	O
+claims	O
+float	O
+supporting	O
+President	O
+Trump	B-PER
+was	O
+rejected	O
+for	O
+Charlotte	B-LOC
+pride	O
+parade	O
+
+IMGID:O_2978
+If	O
+The	B-MISC
+Fame	I-MISC
+Monster	I-MISC
+had	O
+a	O
+child	O
+with	O
+Born	B-MISC
+This	I-MISC
+Way	I-MISC
+,	O
+that	O
+'	O
+s	O
+Lady	B-PER
+Gaga	I-PER
+'	O
+s	O
+look	O
+tonight	O
+.	O
+#	O
+MetGala	B-MISC
+
+IMGID:O_3193
+Young	O
+Jessica	B-PER
+Lange	I-PER
+on	O
+the	O
+left	O
+,	O
+Young	O
+Lana	B-PER
+Del	I-PER
+Rey	I-PER
+on	O
+the	O
+right	O
+.	O
+.	O
+.	O
+☺	O
+
+IMGID:O_2087
+Obama	B-PER
+Urges	O
+Scrutiny	O
+Of	O
+Donald	B-PER
+Trump	I-PER
+’	O
+s	O
+Record	O
+:	O
+‘	O
+This	O
+Is	O
+Not	O
+Entertainment	O
+’	O
+
+IMGID:17_06_10389
+How	O
+Jake	B-PER
+Paul	I-PER
+is	O
+changing	O
+the	O
+influencer	O
+game	O
+:	O
+
+IMGID:17_06_12162
+Check	O
+out	O
+festival	O
+fit	O
+Conor	B-PER
+McGregor	I-PER
+at	O
+Forbidden	B-MISC
+Fruit	I-MISC
+
+IMGID:17_01_23785
+Gold	O
+mine	O
+of	O
+#	O
+Dodgers	B-ORG
+memorabilia	O
+plus	O
+All	O
+Stars	O
+and	O
+Legends	O
+#	O
+MLB	B-ORG
+
+IMGID:16_05_07_854
+Here	O
+'	O
+s	O
+@	O
+alexkeble	B-PER
+on	O
+Leicester	B-LOC
+City	I-LOC
+and	O
+the	O
+role	O
+of	O
+chance	O
+in	O
+football	O
+-	O
+
+IMGID:16_05_05_68
+Happy	O
+birthday	O
+@	O
+MeganBatten	B-PER
+these	O
+are	O
+the	O
+only	O
+pictures	O
+I	O
+have	O
+of	O
+you	O
+but	O
+they	O
+'	O
+re	O
+good	O
+ones	O
+!	O
+Have	O
+a	O
+great	O
+day	O
+!	O
+😊	O
+
+IMGID:16_05_01_425
+Spring	B-MISC
+Planting	I-MISC
+Festival	I-MISC
+on	O
+Sunday	O
+and	O
+Monday	O
+
+IMGID:16_05_20_630
+Save	O
+the	O
+date	O
+!	O
+Twilight	B-MISC
+Concert	I-MISC
+Series	O
+
+IMGID:16_05_21_560
+Join	O
+us	O
+for	O
+our	O
+next	O
+Chamber	O
+Concert	O
+Series	O
+on	O
+Sunday	O
+June	O
+12	O
+th	O
+!	O
+
+IMGID:17_06_7292
+Glastonbury	B-MISC
+Festival	I-MISC
+Top	O
+Tips	O
+From	O
+The	O
+Celebrity	O
+Set	O
+:	O
+
+IMGID:O_3162
+Ryan	B-PER
+’	O
+s	O
+Primary	O
+Opponent	O
+,	O
+Paul	B-PER
+Nehlen	I-PER
+,	O
+Says	O
+:	O
+“	O
+Will	O
+Support	O
+Donald	B-PER
+Trump	I-PER
+”	O
+…	O
+
+IMGID:O_63
+Lineup	O
+around	O
+the	O
+block	O
+for	O
+Justin	B-PER
+Bieber	I-PER
+'	O
+s	O
+Toronto	B-LOC
+pop	O
+-	O
+up	O
+shop	O
+
+IMGID:16_05_30_145
+Inbal	B-PER
+Arieli	I-PER
+on	O
+Israeli	B-LOC
+start	O
+-	O
+up	O
+ecosystem	O
+with	O
+a	O
+working	O
+county	O
+population	O
+of	O
+$	O
+4	O
+million	O
+#	O
+niftimission16	O
+
+IMGID:16_05_07_639
+when	O
+Bucky	B-PER
+wore	O
+that	O
+baseball	O
+cap	O
+tho	O
+!	O
+!	O
+!	O
+😩	O
+😩	O
+😩	O
+👅	O
+👅	O
+👅	O
+🔥	O
+🔥	O
+🔥	O
+👌	O
+🏼	O
+👌	O
+🏼	O
+👌	O
+🏼	O
+😍	O
+💅	O
+🏼	O
+‼	O
+️	O
+❤	O
+️	O
+💯	O
+😂	O
+👍	O
+🏼	O
+💀	O
+✅	O
+
+IMGID:O_3125
+these	O
+pictures	O
+of	O
+Harry	B-PER
+Styles	I-PER
+are	O
+a	O
+blessing	O
+
+IMGID:O_4182
+#	O
+Breaking	O
+:	O
+Donald	B-PER
+Trump	I-PER
+has	O
+the	O
+1,237	O
+delegates	O
+to	O
+clinch	O
+the	O
+GOP	B-ORG
+nomination	O
+,	O
+CNN	B-ORG
+estimates	O
+
+IMGID:O_1166
+John	B-PER
+Lennon	I-PER
+;	O
+Yoko	B-PER
+Ono	I-PER
+(	O
+1980,	O
+photo	O
+by	O
+Jack	B-PER
+Mitchell	I-PER
+)	O
+
+IMGID:16_05_11_802
+Might	O
+take	O
+a	O
+flight	O
+out	O
+for	O
+the	O
+weekend	O
+,	O
+and	O
+go	O
+Cannes	B-LOC
+-	O
+cause	O
+I	O
+can	O
+'	O
+🎵	O
+#	O
+cannesfilmfestival	B-MISC
+#	O
+newproject	O
+#	O
+imback	O
+by	O
+…	O
+
+IMGID:16_05_31_1059
+the	O
+type	O
+of	O
+person	O
+I	O
+am	O
+😂	O
+concert	O
+tomorrow	O
+
+IMGID:16_05_01_764
+This	O
+sums	O
+up	O
+the	O
+2	O
+nd	O
+Half	O
+😈	O
+🏀	O
+👭	O
+🙌	O
+🏾	O
+😛	O
+.	O
+.	O
+#	O
+ThunderBasketBallgbb	O
+@	O
+KierreJames	B-PER
+@	O
+Milli_Bear96	B-PER
+
+IMGID:O_4472
+The	O
+Old	O
+Mill	O
+,	O
+North	B-LOC
+Little	I-LOC
+Rock	I-LOC
+,	O
+Arkansas	B-LOC
+,	O
+USA	B-LOC
+
+IMGID:O_3187
+Funko	B-ORG
+Rolls	O
+Out	O
+a	O
+New	O
+Line	O
+of	O
+HARRY	B-MISC
+POTTER	I-MISC
+Pops	O
+!	O
+for	O
+SDCC	O
+
+IMGID:17_06_11757
+which	O
+should	O
+i	O
+wear	O
+to	O
+my	O
+soccer	O
+banquet	O
+xx	O
+
+IMGID:17_06_12140
+Ex	O
+NBA	B-ORG
+Star	O
+,	O
+Chris	B-PER
+Webber	I-PER
+And	O
+Wife	O
+Welcome	O
+Twins	O
+After	O
+8	O
+Years	O
+Of	O
+Marriage	O
+
+IMGID:O_2976
+Photographer	O
+Markus	B-PER
+Klinko	I-PER
+creates	O
+rare	O
+David	B-PER
+Bowie	I-PER
+photo	O
+exhibit	O
+in	O
+Hollywood	B-LOC
+
+IMGID:16_05_12_116
+Great	O
+job	O
+by	O
+these	O
+kiddos	O
+at	O
+this	O
+afternoon	O
+'	O
+s	O
+girls	O
+Var	O
+Soccer	O
+game	O
+,	O
+the	O
+last	O
+live	O
+event	O
+of	O
+the	O
+school	O
+year	O
+!	O
+
+IMGID:16_05_12_173
+Happy	O
+birthday	O
+to	O
+my	O
+bff	O
+❤	O
+️	O
+miss	O
+partying	O
+with	O
+you	O
+and	O
+killin	O
+'	O
+it	O
+at	O
+football	O
+with	O
+you	O
+🏆	O
+🏉	O
+love	O
+you	O
+soo	O
+much	O
+enjoy	O
+it	O
+!	O
+
+IMGID:16_05_23_465
+@	O
+Arsenal	B-ORG
+when	O
+he	O
+waved	O
+to	O
+me	O
+at	O
+the	O
+2014	O
+FA	B-MISC
+Cup	I-MISC
+parade	O
+:	O
+
+IMGID:17_06_7687
+@	O
+NHL	B-ORG
+@	O
+cmcdavid97	B-PER
+Sid	B-PER
+looked	O
+annoyed	O
+.	O
+.	O
+.	O
+.	O
+
+IMGID:16_05_05_637
+Pre	O
+Concert	O
+meal	O
+and	O
+banquet	O
+for	O
+the	O
+Ripley	B-ORG
+Choir	O
+,	O
+Concert	O
+starts	O
+at	O
+7	O
+:	O
+30	O
+#	O
+singloud	O
+
+IMGID:17_06_6107
+Bourbonnais	B-MISC
+Friendship	I-MISC
+Festival	I-MISC
+is	O
+fast	O
+approaching	O
+,	O
+mark	O
+your	O
+calendars	O
+for	O
+June	O
+21	O
+.	O
+
+IMGID:16_05_04_244
+Jeremih	B-PER
+concert	O
+last	O
+night	O
+ft	O
+.	O
+Aziz	B-PER
+Ansari	I-PER
+'	O
+s	O
+doppleganger	O
+
+IMGID:17_06_6682
+VICESports	B-ORG
+:	O
+The	O
+Cavaliers	B-ORG
+need	O
+to	O
+make	O
+the	O
+#	O
+NBAFinals	O
+ugly	O
+again	O
+.	O
+
+IMGID:O_386
+Pretty	O
+sure	O
+Sarah	B-PER
+Palin	I-PER
+is	O
+what	O
+happened	O
+when	O
+two	O
+Young	O
+Republicans	O
+Weird	O
+Science	O
+'	O
+d	O
+the	O
+girl	O
+in	O
+this	O
+vintage	O
+beer	O
+ad	O
+
+IMGID:O_2579
+Jessica	B-PER
+Alba	I-PER
+on	O
+the	O
+past	O
+,	O
+present	O
+and	O
+future	O
+of	O
+The	B-ORG
+Honest	I-ORG
+Company	I-ORG
+
+IMGID:O_1958
+Sarah	B-PER
+Palin	I-PER
+pledges	O
+to	O
+help	O
+oust	O
+Paul	B-PER
+Ryan	I-PER
+in	O
+primary	O
+
+IMGID:O_3689
+RT	O
+ARapperSaid_	O
+:	O
+Michael	B-PER
+Jordan	I-PER
+congratulates	O
+Russell	B-PER
+Westbrook	I-PER
+on	O
+winning	O
+MVP	O
+🙏	O
+👏	O
+
+IMGID:16_05_08_527
+Excited	O
+to	O
+be	O
+performing	O
+3	O
+solos	O
+at	O
+this	O
+concert	O
+
+IMGID:17_06_13456
+10	O
+best	O
+undrafted	O
+college	O
+football	O
+players	O
+who	O
+made	O
+it	O
+in	O
+the	O
+NFL	B-ORG
+
+IMGID:16_05_29_620
+What	O
+to	O
+expect	O
+from	O
+@	O
+AdventureDub	B-PER
+show	O
+at	O
+July	O
+'	O
+16	O
+?	O
+Watch	O
+concert	O
+now	O
+!	O
+
+IMGID:O_2951
+the	O
+friends	O
+finale	O
+being	O
+broadcasted	O
+live	O
+in	O
+times	B-LOC
+square	I-LOC
+on	O
+may	O
+6,	O
+2004	O
+in	O
+new	B-LOC
+york	I-LOC
+city	I-LOC
+
+IMGID:O_246
+Kevin	B-PER
+Durant	I-PER
+drops	O
+26	O
+p	O
+;	O
+10	O
+r	O
+as	O
+the	O
+@	O
+okcthunder	B-ORG
+take	O
+Western	O
+Conference	O
+Finals	O
+Game	O
+1	O
+!	O
+
+IMGID:17_06_7572
+Baseball	O
+puts	O
+things	O
+in	O
+perspective	O
+.	O
+
+IMGID:O_1965
+John	B-PER
+Boehner	I-PER
+backs	O
+Donald	B-PER
+Trump	I-PER
+,	O
+adding	O
+"	O
+Thank	O
+God	O
+"	O
+Ted	B-PER
+Cruz	I-PER
+didn	O
+'	O
+t	O
+win	O
+
+IMGID:17_06_12452
+Great	O
+night	O
+for	O
+@	O
+ACGCSchools	B-ORG
+as	O
+the	O
+Baseball	O
+team	O
+hangs	O
+on	O
+to	O
+win	O
+4	O
+-	O
+2	O
+#	O
+Falconproud	O
+
+IMGID:O_4677
+2	O
+out	O
+of	O
+the	O
+Top	O
+5	O
+most	O
+viewed	O
+music	O
+videos	O
+on	O
+VEVO	B-ORG
+belong	O
+to	O
+the	O
+one	O
+and	O
+only	O
+Taylor	B-PER
+Swift	I-PER
+.	O
+👸	O
+
+IMGID:16_05_05_68
+Happy	O
+birthday	O
+@	O
+MeganBatten	B-PER
+these	O
+are	O
+the	O
+only	O
+pictures	O
+I	O
+have	O
+of	O
+you	O
+but	O
+they	O
+'	O
+re	O
+good	O
+ones	O
+!	O
+Have	O
+a	O
+great	O
+day	O
+!	O
+😊	O
+
+IMGID:16_05_31_1014
+Cavs	B-ORG
+Eliminate	O
+Raptors	B-ORG
+;	O
+LeBron	B-PER
+James	I-PER
+Goes	O
+To	O
+Sixth	O
+Straight	O
+NBA	B-ORG
+Finals	O
+.	O
+.	O
+.	O
+
+IMGID:O_4674
+Lil	B-PER
+Wayne	I-PER
+finally	O
+disses	O
+Birdman	B-PER
+by	O
+name	O
+,	O
+announces	O
+two	O
+new	O
+albums	O
+
+IMGID:17_06_7806
+Check	O
+out	O
+this	O
+event	O
+in	O
+#	O
+GranblueFantasy	B-MISC
+!	O
+
+IMGID:17_06_6377
+The	O
+speediest	O
+man	O
+on	O
+all	O
+32	O
+NFL	B-ORG
+teams	O
+
+IMGID:17_06_776
+Plano	B-PER
+at	O
+State	O
+7	O
+on7	O
+football	O
+tourn	O
+-	O
+-	O
+talk	O
+about	O
+trying	O
+to	O
+meet	O
+stretch	O
+goals	O
+!	O
+
+IMGID:O_1008
+RT	O
+thebestofirl	O
+"	O
+Revealed	O
+:	O
+Where	O
+Justin	B-PER
+Bieber	I-PER
+stayed	O
+during	O
+his	O
+Irish	B-LOC
+visit	O
+
+IMGID:17_06_2478
+#	O
+entrepreneur	O
+What	O
+this	O
+soccer	O
+star	O
+learned	O
+as	O
+a	O
+serial	O
+entrepreneur	O
+
+IMGID:17_01_7410
+Come	O
+cheer	O
+on	O
+your	O
+Falcons	B-ORG
+basketball	O
+team	O
+against	O
+Porterville	B-ORG
+today	O
+at	O
+6	O
+in	O
+the	O
+gym	O
+!	O
+
+IMGID:16_05_01_764
+This	O
+sums	O
+up	O
+the	O
+2	O
+nd	O
+Half	O
+😈	O
+🏀	O
+👭	O
+🙌	O
+🏾	O
+😛	O
+.	O
+.	O
+#	O
+ThunderBasketBallgbb	O
+@	O
+KierreJames	B-PER
+@	O
+Milli_Bear96	B-PER
+
+IMGID:17_01_4096
+GAME	O
+STORY	O
+:	O
+@	O
+ShipURaiders	B-ORG
+women	O
+'	O
+s	O
+basketball	O
+extends	O
+streak	O
+to	O
+eight	O
+,	O
+beats	O
+@	O
+ESUWarriors	B-ORG
+-	O
+
+IMGID:O_3130
+3	O
+greatest	O
+funk	O
+artists	O
+of	O
+all	O
+time	O
+-	O
+1	O
+.	O
+Sly	B-PER
+Stone	I-PER
+2	O
+.	O
+James	B-PER
+Brown	I-PER
+3	O
+.	O
+Prince	B-PER
+
+IMGID:O_1008
+RT	O
+thebestofirl	O
+"	O
+Revealed	O
+:	O
+Where	O
+Justin	B-PER
+Bieber	I-PER
+stayed	O
+during	O
+his	O
+Irish	B-LOC
+visit	O
+
+IMGID:O_3703
+One	B-PER
+Direction	I-PER
+are	O
+the	O
+acts	O
+with	O
+most	O
+videos	O
+on	O
+YouTube	B-ORG
+with	O
+1	O
+M	O
++	O
+likes	O
+,	O
+total	O
+of	O
+15	O
+.	O
+
+IMGID:16_05_04_526
+When	O
+my	O
+parents	O
+ask	O
+me	O
+how	O
+much	O
+the	O
+concert	O
+tickets	O
+I	O
+want	O
+are	O
+
+IMGID:16_05_21_395
+WIN	O
+2	O
+concert	O
+tickets	O
+to	O
+see	O
+Aleph	B-PER
+LIVE	O
+at	O
+L	B-LOC
+'	I-LOC
+Olympia	I-LOC
+on	O
+May28	O
+!	O
+Go	O
+to	O
+our	O
+app	O
+NOW	O
+!	O
+
+IMGID:O_4555
+From	O
+Brigitte	B-PER
+Bardot	I-PER
+to	O
+Blake	B-PER
+Lively	I-PER
+,	O
+see	O
+the	O
+best	O
+beach	O
+hair	O
+of	O
+.	O
+.	O
+.	O
+#	O
+moda	O
+#	O
+fashion	O
+
+IMGID:16_05_19_582
+Amazon	O
+just	O
+won	O
+over	O
+the	O
+year	O
+'	O
+s	O
+biggest	O
+film	O
+festival	O
+with	O
+these	O
+6	O
+movies	O
+-	O
+
+IMGID:16_05_14_740
+Pakistan	B-MISC
+Photo	I-MISC
+Festival	I-MISC
+-	O
+The	O
+first	O
+photo	O
+festival	O
+in	O
+#	O
+Pakistan	B-LOC
+unveiled	O
+.	O
+…	O
+
+IMGID:O_3711
+Probably	O
+the	O
+coolest	O
+workout	O
+I	O
+have	O
+ever	O
+seen	O
+.	O
+Love	O
+Harry	B-MISC
+Potter	I-MISC
+
+IMGID:O_4145
+EMMA	B-PER
+WATSON	I-PER
+IS	O
+MOST	O
+DEFINITELY	O
+THE	O
+BEST	O
+PERSON	O
+ALIVE	O
+
+IMGID:16_05_19_832
+Hot	O
+Football	O
+Transfer	O
+Gossip	O
+:	O
+Man	B-ORG
+Utds	I-ORG
+Aubameyang	B-PER
+fear	O
+,	O
+#	O
+Arsenal	B-ORG
+could	O
+make	O
+#	O
+Kante	B-PER
+bid	O
+
+IMGID:O_5
+1	O
+gang	O
+boss	O
+dead	O
+,	O
+2	O
+agents	O
+shot	O
+,	O
+as	O
+FBI	B-ORG
+busts	O
+Black	B-ORG
+P	I-ORG
+-	I-ORG
+Stone	I-ORG
+Nation	I-ORG
+
+IMGID:16_05_30_278
+espn	B-ORG
+:	O
+Washington	B-ORG
+WR	O
+Isaiah	B-PER
+Renfro	I-PER
+says	O
+he	O
+'	O
+s	O
+quitting	O
+football	O
+in	O
+order	O
+to	O
+"	O
+conquer	O
+"	O
+depression	O
+:	O
+…	O
+
+IMGID:17_06_6082
+#	O
+MLB	B-ORG
+Road	O
+warriors	O
+:	O
+Astros	B-ORG
+glad	O
+to	O
+cap	O
+winning	O
+trip	O
+
+IMGID:16_05_15_1082
+Anthony	B-PER
+Kiedis	I-PER
+Rushed	O
+to	O
+Hospital	O
+,	O
+Chili	B-PER
+Peppers	I-PER
+Cancel	O
+Concert	O
+-	O
+
+IMGID:17_06_9338
+Local	O
+NFL	B-ORG
+player	O
+gives	O
+back	O
+to	O
+area	O
+youth	O
+
+IMGID:O_395
+Throwback	O
+to	O
+the	O
+time	O
+Alex	B-PER
+was	O
+part	O
+of	O
+One	B-PER
+Direction	I-PER
+
+IMGID:O_129
+Another	O
+photo	O
+of	O
+Justin	B-PER
+Bieber	I-PER
+spotted	O
+out	O
+in	O
+Milan	B-LOC
+,	O
+Italy	B-LOC
+last	O
+night	O
+.	O
+(	O
+June	O
+18	O
+)	O
+
+IMGID:16_05_09_19
+Thanks	O
+to	O
+my	O
+baby	O
+girl	O
+for	O
+taking	O
+me	O
+to	O
+this	O
+concert	O
+❤	O
+️	O
+@	O
+EvelynDuffy7	B-PER
+
+IMGID:16_05_01_125
+@	O
+marshalls	B-ORG
+this	O
+is	O
+your	O
+New	B-LOC
+Rochelle	I-LOC
+store	O
+.	O
+Conflicted	O
+,	O
+because	O
+I	O
+got	O
+a	O
+sweet	O
+outfit	O
+for	O
+$	O
+40	O
+.	O
+
+IMGID:O_3233
+harry	B-PER
+potter	I-PER
+,	O
+president	O
+of	O
+the	O
+romione	O
+fan	O
+club	O
+
+IMGID:16_05_24_1
+Recap	O
+:	O
+Oklahoma	B-ORG
+City	I-ORG
+Thunder	I-ORG
+thump	O
+Golden	B-ORG
+State	I-ORG
+Warriors	I-ORG
+to	O
+take	O
+3	O
+-	O
+1	O
+series	O
+lead	O
+in	O
+NBA	B-ORG
+…	O
+
+IMGID:O_1567
+Rio	B-PER
+Ferdinand	I-PER
+has	O
+revealed	O
+the	O
+best	O
+striker	O
+he	O
+ever	O
+played	O
+against	O
+.	O
+.	O
+
+IMGID:O_2331
+-	O
+NEW	O
+HQ	O
+PHOTOS	O
+-	O
+@	O
+ArianaGrande	B-PER
+performing	O
+at	O
+Jimmy	B-PER
+Kimmel	I-PER
+in	O
+Los	B-LOC
+Angelos	I-LOC
+!	O
+3	O
+
+IMGID:17_01_5292
+GIRLS	O
+BASKETBALL	O
+:	O
+Cheshire	B-ORG
+soldiers	O
+on	O
+without	O
+standout	O
+point	O
+guard	O
+
+IMGID:17_06_3231
+MT	O
+@	O
+Shanshero08	B-PER
+:	O
+Weather	O
+is	O
+getting	O
+warmer	O
+but	O
+want	O
+my	O
+#	O
+bluefamily	O
+to	O
+stay	O
+safe	O
+.	O
+
+IMGID:17_06_4227
+Game	O
+5	O
+kicks	O
+for	O
+the	O
+👑	O
+(	O
+via	O
+@	O
+Cavs	B-ORG
+)	O
+#	O
+NBAFinals	O
+
+IMGID:17_06_10730
+Great	O
+night	O
+for	O
+SSSF	B-MISC
+Short	I-MISC
+Film	I-MISC
+Festival	I-MISC
+in	O
+St	B-LOC
+Petersburg	I-LOC
+.	O
+Submit	O
+your	O
+film	O
+through	O
+Film	O
+Freeway	O
+.	O
+😊	O
+🎬	O
+
+IMGID:16_05_17_118
+@	O
+SacStBaseball	B-ORG
+getting	O
+ready	O
+for	O
+the	O
+first	O
+night	O
+game	O
+at	O
+John	B-LOC
+Smith	I-LOC
+Field	I-LOC
+!	O
+Come	O
+join	O
+us	O
+,	O
+stadium	O
+is	O
+filling	O
+up	O
+!	O
+
+IMGID:O_1347
+Missing	O
+Wayne	B-LOC
+County	O
+man	O
+back	O
+in	O
+jail	O
+after	O
+being	O
+on	O
+the	O
+run	O
+#	O
+Memphis	B-LOC
+
+IMGID:O_2901
+Happy	O
+Birthday	O
+to	O
+Manchester	B-ORG
+City	I-ORG
+hero	O
+Sergio	B-PER
+Agüero	I-PER
+,	O
+who	O
+turns	O
+29	O
+today	O
+!	O
+
+IMGID:O_1703
+Vicente	B-PER
+Fox	I-PER
+says	O
+he	O
+will	O
+only	O
+accept	O
+Donald	B-PER
+Trump	I-PER
+'	O
+s	O
+lunch	O
+invitation	O
+if	O
+Trump	B-PER
+apologizes	O
+
+IMGID:17_06_13021
+Hey	O
+!	O
+I	O
+'	O
+m	O
+playing	O
+this	O
+Basketball	O
+Quiz	O
+game	O
+.	O
+Any	O
+idea	O
+who	O
+this	O
+might	O
+be	O
+?	O
+
+IMGID:O_1090
+Blake	B-PER
+Shelton	I-PER
+says	O
+Gwen	B-PER
+Stefani	I-PER
+"	O
+saved	O
+my	O
+life	O
+"	O
+
+IMGID:O_3219
+Michelle	B-PER
+Obama	I-PER
+does	O
+what	O
+she	O
+does	O
+best	O
+(	O
+hugs	O
+)	O
+with	O
+Prince	B-PER
+Harry	I-PER
+
+IMGID:16_05_11_578
+Carnaval	O
+Grand	O
+Parade	O
+in	O
+San	B-LOC
+Francisco	I-LOC
+.	O
+.	O
+.	O
+Sunday	O
+May	O
+29	O
+th	O
+.	O
+.	O
+.	O
+see	O
+you	O
+there	O
+!	O
+
+IMGID:17_06_890
+I	O
+am	O
+so	O
+proud	O
+of	O
+you	O
+!	O
+!	O
+!	O
+Goodluck	O
+on	O
+your	O
+concert	O
+bub	O
+💖	O
+
+IMGID:17_06_4466
+Iggy	B-PER
+got	O
+it	O
+RT	O
+@	O
+iHitModelsRaw	O
+:	O
+Final	O
+MVP	O
+too	O
+RT	O
+@	O
+NO_TATS_B	O
+:	O
+NBA	B-ORG
+CHAMPION	O
+
+IMGID:16_05_14_396
+2016	O
+Cannes	B-MISC
+Film	I-MISC
+Festival	I-MISC
+:	O
+Stars	O
+Toast	O
+Nick	B-PER
+Broomfield	I-PER
+at	O
+Charles	O
+Finch	O
+Dinner	O
+
+IMGID:16_05_10_755
+Alex	B-PER
+vidal	I-PER
+and	O
+Ardan	B-PER
+turan	I-PER
+are	O
+included	O
+in	O
+d	O
+list	O
+of	O
+La	B-ORG
+Liga	I-ORG
+'	O
+s	O
+worst	O
+signings	O
+and	O
+worst	O
+players	O
+of	O
+this	O
+season	O
+
+IMGID:16_05_28_502
+NBA	B-ORG
+commissioner	O
+Adam	B-PER
+Silver	I-PER
+has	O
+issued	O
+a	O
+statement	O
+on	O
+the	O
+death	O
+of	O
+Bryce	B-PER
+DeJean	I-PER
+-	I-PER
+Jones	I-PER
+.	O
+
+IMGID:17_06_13301
+NBA	B-ORG
+Draft	O
+2017	O
+:	O
+5	O
+things	O
+you	O
+need	O
+to	O
+know	O
+about	O
+Markelle	B-PER
+Fultz	I-PER
+,	O
+Sixers	O
+No	O
+.	O
+1	O
+pick	O
+
+IMGID:16_05_31_167
+#	O
+NHLPlayoffs	O
+Carolina	B-ORG
+#	I-ORG
+Hurricanes	I-ORG
+Begin	O
+Contract	O
+Conversations	O
+with	O
+RFA	O
+Victor	B-PER
+Rask	I-PER
+
+IMGID:17_06_4722
+When	O
+you	O
+see	O
+David	B-PER
+West	I-PER
+practically	O
+kiss	O
+another	O
+man	O
+on	O
+the	O
+basketball	O
+court	O
+.	O
+#	O
+nbafinals17	O
+
+IMGID:O_3833
+Taylor	B-PER
+Swift	I-PER
+puts	O
+music	O
+back	O
+on	O
+streaming	O
+services	O
+
+IMGID:O_52
+RETWEET	O
+if	O
+you	O
+think	O
+Lady	B-PER
+Gaga	I-PER
+should	O
+be	O
+given	O
+the	O
+lead	O
+role	O
+for	O
+the	O
+new	O
+X	B-MISC
+-	I-MISC
+Men	I-MISC
+movie	O
+#	O
+Dazzler	O
+
+IMGID:16_05_26_752
+New	O
+Event	O
+:	O
+6	O
+th	O
+Annual	O
+Chicago	B-MISC
+Botanic	I-MISC
+Garden	I-MISC
+Art	I-MISC
+Festival	I-MISC
+
+IMGID:O_3130
+3	O
+greatest	O
+funk	O
+artists	O
+of	O
+all	O
+time	O
+-	O
+1	O
+.	O
+Sly	B-PER
+Stone	I-PER
+2	O
+.	O
+James	B-PER
+Brown	I-PER
+3	O
+.	O
+Prince	B-PER
+
+IMGID:O_3263
+Yoongi	B-PER
+trying	O
+to	O
+find	O
+new	O
+ways	O
+to	O
+say	O
+he	O
+walked	O
+past	O
+nicki	B-PER
+minaj	I-PER
+and	O
+lil	B-PER
+wayne	I-PER
+
+IMGID:16_05_20_707
+Thank	O
+you	O
+so	O
+much	O
+for	O
+coming	O
+to	O
+our	O
+CD	O
+release	O
+concert	O
+last	O
+Tuesday	O
+.	O
+I	O
+had	O
+a	O
+good	O
+time	O
+!	O
+
+IMGID:16_05_01_303
+My	O
+fave	O
+tennis	O
+star	O
+in	O
+basketball	O
+shoes	O
+🤗	O
+
+IMGID:16_05_01_723
+Spending	O
+my	O
+Sunday	O
+morning	O
+watching	O
+my	O
+favorite	O
+baseball	O
+player	O
+💙	O
+⚾	O
+️	O
+☘	O
+
+IMGID:16_05_09_1100
+a	O
+good	O
+day	O
+for	O
+sunbathing	O
+
+IMGID:16_05_01_627
+Earlier	O
+at	O
+the	O
+Parade	O
+with	O
+my	O
+Niece	O
+,	O
+we	O
+look	O
+like	O
+we	O
+'	O
+re	O
+ready	O
+for	O
+#	O
+StarWars	O
+lol	O
+
+IMGID:16_05_29_838
+#	O
+NFL	B-ORG
+New	B-ORG
+Orleans	I-ORG
+#	I-ORG
+Saints	I-ORG
+and	O
+Pelicans	B-ORG
+Tom	B-PER
+Benson	I-PER
+’	O
+s	O
+worst	O
+legal	O
+battle	O
+
+IMGID:16_05_03_49
+Kyrie	B-PER
+Irving	I-PER
+'	O
+s	O
+handshakes	O
+are	O
+in	O
+playoff	O
+form	O
+#	O
+nba	B-ORG
+
+IMGID:17_01_12430
+Great	O
+inspirational	O
+first	O
+day	O
+@	O
+MasterInnH	B-ORG
+#	O
+GMConf17	O
+@	O
+HiltonBankside	B-ORG
+Let	O
+'	O
+s	O
+do	O
+it	O
+all	O
+again	O
+tomorrow	O
+!	O
+
+IMGID:17_01_24530
+AFCON	B-MISC
+2017	O
+:	O
+Football	O
+enthusiasts	O
+select	O
+countries	O
+to	O
+support	O
+
